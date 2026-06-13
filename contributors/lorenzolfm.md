@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1128 | 🟢 open | 👀 reviewed | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 |  |
 | 1124 | 🟢 open | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 |  |
 | 1122 | ✅ merged | 👀 reviewed | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
 | 1118 | 🟢 open | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |

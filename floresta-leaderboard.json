@@ -6,7 +6,8 @@
     "authored_merged": 247,
     "reviewed": 362,
     "reviewed_merged": 309,
-    "merged_impact": 556
+    "merged_impact": 556,
+    "current_streak": 60
   },
   {
     "user": "JoseSK999",
@@ -15,7 +16,8 @@
     "authored_merged": 98,
     "reviewed": 177,
     "reviewed_merged": 160,
-    "merged_impact": 258
+    "merged_impact": 258,
+    "current_streak": 0
   },
   {
     "user": "jaoleal",
@@ -24,7 +26,8 @@
     "authored_merged": 58,
     "reviewed": 164,
     "reviewed_merged": 135,
-    "merged_impact": 193
+    "merged_impact": 193,
+    "current_streak": 1
   },
   {
     "user": "luisschwab",
@@ -33,7 +36,8 @@
     "authored_merged": 62,
     "reviewed": 81,
     "reviewed_merged": 73,
-    "merged_impact": 135
+    "merged_impact": 135,
+    "current_streak": 6
   },
   {
     "user": "qlrd",
@@ -42,7 +46,8 @@
     "authored_merged": 41,
     "reviewed": 20,
     "reviewed_merged": 18,
-    "merged_impact": 59
+    "merged_impact": 59,
+    "current_streak": 0
   },
   {
     "user": "moisesPompilio",
@@ -51,7 +56,8 @@
     "authored_merged": 15,
     "reviewed": 63,
     "reviewed_merged": 39,
-    "merged_impact": 54
+    "merged_impact": 54,
+    "current_streak": 0
   },
   {
     "user": "luca0x46",
@@ -60,7 +66,8 @@
     "authored_merged": 21,
     "reviewed": 19,
     "reviewed_merged": 18,
-    "merged_impact": 39
+    "merged_impact": 39,
+    "current_streak": 0
   },
   {
     "user": "csgui",
@@ -69,16 +76,18 @@
     "authored_merged": 6,
     "reviewed": 38,
     "reviewed_merged": 29,
-    "merged_impact": 35
+    "merged_impact": 35,
+    "current_streak": 0
   },
   {
     "user": "lorenzolfm",
     "avatar_url": "https://avatars.githubusercontent.com/u/38786333?v=4",
     "authored": 7,
     "authored_merged": 6,
-    "reviewed": 32,
+    "reviewed": 33,
     "reviewed_merged": 26,
-    "merged_impact": 32
+    "merged_impact": 32,
+    "current_streak": 0
   },
   {
     "user": "Gudnessuche",
@@ -87,7 +96,8 @@
     "authored_merged": 9,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 9
+    "merged_impact": 9,
+    "current_streak": 0
   },
   {
     "user": "Micah-Shallom",
@@ -96,7 +106,8 @@
     "authored_merged": 4,
     "reviewed": 10,
     "reviewed_merged": 4,
-    "merged_impact": 8
+    "merged_impact": 8,
+    "current_streak": 0
   },
   {
     "user": "lla-dane",
@@ -105,7 +116,8 @@
     "authored_merged": 6,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 7
+    "merged_impact": 7,
+    "current_streak": 0
   },
   {
     "user": "brunoerg",
@@ -114,7 +126,8 @@
     "authored_merged": 4,
     "reviewed": 4,
     "reviewed_merged": 3,
-    "merged_impact": 7
+    "merged_impact": 7,
+    "current_streak": 0
   },
   {
     "user": "a-moreira",
@@ -123,7 +136,8 @@
     "authored_merged": 4,
     "reviewed": 2,
     "reviewed_merged": 2,
-    "merged_impact": 6
+    "merged_impact": 6,
+    "current_streak": 0
   },
   {
     "user": "jaonoctus",
@@ -132,7 +146,8 @@
     "authored_merged": 2,
     "reviewed": 4,
     "reviewed_merged": 4,
-    "merged_impact": 6
+    "merged_impact": 6,
+    "current_streak": 0
   },
   {
     "user": "Guilospanck",
@@ -141,7 +156,8 @@
     "authored_merged": 4,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 4
+    "merged_impact": 4,
+    "current_streak": 0
   },
   {
     "user": "nyonson",
@@ -150,7 +166,8 @@
     "authored_merged": 3,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 4
+    "merged_impact": 4,
+    "current_streak": 0
   },
   {
     "user": "erickcestari",
@@ -159,7 +176,8 @@
     "authored_merged": 3,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 4
+    "merged_impact": 4,
+    "current_streak": 0
   },
   {
     "user": "joshdoman",
@@ -168,7 +186,8 @@
     "authored_merged": 3,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 3
+    "merged_impact": 3,
+    "current_streak": 0
   },
   {
     "user": "siddheshzz",
@@ -177,7 +196,8 @@
     "authored_merged": 3,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 3
+    "merged_impact": 3,
+    "current_streak": 0
   },
   {
     "user": "lucasbalieiro",
@@ -186,7 +206,8 @@
     "authored_merged": 2,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 3
+    "merged_impact": 3,
+    "current_streak": 0
   },
   {
     "user": "joaothallis",
@@ -195,7 +216,8 @@
     "authored_merged": 2,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 3
+    "merged_impact": 3,
+    "current_streak": 0
   },
   {
     "user": "unwrap-nicolas",
@@ -204,7 +226,8 @@
     "authored_merged": 1,
     "reviewed": 3,
     "reviewed_merged": 2,
-    "merged_impact": 3
+    "merged_impact": 3,
+    "current_streak": 0
   },
   {
     "user": "Edu92337",
@@ -213,7 +236,8 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "lordshashank",
@@ -222,16 +246,8 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
-  },
-  {
-    "user": "vikashsiwach",
-    "avatar_url": "https://avatars.githubusercontent.com/u/203649667?v=4",
-    "authored": 3,
-    "authored_merged": 2,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "kcalvinalvin",
@@ -240,16 +256,18 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
-    "user": "ItshMoh",
-    "avatar_url": "https://avatars.githubusercontent.com/u/121867882?v=4",
-    "authored": 2,
+    "user": "vikashsiwach",
+    "avatar_url": "https://avatars.githubusercontent.com/u/203649667?v=4",
+    "authored": 3,
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "lord2anil",
@@ -258,7 +276,8 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "cirqueira-labs",
@@ -267,7 +286,8 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "Husteem",
@@ -276,7 +296,18 @@
     "authored_merged": 2,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
+  },
+  {
+    "user": "ItshMoh",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121867882?v=4",
+    "authored": 2,
+    "authored_merged": 2,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "rustaceanrob",
@@ -285,7 +316,8 @@
     "authored_merged": 1,
     "reviewed": 3,
     "reviewed_merged": 1,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "Unique-Usman",
@@ -294,16 +326,8 @@
     "authored_merged": 1,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 2
-  },
-  {
-    "user": "douglaz",
-    "avatar_url": "https://avatars.githubusercontent.com/u/163706?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 1,
-    "reviewed_merged": 1,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "negrelle",
@@ -312,7 +336,18 @@
     "authored_merged": 1,
     "reviewed": 1,
     "reviewed_merged": 1,
-    "merged_impact": 2
+    "merged_impact": 2,
+    "current_streak": 0
+  },
+  {
+    "user": "douglaz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/163706?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 1,
+    "reviewed_merged": 1,
+    "merged_impact": 2,
+    "current_streak": 0
   },
   {
     "user": "Sandipmandal25",
@@ -321,16 +356,8 @@
     "authored_merged": 1,
     "reviewed": 1,
     "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "TheMhv",
-    "avatar_url": "https://avatars.githubusercontent.com/u/25031483?v=4",
-    "authored": 3,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "asmit27rai",
@@ -339,7 +366,18 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "TheMhv",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25031483?v=4",
+    "authored": 3,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "psg-19",
@@ -348,34 +386,8 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "OsauravO",
-    "avatar_url": "https://avatars.githubusercontent.com/u/123803605?v=4",
-    "authored": 2,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "joaozinhom",
-    "avatar_url": "https://avatars.githubusercontent.com/u/105161249?v=4",
-    "authored": 2,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "Antrikshgwal",
-    "avatar_url": "https://avatars.githubusercontent.com/u/153820464?v=4",
-    "authored": 2,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "starius",
@@ -384,7 +396,38 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "joaozinhom",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105161249?v=4",
+    "authored": 2,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "OsauravO",
+    "avatar_url": "https://avatars.githubusercontent.com/u/123803605?v=4",
+    "authored": 2,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "Antrikshgwal",
+    "avatar_url": "https://avatars.githubusercontent.com/u/153820464?v=4",
+    "authored": 2,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "orbitalturtle",
@@ -393,34 +436,8 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "mystical-prog",
-    "avatar_url": "https://avatars.githubusercontent.com/u/125946525?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "thgO-O",
-    "avatar_url": "https://avatars.githubusercontent.com/u/107907441?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "lukechilds",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2123375?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "lucasdbr05",
@@ -429,88 +446,18 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
-    "user": "vinny-pereira",
-    "avatar_url": "https://avatars.githubusercontent.com/u/142326456?v=4",
+    "user": "lukechilds",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2123375?v=4",
     "authored": 1,
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "hensou",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1756077?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "HalFinneyIsMyHomeBoy",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1430502?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "none34829",
-    "avatar_url": "https://avatars.githubusercontent.com/u/133172306?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "johnnyasantoss",
-    "avatar_url": "https://avatars.githubusercontent.com/u/14189387?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "prusnak",
-    "avatar_url": "https://avatars.githubusercontent.com/u/42201?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "lucasdcf",
-    "avatar_url": "https://avatars.githubusercontent.com/u/68931156?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "Vikaass-08",
-    "avatar_url": "https://avatars.githubusercontent.com/u/59832889?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
-  },
-  {
-    "user": "bitkarrot",
-    "avatar_url": "https://avatars.githubusercontent.com/u/73979971?v=4",
-    "authored": 1,
-    "authored_merged": 1,
-    "reviewed": 0,
-    "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
   },
   {
     "user": "muhahahmad68",
@@ -519,6 +466,117 @@
     "authored_merged": 1,
     "reviewed": 0,
     "reviewed_merged": 0,
-    "merged_impact": 1
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "HalFinneyIsMyHomeBoy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1430502?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "Vikaass-08",
+    "avatar_url": "https://avatars.githubusercontent.com/u/59832889?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "lucasdcf",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68931156?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "prusnak",
+    "avatar_url": "https://avatars.githubusercontent.com/u/42201?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "mystical-prog",
+    "avatar_url": "https://avatars.githubusercontent.com/u/125946525?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "thgO-O",
+    "avatar_url": "https://avatars.githubusercontent.com/u/107907441?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "none34829",
+    "avatar_url": "https://avatars.githubusercontent.com/u/133172306?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "hensou",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1756077?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "vinny-pereira",
+    "avatar_url": "https://avatars.githubusercontent.com/u/142326456?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "bitkarrot",
+    "avatar_url": "https://avatars.githubusercontent.com/u/73979971?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
+  },
+  {
+    "user": "johnnyasantoss",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14189387?v=4",
+    "authored": 1,
+    "authored_merged": 1,
+    "reviewed": 0,
+    "reviewed_merged": 0,
+    "merged_impact": 1,
+    "current_streak": 0
   }
 ]
