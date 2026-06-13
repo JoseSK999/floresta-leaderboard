@@ -160,7 +160,12 @@ def fetch_reviewers(
         reviewers: set[str] = set()
 
         for review in reviews:
-            login = review.get("user", {}).get("login")
+            if not isinstance(review, dict):
+                continue
+
+            # GitHub can return null users for deleted/ghost accounts.
+            # Skip them instead of attributing them to a fake aggregate user.
+            login = (review.get("user") or {}).get("login")
             if login:
                 reviewers.add(login)
 
@@ -182,7 +187,8 @@ def is_bot(login: str) -> bool:
 
 
 def pr_author(pr: dict[str, Any]) -> str:
-    return pr.get("user", {}).get("login", "")
+    # Deleted/ghost users may appear as null in GitHub API responses.
+    return (pr.get("user") or {}).get("login", "")
 
 
 def pr_link(pr: dict[str, Any]) -> str:
@@ -356,7 +362,10 @@ def build_leaderboard(
 
         if author in eligible_users:
             if not stats[author]["avatar_url"]:
-                stats[author]["avatar_url"] = pr.get("user", {}).get("avatar_url", "")
+                # Same null-user guard as pr_author(); normally present for eligible authors.
+                stats[author]["avatar_url"] = (pr.get("user") or {}).get(
+                    "avatar_url", ""
+                )
 
             stats[author]["authored"] += 1
 
