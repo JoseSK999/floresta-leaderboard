@@ -231,6 +231,30 @@ def current_attention_streak(
     return streak
 
 
+def current_impact_streak_for_user(
+    user: str,
+    merged_prs: list[dict[str, Any]],
+    reviewers_by_pr: dict[int, set[str]],
+) -> int:
+    user_lc = user.lower()
+    streak = 0
+
+    for pr in merged_prs:
+        number = int(pr["number"])
+        is_author = pr_author(pr).lower() == user_lc
+        is_reviewer = any(
+            reviewer.lower() == user_lc
+            for reviewer in reviewers_by_pr.get(number, set())
+        )
+
+        if is_author or is_reviewer:
+            streak += 1
+        else:
+            break
+
+    return streak
+
+
 def project_name(repo: str) -> str:
     return repo.split("/", 1)[1]
 
@@ -349,6 +373,7 @@ def build_leaderboard(
             "reviewed": 0,
             "reviewed_merged": 0,
             "merged_impact": 0,
+            "current_streak": 0,
         }
     )
 
@@ -386,7 +411,20 @@ def build_leaderboard(
                 stats[reviewer]["reviewed_merged"] += 1
                 stats[reviewer]["merged_impact"] += 1
 
+    merged_prs = sorted(
+        [pr for pr in prs if is_merged(pr)],
+        key=lambda pr: pr.get("merged_at") or "",
+        reverse=True,
+    )
+
     rows = list(stats.values())
+
+    for row in rows:
+        row["current_streak"] = current_impact_streak_for_user(
+            row["user"],
+            merged_prs,
+            reviewers_by_pr,
+        )
 
     rows.sort(
         key=lambda row: (
@@ -453,6 +491,39 @@ def write_leaderboard(
     lines.append(
         "Click a contributor name to open their detailed report. Click the avatar to open their GitHub profile."
     )
+    lines.append("")
+
+    streak_rows = sorted(
+        [row for row in rows if row["current_streak"] > 0],
+        key=lambda row: (
+            row["current_streak"],
+            row["merged_impact"],
+            row["authored_merged"],
+            row["reviewed_merged"],
+        ),
+        reverse=True,
+    )
+
+    lines.append("## Current impact streaks")
+    lines.append("")
+    lines.append(
+        "Consecutive newest merged PRs authored or formally reviewed by each contributor."
+    )
+    lines.append("")
+    lines.append("| Rank | Contributor | Current streak | Merged impact |")
+    lines.append("|---:|---|---:|---:|")
+
+    for rank, row in enumerate(streak_rows, start=1):
+        user = row["user"]
+        report_url = f"contributors/{user}.md"
+        lines.append(
+            f"| {rank_label(rank)} | {contributor_cell(user, row['avatar_url'], report_url)} | "
+            f"🔥 **{row['current_streak']}** | "
+            f"{row['merged_impact']} |"
+        )
+
+    lines.append("")
+    lines.append("## Full history leaderboard")
     lines.append("")
     lines.append(
         "| Rank | Contributor | Merged impact | Merged authored | Merged reviewed | Total authored | Total reviewed |"
