@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-12
+- Generated: 2026-06-13
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1128 | 🟢 open | ✍️ author | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 |  |
 | 1118 | 🟢 open | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1105 | 📝 draft | ✍️ author | [#1105 — [WIP] feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1085 | 🟢 open | 👀 reviewed | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |

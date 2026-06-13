@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-12
+- Generated: 2026-06-13
 
 ## Summary
 
@@ -89,6 +89,7 @@ Ordered newest first by PR number.
 | 910 | ✅ merged | 👀 reviewed | [#910 — add 2026 Floresta tech strategy and roadmap](https://github.com/getfloresta/Floresta/pull/910) | 2026-03-20 | 2026-04-06 |
 | 902 | ✅ merged | 👀 reviewed | [#902 — Extract logger setup into it's own module and implement `ShortTargetFormatter` ](https://github.com/getfloresta/Floresta/pull/902) | 2026-03-18 | 2026-04-13 |
 | 898 | ✅ merged | 👀 reviewed | [#898 — Implement a minimal `Daemon` and drop `daemonize`](https://github.com/getfloresta/Floresta/pull/898) | 2026-03-15 | 2026-03-18 |
+| 897 | 🟢 open | 👀 reviewed | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) | 2026-03-15 |  |
 | 893 | ✅ merged | 👀 reviewed | [#893 — Relicense this project under dual MIT OR Apache-2.0](https://github.com/getfloresta/Floresta/pull/893) | 2026-03-14 | 2026-03-17 |
 | 892 | ❌ closed | 👀 reviewed | [#892 — feat(wire): implement BanMan for centralized ban management](https://github.com/getfloresta/Floresta/pull/892) | 2026-03-14 | 2026-04-02 |
 | 891 | 🟢 open | ✍️ author | [#891 — Feat: move two-step shell script into `test_runner.py`](https://github.com/getfloresta/Floresta/pull/891) | 2026-03-13 |  |

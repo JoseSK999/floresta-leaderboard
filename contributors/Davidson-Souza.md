@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-12
+- Generated: 2026-06-13
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1129 | 🟢 open | ✍️ author | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 |  |
 | 1127 | ✅ merged | 👀 reviewed | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |
 | 1126 | ✅ merged | ✍️ author | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) | 2026-06-09 | 2026-06-09 |
 | 1125 | ✅ merged | 👀 reviewed | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) | 2026-06-09 | 2026-06-10 |

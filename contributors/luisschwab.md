@@ -1,7 +1,7 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-12
+- Generated: 2026-06-13
 
 ## Summary
 
@@ -22,6 +22,7 @@ Ordered newest first by PR number.
 | 1127 | ✅ merged | 👀 reviewed | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |
 | 1126 | ✅ merged | 👀 reviewed | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) | 2026-06-09 | 2026-06-09 |
 | 1125 | ✅ merged | ✍️ author | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) | 2026-06-09 | 2026-06-10 |
+| 1124 | 🟢 open | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 |  |
 | 1122 | ✅ merged | ✍️ author | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
 | 1112 | ✅ merged | 👀 reviewed | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
 | 1104 | ✅ merged | ✍️ author | [#1104 — Add ShellCheck to CI and fix audit findings](https://github.com/getfloresta/Floresta/pull/1104) | 2026-05-29 | 2026-06-05 |
