@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1132 | 🟢 open | ✍️ author | [#1132 — docs(cli): document gettransaction, gettxoutproof, and findtxout RPCs](https://github.com/getfloresta/Floresta/pull/1132) | 2026-06-15 |  |
 | 1028 | ✅ merged | ✍️ author | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
 | 1027 | ✅ merged | ✍️ author | [#1027 — docs(cli): document ping and stop RPCs](https://github.com/getfloresta/Floresta/pull/1027) | 2026-05-05 | 2026-05-21 |
 
