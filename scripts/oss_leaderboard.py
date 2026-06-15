@@ -450,14 +450,22 @@ def rank_label(rank: int) -> str:
     return str(rank)
 
 
-def merged_reviewed_cell(row: dict[str, Any]) -> str:
+def review_share_badge(row: dict[str, Any]) -> str:
     merged_impact = row["merged_impact"]
 
     if merged_impact == 0:
-        return f"{row['reviewed_merged']} (`0%`)"
+        percent = 0
+    else:
+        percent = int((row["reviewed_merged"] / merged_impact) * 100 + 0.5)
 
-    share = row["reviewed_merged"] / merged_impact
-    return f"{row['reviewed_merged']} (`{share:.0%}`)"
+    if 45 <= percent <= 55:
+        color = "yellow"
+    elif percent > 55:
+        color = "brightgreen"
+    else:
+        color = "red"
+
+    return f"![{percent}%](https://img.shields.io/badge/-{percent}%25-{color})"
 
 
 def contributor_cell(user: str, avatar_url: str, report_url: str | None = None) -> str:
@@ -536,22 +544,23 @@ def write_leaderboard(
     lines.append("## Full history leaderboard")
     lines.append("")
     lines.append(
-        "In the *Merged reviewed* column, the percentage shows how much of that contributor's merged impact came from reviews."
+        "*Review share* shows how much of each contributor's merged impact came from reviews."
     )
     lines.append("")
     lines.append(
-        "| Rank | Contributor | Merged impact | Merged authored | Merged reviewed | Total authored | Total reviewed |"
+        "| Rank | Contributor | Merged impact | Merged authored | Merged reviewed | Review share | Total authored | Total reviewed |"
     )
-    lines.append("|---:|---|---:|---:|---:|---:|---:|")
+    lines.append("|---:|---|---:|---:|---:|---:|---:|---:|")
 
     for rank, row in enumerate(rows, start=1):
         user = row["user"]
         report_url = f"contributors/{user}.md"
         lines.append(
             f"| {rank_label(rank)} | {contributor_cell(user, row['avatar_url'], report_url)} | "
-            f"{row['merged_impact']} | "
+            f"**{row['merged_impact']}** | "
             f"{row['authored_merged']} | "
-            f"{merged_reviewed_cell(row)} | "
+            f"{row['reviewed_merged']} | "
+            f"{review_share_badge(row)} | "
             f"{row['authored']} | "
             f"{row['reviewed']} |"
         )
