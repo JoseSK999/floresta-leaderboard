@@ -450,14 +450,14 @@ def rank_label(rank: int) -> str:
     return str(rank)
 
 
-def merged_impact_share_cell(row: dict[str, Any], key: str) -> str:
+def merged_reviewed_cell(row: dict[str, Any]) -> str:
     merged_impact = row["merged_impact"]
 
     if merged_impact == 0:
-        return f"{row[key]} (`0%`)"
+        return f"{row['reviewed_merged']} (`0%`)"
 
-    share = row[key] / merged_impact
-    return f"{row[key]} (`{share:.0%}`)"
+    share = row["reviewed_merged"] / merged_impact
+    return f"{row['reviewed_merged']} (`{share:.0%}`)"
 
 
 def contributor_cell(user: str, avatar_url: str, report_url: str | None = None) -> str:
@@ -536,7 +536,7 @@ def write_leaderboard(
     lines.append("## Full history leaderboard")
     lines.append("")
     lines.append(
-        "Merged authored and merged reviewed show each contributor's split of their total merged impact."
+        "In the *Merged reviewed* column, the percentage shows how much of that contributor's merged impact came from reviews."
     )
     lines.append("")
     lines.append(
@@ -550,8 +550,8 @@ def write_leaderboard(
         lines.append(
             f"| {rank_label(rank)} | {contributor_cell(user, row['avatar_url'], report_url)} | "
             f"{row['merged_impact']} | "
-            f"{merged_impact_share_cell(row, 'authored_merged')} | "
-            f"{merged_impact_share_cell(row, 'reviewed_merged')} | "
+            f"{row['authored_merged']} | "
+            f"{merged_reviewed_cell(row)} | "
             f"{row['authored']} | "
             f"{row['reviewed']} |"
         )
