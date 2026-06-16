@@ -1,13 +1,13 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-15
+- Generated: 2026-06-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 647 |
+| ✅ Project merged PRs | 651 |
 | 🎯 Merged PRs with my impact | 32 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -41,6 +41,7 @@ Ordered newest first by PR number.
 | 1065 | ✅ merged | 👀 reviewed | [#1065 — ci: don't fail on SSH signatures](https://github.com/getfloresta/Floresta/pull/1065) | 2026-05-15 | 2026-05-20 |
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
 | 1059 | ✅ merged | 👀 reviewed | [#1059 — wire: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1059) | 2026-05-14 | 2026-05-18 |
+| 1057 | 🟢 open | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 |  |
 | 1056 | ✅ merged | 👀 reviewed | [#1056 — fix(flake): remove gcc from devshell.](https://github.com/getfloresta/Floresta/pull/1056) | 2026-05-13 | 2026-05-15 |
 | 1050 | ✅ merged | 👀 reviewed | [#1050 — Add Zizmor to CI and fix audit warnings](https://github.com/getfloresta/Floresta/pull/1050) | 2026-05-12 | 2026-05-18 |
 | 1044 | ✅ merged | 👀 reviewed | [#1044 — chain: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1044) | 2026-05-11 | 2026-05-12 |
@@ -66,6 +67,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
+| 2026-06-15 | 1088 | — no | — | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
+| 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
+| 2026-06-15 | 1129 | — no | — | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) |
 | 2026-06-11 | 1127 | — no | — | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) |
 | 2026-06-10 | 1125 | — no | — | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) |
 | 2026-06-09 | 1126 | — no | — | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) |

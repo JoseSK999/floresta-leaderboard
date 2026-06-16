@@ -1,14 +1,14 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-15
+- Generated: 2026-06-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 647 |
-| 🎯 Merged PRs with my impact | 54 |
+| ✅ Project merged PRs | 651 |
+| 🎯 Merged PRs with my impact | 55 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -23,7 +23,7 @@ Ordered newest first by PR number.
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
 | 1095 | 🟢 open | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 |  |
 | 1091 | 🟢 open | ✍️ author | [#1091 — Add Electrum coverage and wait_until helpers](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
-| 1088 | 🟢 open | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 |  |
+| 1088 | ✅ merged | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
 | 1077 | ✅ merged | 👀 reviewed | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) | 2026-05-20 | 2026-05-27 |
 | 1071 | ✅ merged | 👀 reviewed | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
@@ -112,6 +112,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
+| 2026-06-15 | 1088 | ✅ yes | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
+| 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
+| 2026-06-15 | 1129 | — no | — | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) |
 | 2026-06-11 | 1127 | — no | — | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) |
 | 2026-06-10 | 1125 | — no | — | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) |
 | 2026-06-09 | 1126 | — no | — | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) |

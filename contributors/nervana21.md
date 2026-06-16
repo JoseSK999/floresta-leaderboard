@@ -1,4 +1,4 @@
-# @joaozinhom impact report
+# @nervana21 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-06-16
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 651 |
 | 🎯 Merged PRs with my impact | 1 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,8 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 731 | ✅ merged | ✍️ author | [#731 — stop with read ports from the logfiles](https://github.com/getfloresta/Floresta/pull/731) | 2025-12-15 | 2026-01-08 |
-| 671 | 📝 draft | ✍️ author | [#671 — Refact test runner](https://github.com/getfloresta/Floresta/pull/671) | 2025-10-12 | 2026-02-12 |
+| 1130 | ✅ merged | ✍️ author | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) | 2026-06-13 | 2026-06-15 |
+| 1123 | ❌ closed | ✍️ author | [#1123 — [Enhancement] Private Broadcast over Tor](https://github.com/getfloresta/Floresta/pull/1123) | 2026-06-07 | 2026-06-08 |
 
 ## All merged PRs
 
@@ -28,7 +28,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
+| 2026-06-15 | 1130 | ✅ yes | ✍️ author | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
 | 2026-06-15 | 1088 | — no | — | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
 | 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
 | 2026-06-15 | 1129 | — no | — | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) |
@@ -174,7 +174,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-01-11 | 741 | — no | — | [#741 — feat(nix flake): Update floresta build that supports bitcoin kernel and re export packages](https://github.com/getfloresta/Floresta/pull/741) |
 | 2026-01-10 | 765 | — no | — | [#765 — add SECURITY.md](https://github.com/getfloresta/Floresta/pull/765) |
 | 2026-01-09 | 764 | — no | — | [#764 — chore: Update the emails to our new institutional ones ](https://github.com/getfloresta/Floresta/pull/764) |
-| 2026-01-08 | 731 | ✅ yes | ✍️ author | [#731 — stop with read ports from the logfiles](https://github.com/getfloresta/Floresta/pull/731) |
+| 2026-01-08 | 731 | — no | — | [#731 — stop with read ports from the logfiles](https://github.com/getfloresta/Floresta/pull/731) |
 | 2026-01-08 | 762 | — no | — | [#762 — Update Floresta framing in README.md](https://github.com/getfloresta/Floresta/pull/762) |
 | 2026-01-06 | 734 | — no | — | [#734 — Enhance Functional Testing: Daemon Startup Validation, Log Improvements, and Test Restart Refactoring](https://github.com/getfloresta/Floresta/pull/734) |
 | 2026-01-06 | 759 | — no | — | [#759 — Chore(RPC): Improve Error Messaging for Invalid Descriptors in loaddescriptor RPC](https://github.com/getfloresta/Floresta/pull/759) |

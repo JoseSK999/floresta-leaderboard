@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-15
+- Generated: 2026-06-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 647 |
-| 🎯 Merged PRs with my impact | 193 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 651 |
+| 🎯 Merged PRs with my impact | 196 |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1131 | 🟢 open | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 |  |
+| 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
+| 1129 | ✅ merged | 👀 reviewed | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 | 2026-06-15 |
 | 1127 | ✅ merged | ✍️ author | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |
 | 1126 | ✅ merged | 👀 reviewed | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) | 2026-06-09 | 2026-06-09 |
 | 1119 | ❌ closed | ✍️ author | [#1119 — Chain switch tooling](https://github.com/getfloresta/Floresta/pull/1119) | 2026-06-03 | 2026-06-03 |
@@ -32,7 +33,7 @@ Ordered newest first by PR number.
 | 1096 | ✅ merged | 👀 reviewed | [#1096 — refactor: move `try_and_*` to `common`](https://github.com/getfloresta/Floresta/pull/1096) | 2026-05-27 | 2026-05-28 |
 | 1095 | 🟢 open | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 |  |
 | 1093 | ✅ merged | 👀 reviewed | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |
-| 1088 | 🟢 open | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 |  |
+| 1088 | ✅ merged | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
 | 1085 | 🟢 open | ✍️ author | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |
 | 1080 | ✅ merged | 👀 reviewed | [#1080 — rpc/cli: use `PathBuf`](https://github.com/getfloresta/Floresta/pull/1080) | 2026-05-22 | 2026-05-26 |
@@ -287,6 +288,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
+| 2026-06-15 | 1088 | ✅ yes | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
+| 2026-06-15 | 1131 | ✅ yes | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
+| 2026-06-15 | 1129 | ✅ yes | 👀 reviewed | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) |
 | 2026-06-11 | 1127 | ✅ yes | ✍️ author | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) |
 | 2026-06-10 | 1125 | — no | — | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) |
 | 2026-06-09 | 1126 | ✅ yes | 👀 reviewed | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) |

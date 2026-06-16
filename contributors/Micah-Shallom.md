@@ -1,13 +1,13 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-15
+- Generated: 2026-06-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 647 |
+| ✅ Project merged PRs | 651 |
 | 🎯 Merged PRs with my impact | 8 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -22,6 +22,7 @@ Ordered newest first by PR number.
 | 1128 | 🟢 open | ✍️ author | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 |  |
 | 1118 | 🟢 open | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 🟢 open | 👀 reviewed | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
+| 1114 | 🟢 open | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
 | 1105 | 📝 draft | ✍️ author | [#1105 — [WIP] feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1085 | 🟢 open | 👀 reviewed | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |
 | 1071 | ✅ merged | ✍️ author | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
@@ -53,6 +54,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
+| 2026-06-15 | 1088 | — no | — | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
+| 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
+| 2026-06-15 | 1129 | — no | — | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) |
 | 2026-06-11 | 1127 | — no | — | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) |
 | 2026-06-10 | 1125 | — no | — | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) |
 | 2026-06-09 | 1126 | — no | — | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) |
