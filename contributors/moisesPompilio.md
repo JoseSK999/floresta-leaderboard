@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-16
+- Generated: 2026-06-17
 
 ## Summary
 
@@ -66,6 +66,7 @@ Ordered newest first by PR number.
 | 879 | ✅ merged | 👀 reviewed | [#879 — chore: implement Display for error types](https://github.com/getfloresta/Floresta/pull/879) | 2026-03-10 | 2026-05-27 |
 | 855 | ✅ merged | 👀 reviewed | [#855 — Remove `MAX_BLOCK_WEIGHT` in favor of `bitcoin::blockdata::Weight::MAX_BLOCK`](https://github.com/getfloresta/Floresta/pull/855) | 2026-02-23 | 2026-02-24 |
 | 849 | ❌ closed | 👀 reviewed | [#849 — fix(test): clean big files on `clean` recipe](https://github.com/getfloresta/Floresta/pull/849) | 2026-02-17 | 2026-03-16 |
+| 837 | 📝 draft | 👀 reviewed | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 |  |
 | 831 | ✅ merged | 👀 reviewed | [#831 — rpcserver: Support named and null parameters, Review optionals on rpc internal methods, Stronger Response and Error codes](https://github.com/getfloresta/Floresta/pull/831) | 2026-02-06 | 2026-06-02 |
 | 826 | ✅ merged | 👀 reviewed | [#826 — cleanup test directories before running tests](https://github.com/getfloresta/Floresta/pull/826) | 2026-02-04 | 2026-02-10 |
 | 821 | ✅ merged | ✍️ author | [#821 — Add Wallet Integration Tests and Fix Descriptor Persistence Issues](https://github.com/getfloresta/Floresta/pull/821) | 2026-02-02 | 2026-05-11 |

@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-16
+- Generated: 2026-06-17
 
 ## Summary
 
@@ -23,7 +23,7 @@ Ordered newest first by PR number.
 | 1118 | 🟢 open | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 🟢 open | 👀 reviewed | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1114 | 🟢 open | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
-| 1105 | 📝 draft | ✍️ author | [#1105 — [WIP] feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
+| 1105 | 🟢 open | ✍️ author | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1085 | 🟢 open | 👀 reviewed | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |
 | 1071 | ✅ merged | ✍️ author | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
