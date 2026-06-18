@@ -1,14 +1,14 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-17
+- Generated: 2026-06-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 651 |
-| 🎯 Merged PRs with my impact | 196 |
+| ✅ Project merged PRs | 658 |
+| 🎯 Merged PRs with my impact | 201 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -23,6 +23,7 @@ Ordered newest first by PR number.
 | 1129 | ✅ merged | 👀 reviewed | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 | 2026-06-15 |
 | 1127 | ✅ merged | ✍️ author | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |
 | 1126 | ✅ merged | 👀 reviewed | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) | 2026-06-09 | 2026-06-09 |
+| 1124 | ✅ merged | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1119 | ❌ closed | ✍️ author | [#1119 — Chain switch tooling](https://github.com/getfloresta/Floresta/pull/1119) | 2026-06-03 | 2026-06-03 |
 | 1118 | 🟢 open | ✍️ author | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 🟢 open | ✍️ author | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
@@ -31,7 +32,7 @@ Ordered newest first by PR number.
 | 1113 | 🟢 open | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 |  |
 | 1112 | ✅ merged | ✍️ author | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
 | 1096 | ✅ merged | 👀 reviewed | [#1096 — refactor: move `try_and_*` to `common`](https://github.com/getfloresta/Floresta/pull/1096) | 2026-05-27 | 2026-05-28 |
-| 1095 | 🟢 open | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 |  |
+| 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1093 | ✅ merged | 👀 reviewed | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |
 | 1088 | ✅ merged | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
@@ -46,7 +47,7 @@ Ordered newest first by PR number.
 | 1064 | ✅ merged | ✍️ author | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
 | 1061 | ✅ merged | 👀 reviewed | [#1061 — feat(wire): disconnect slowest peers in `SyncNode`](https://github.com/getfloresta/Floresta/pull/1061) | 2026-05-14 | 2026-06-03 |
 | 1059 | ✅ merged | 👀 reviewed | [#1059 — wire: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1059) | 2026-05-14 | 2026-05-18 |
-| 1057 | 🟢 open | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 |  |
+| 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1056 | ✅ merged | ✍️ author | [#1056 — fix(flake): remove gcc from devshell.](https://github.com/getfloresta/Floresta/pull/1056) | 2026-05-13 | 2026-05-15 |
 | 1050 | ✅ merged | 👀 reviewed | [#1050 — Add Zizmor to CI and fix audit warnings](https://github.com/getfloresta/Floresta/pull/1050) | 2026-05-12 | 2026-05-18 |
 | 1048 | ✅ merged | 👀 reviewed | [#1048 — Add CI job to check for unsigned commits](https://github.com/getfloresta/Floresta/pull/1048) | 2026-05-12 | 2026-05-12 |
@@ -78,7 +79,7 @@ Ordered newest first by PR number.
 | 960 | 📝 draft | ✍️ author | [#960 — Chore: add linters and formatters para Dockerfile, justfile, TOMLs and sh scripts.](https://github.com/getfloresta/Floresta/pull/960) | 2026-04-15 |  |
 | 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
 | 955 | ✅ merged | 👀 reviewed | [#955 — chore: backport #942 for 0.9.x](https://github.com/getfloresta/Floresta/pull/955) | 2026-04-14 | 2026-04-14 |
-| 948 | 🟢 open | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 |  |
+| 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 942 | ✅ merged | 👀 reviewed | [#942 — fix(wire): Don't request the same block twice](https://github.com/getfloresta/Floresta/pull/942) | 2026-04-07 | 2026-04-10 |
 | 941 | ✅ merged | 👀 reviewed | [#941 — [0.9.x] Backport #930](https://github.com/getfloresta/Floresta/pull/941) | 2026-04-07 | 2026-04-08 |
 | 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
@@ -91,7 +92,7 @@ Ordered newest first by PR number.
 | 910 | ✅ merged | 👀 reviewed | [#910 — add 2026 Floresta tech strategy and roadmap](https://github.com/getfloresta/Floresta/pull/910) | 2026-03-20 | 2026-04-06 |
 | 902 | ✅ merged | 👀 reviewed | [#902 — Extract logger setup into it's own module and implement `ShortTargetFormatter` ](https://github.com/getfloresta/Floresta/pull/902) | 2026-03-18 | 2026-04-13 |
 | 898 | ✅ merged | 👀 reviewed | [#898 — Implement a minimal `Daemon` and drop `daemonize`](https://github.com/getfloresta/Floresta/pull/898) | 2026-03-15 | 2026-03-18 |
-| 897 | 🟢 open | 👀 reviewed | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) | 2026-03-15 |  |
+| 897 | ✅ merged | 👀 reviewed | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) | 2026-03-15 | 2026-06-17 |
 | 893 | ✅ merged | 👀 reviewed | [#893 — Relicense this project under dual MIT OR Apache-2.0](https://github.com/getfloresta/Floresta/pull/893) | 2026-03-14 | 2026-03-17 |
 | 892 | ❌ closed | 👀 reviewed | [#892 — feat(wire): implement BanMan for centralized ban management](https://github.com/getfloresta/Floresta/pull/892) | 2026-03-14 | 2026-04-02 |
 | 891 | 🟢 open | ✍️ author | [#891 — Feat: move two-step shell script into `test_runner.py`](https://github.com/getfloresta/Floresta/pull/891) | 2026-03-13 |  |
@@ -288,6 +289,13 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-18 | 1134 | — no | — | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
+| 2026-06-17 | 1057 | ✅ yes | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
+| 2026-06-17 | 897 | ✅ yes | 👀 reviewed | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |
+| 2026-06-17 | 1124 | ✅ yes | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) |
+| 2026-06-17 | 1095 | ✅ yes | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) |
+| 2026-06-17 | 1128 | — no | — | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) |
+| 2026-06-17 | 948 | ✅ yes | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) |
 | 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
 | 2026-06-15 | 1088 | ✅ yes | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
 | 2026-06-15 | 1131 | ✅ yes | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |

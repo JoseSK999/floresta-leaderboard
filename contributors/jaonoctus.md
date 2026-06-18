@@ -1,13 +1,13 @@
 # @jaonoctus impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-17
+- Generated: 2026-06-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 651 |
+| ✅ Project merged PRs | 658 |
 | 🎯 Merged PRs with my impact | 6 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -32,6 +32,13 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-18 | 1134 | — no | — | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
+| 2026-06-17 | 1057 | — no | — | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
+| 2026-06-17 | 897 | — no | — | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |
+| 2026-06-17 | 1124 | — no | — | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) |
+| 2026-06-17 | 1095 | — no | — | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) |
+| 2026-06-17 | 1128 | — no | — | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) |
+| 2026-06-17 | 948 | — no | — | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) |
 | 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
 | 2026-06-15 | 1088 | — no | — | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
 | 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |

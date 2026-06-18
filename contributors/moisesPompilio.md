@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-17
+- Generated: 2026-06-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 651 |
-| 🎯 Merged PRs with my impact | 55 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 658 |
+| 🎯 Merged PRs with my impact | 60 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,9 +19,11 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1134 | ✅ merged | ✍️ author | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) | 2026-06-17 | 2026-06-18 |
 | 1116 | ✅ merged | 👀 reviewed | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
+| 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
-| 1095 | 🟢 open | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 |  |
+| 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1091 | 🟢 open | ✍️ author | [#1091 — Add Electrum coverage and wait_until helpers](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
 | 1088 | ✅ merged | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
@@ -30,6 +32,7 @@ Ordered newest first by PR number.
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
 | 1067 | 🟢 open | ✍️ author | [#1067 — [REFACTOR][RPC] Centralize RPC traits and method names](https://github.com/getfloresta/Floresta/pull/1067) | 2026-05-15 |  |
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
+| 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1048 | ✅ merged | 👀 reviewed | [#1048 — Add CI job to check for unsigned commits](https://github.com/getfloresta/Floresta/pull/1048) | 2026-05-12 | 2026-05-12 |
 | 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
 | 1028 | ✅ merged | 👀 reviewed | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
@@ -47,7 +50,7 @@ Ordered newest first by PR number.
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 966 | ✅ merged | 👀 reviewed | [#966 — Implement `Display` & `Error` for error enums](https://github.com/getfloresta/Floresta/pull/966) | 2026-04-17 | 2026-04-27 |
 | 950 | 📝 draft | ✍️ author | [#950 — [POC BDK] Introduce modular trait-based watch-only wallet architecture](https://github.com/getfloresta/Floresta/pull/950) | 2026-04-09 |  |
-| 948 | 🟢 open | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 |  |
+| 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 937 | ✅ merged | 👀 reviewed | [#937 — fix(chain,compact-filters): replace Debug delegation in Display impls with per-variant messages](https://github.com/getfloresta/Floresta/pull/937) | 2026-04-04 | 2026-05-25 |
 | 936 | ❌ closed | 👀 reviewed | [#936 — fix: improve reorganization logic to defer reorg](https://github.com/getfloresta/Floresta/pull/936) | 2026-04-04 | 2026-05-19 |
 | 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
@@ -58,7 +61,7 @@ Ordered newest first by PR number.
 | 913 | ✅ merged | 👀 reviewed | [#913 — rpc: implement getconnectioncount](https://github.com/getfloresta/Floresta/pull/913) | 2026-03-22 | 2026-04-08 |
 | 910 | ✅ merged | 👀 reviewed | [#910 — add 2026 Floresta tech strategy and roadmap](https://github.com/getfloresta/Floresta/pull/910) | 2026-03-20 | 2026-04-06 |
 | 908 | ✅ merged | 👀 reviewed | [#908 — Add `SUPPORTED_NETWORKS` constant](https://github.com/getfloresta/Floresta/pull/908) | 2026-03-19 | 2026-03-23 |
-| 897 | 🟢 open | ✍️ author | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) | 2026-03-15 |  |
+| 897 | ✅ merged | ✍️ author | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) | 2026-03-15 | 2026-06-17 |
 | 891 | 🟢 open | 👀 reviewed | [#891 — Feat: move two-step shell script into `test_runner.py`](https://github.com/getfloresta/Floresta/pull/891) | 2026-03-13 |  |
 | 882 | ✅ merged | 👀 reviewed | [#882 — chore: bump rustreexo](https://github.com/getfloresta/Floresta/pull/882) | 2026-03-11 | 2026-03-17 |
 | 881 | 📝 draft | 👀 reviewed | [#881 — Fix a bug in invalidateblock. Add Test rpcs,  invalidateblock and submitheader.](https://github.com/getfloresta/Floresta/pull/881) | 2026-03-10 | 2026-06-05 |
@@ -113,6 +116,13 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-18 | 1134 | ✅ yes | ✍️ author | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
+| 2026-06-17 | 1057 | ✅ yes | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
+| 2026-06-17 | 897 | ✅ yes | ✍️ author | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |
+| 2026-06-17 | 1124 | — no | — | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) |
+| 2026-06-17 | 1095 | ✅ yes | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) |
+| 2026-06-17 | 1128 | — no | — | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) |
+| 2026-06-17 | 948 | ✅ yes | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) |
 | 2026-06-15 | 1130 | — no | — | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) |
 | 2026-06-15 | 1088 | ✅ yes | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) |
 | 2026-06-15 | 1131 | — no | — | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) |
