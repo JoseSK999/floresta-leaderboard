@@ -1,7 +1,7 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-18
+- Generated: 2026-06-19
 
 ## Summary
 
@@ -22,6 +22,7 @@ Ordered newest first by PR number.
 | 1125 | ✅ merged | 👀 reviewed | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) | 2026-06-09 | 2026-06-10 |
 | 1124 | ✅ merged | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1122 | ✅ merged | 👀 reviewed | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
+| 1113 | 🟢 open | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 |  |
 | 1104 | ✅ merged | 👀 reviewed | [#1104 — Add ShellCheck to CI and fix audit findings](https://github.com/getfloresta/Floresta/pull/1104) | 2026-05-29 | 2026-06-05 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1057 | ✅ merged | ✍️ author | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
@@ -33,6 +34,8 @@ Ordered newest first by PR number.
 | 1027 | ✅ merged | 👀 reviewed | [#1027 — docs(cli): document ping and stop RPCs](https://github.com/getfloresta/Floresta/pull/1027) | 2026-05-05 | 2026-05-21 |
 | 1021 | ✅ merged | 👀 reviewed | [#1021 — Avoid `as` casting on `floresta_electrum` crate](https://github.com/getfloresta/Floresta/pull/1021) | 2026-05-02 | 2026-05-14 |
 | 992 | ✅ merged | 👀 reviewed | [#992 — fix(mempool): fix dangling depends references](https://github.com/getfloresta/Floresta/pull/992) | 2026-04-24 | 2026-05-04 |
+| 986 | 🟢 open | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
+| 985 | 🟢 open | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
 | 984 | ✅ merged | 👀 reviewed | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 957 | ✅ merged | 👀 reviewed | [#957 — [BUG] mempool_size should decreased  when txn is removed from mempool](https://github.com/getfloresta/Floresta/pull/957) | 2026-04-14 | 2026-04-17 |
 | 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |

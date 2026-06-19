@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-18
+- Generated: 2026-06-19
 
 ## Summary
 
@@ -25,12 +25,13 @@ Ordered newest first by PR number.
 | 1126 | ✅ merged | 👀 reviewed | [#1126 — fix(doc): Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/1126) | 2026-06-09 | 2026-06-09 |
 | 1124 | ✅ merged | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1119 | ❌ closed | ✍️ author | [#1119 — Chain switch tooling](https://github.com/getfloresta/Floresta/pull/1119) | 2026-06-03 | 2026-06-03 |
-| 1118 | 🟢 open | ✍️ author | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
+| 1118 | 📝 draft | ✍️ author | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 🟢 open | ✍️ author | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1116 | ✅ merged | ✍️ author | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
 | 1114 | 🟢 open | ✍️ author | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
 | 1113 | 🟢 open | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 |  |
 | 1112 | ✅ merged | ✍️ author | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
+| 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
 | 1096 | ✅ merged | 👀 reviewed | [#1096 — refactor: move `try_and_*` to `common`](https://github.com/getfloresta/Floresta/pull/1096) | 2026-05-27 | 2026-05-28 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1093 | ✅ merged | 👀 reviewed | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |
@@ -74,6 +75,7 @@ Ordered newest first by PR number.
 | 985 | 🟢 open | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
 | 984 | ✅ merged | 👀 reviewed | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 980 | ✅ merged | 👀 reviewed | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
+| 979 | 🟢 open | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 |  |
 | 977 | ❌ closed | 👀 reviewed | [#977 — docs: Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/977) | 2026-04-21 | 2026-06-09 |
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 960 | 📝 draft | ✍️ author | [#960 — Chore: add linters and formatters para Dockerfile, justfile, TOMLs and sh scripts.](https://github.com/getfloresta/Floresta/pull/960) | 2026-04-15 |  |

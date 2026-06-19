@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-18
+- Generated: 2026-06-19
 
 ## Summary
 
@@ -29,7 +29,7 @@ Ordered newest first by PR number.
 | 1125 | ✅ merged | 👀 reviewed | [#1125 — Add `cargo-audit` CI job](https://github.com/getfloresta/Floresta/pull/1125) | 2026-06-09 | 2026-06-10 |
 | 1124 | ✅ merged | ✍️ author | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1122 | ✅ merged | 👀 reviewed | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
-| 1118 | 🟢 open | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
+| 1118 | 📝 draft | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 🟢 open | 👀 reviewed | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1116 | ✅ merged | 👀 reviewed | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
 | 1115 | 📝 draft | 👀 reviewed | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
