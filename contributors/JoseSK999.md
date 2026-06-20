@@ -1,7 +1,7 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-19
+- Generated: 2026-06-20
 
 ## Summary
 
@@ -20,6 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1115 | 📝 draft | ✍️ author | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
+| 1113 | 🟢 open | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 |  |
 | 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
 | 1094 | ✅ merged | 👀 reviewed | [#1094 — chore: add my dns seed to testnet, mainnet and update the signet one](https://github.com/getfloresta/Floresta/pull/1094) | 2026-05-27 | 2026-05-28 |
 | 1077 | ✅ merged | 👀 reviewed | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) | 2026-05-20 | 2026-05-27 |

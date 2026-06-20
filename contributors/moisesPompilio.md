@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-19
+- Generated: 2026-06-20
 
 ## Summary
 
@@ -19,8 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1135 | 🟢 open | ✍️ author | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 |  |
 | 1134 | ✅ merged | ✍️ author | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) | 2026-06-17 | 2026-06-18 |
 | 1116 | ✅ merged | 👀 reviewed | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
+| 1114 | 🟢 open | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
 | 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |

@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-19
+- Generated: 2026-06-20
 
 ## Summary
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1138 | 📝 draft | ✍️ author | [#1138 — Wip POC: Centralize trait and types rpc](https://github.com/getfloresta/Floresta/pull/1138) | 2026-06-19 |  |
+| 1135 | 🟢 open | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 |  |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
 | 1129 | ✅ merged | 👀 reviewed | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 | 2026-06-15 |
 | 1127 | ✅ merged | ✍️ author | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |

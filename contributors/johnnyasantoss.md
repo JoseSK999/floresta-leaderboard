@@ -1,7 +1,7 @@
 # @johnnyasantoss impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-19
+- Generated: 2026-06-20
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1139 | 🟢 open | ✍️ author | [#1139 — ci: Add multi-arch docker build with dual-registry push](https://github.com/getfloresta/Floresta/pull/1139) | 2026-06-20 |  |
 | 1078 | ✅ merged | ✍️ author | [#1078 — docs: Reword, clarify, format contributing.md](https://github.com/getfloresta/Floresta/pull/1078) | 2026-05-20 | 2026-05-25 |
 
 ## All merged PRs
