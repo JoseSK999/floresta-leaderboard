@@ -1,7 +1,7 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-20
+- Generated: 2026-06-21
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1137 | 🟢 open | 👀 reviewed | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) | 2026-06-19 |  |
 | 1134 | ✅ merged | 👀 reviewed | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) | 2026-06-17 | 2026-06-18 |
 | 1131 | ✅ merged | ✍️ author | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
 | 1130 | ✅ merged | 👀 reviewed | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) | 2026-06-13 | 2026-06-15 |
