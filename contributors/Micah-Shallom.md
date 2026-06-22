@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-21
+- Generated: 2026-06-22
 
 ## Summary
 
@@ -30,7 +30,7 @@ Ordered newest first by PR number.
 | 1071 | ✅ merged | ✍️ author | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
-| 1055 | 📝 draft | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
+| 1055 | 🟢 open | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
 | 1054 | 📝 draft | ✍️ author | [#1054 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1054) | 2026-05-13 | 2026-05-13 |
 | 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
 | 1024 | ❌ closed | ✍️ author | [#1024 — chore: fix clippy::for_kv_map flagged by newer nightly](https://github.com/getfloresta/Floresta/pull/1024) | 2026-05-05 | 2026-05-05 |
