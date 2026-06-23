@@ -1,4 +1,4 @@
-# @Guilospanck impact report
+# @R27-pixel impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-06-23
@@ -8,8 +8,8 @@
 | Metric | Count |
 |---|---:|
 | ✅ Project merged PRs | 659 |
-| 🎯 Merged PRs with my impact | 4 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🎯 Merged PRs with my impact | 1 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 319 | ✅ merged | ✍️ author | [#319 — Add pre-contributing just recipe](https://github.com/getfloresta/Floresta/pull/319) | 2024-12-26 | 2024-12-26 |
-| 314 | ✅ merged | ✍️ author | [#314 — Add prometheus support](https://github.com/getfloresta/Floresta/pull/314) | 2024-12-20 | 2024-12-26 |
-| 247 | ✅ merged | ✍️ author | [#247 — Improve CI caching](https://github.com/getfloresta/Floresta/pull/247) | 2024-10-04 | 2024-10-07 |
-| 27 | ✅ merged | ✍️ author | [#27 — Fix config file parse error and docs ortography](https://github.com/getfloresta/Floresta/pull/27) | 2023-03-23 | 2023-03-23 |
+| 979 | ✅ merged | ✍️ author | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
+| 976 | ❌ closed | ✍️ author | [#976 — Error handling](https://github.com/getfloresta/Floresta/pull/976) | 2026-04-21 | 2026-04-22 |
 
 ## All merged PRs
 
@@ -30,7 +28,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-06-22 | 979 | — no | — | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
+| 2026-06-22 | 979 | ✅ yes | ✍️ author | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
 | 2026-06-18 | 1134 | — no | — | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
 | 2026-06-17 | 1057 | — no | — | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
 | 2026-06-17 | 897 | — no | — | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |
@@ -462,8 +460,8 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2024-12-30 | 321 | — no | — | [#321 — Add English translation of tutorial documentation](https://github.com/getfloresta/Floresta/pull/321) |
 | 2024-12-28 | 320 | — no | — | [#320 — Check features in the pre-commit recipe](https://github.com/getfloresta/Floresta/pull/320) |
 | 2024-12-27 | 309 | — no | — | [#309 — Structure improvement  functional tests](https://github.com/getfloresta/Floresta/pull/309) |
-| 2024-12-26 | 319 | ✅ yes | ✍️ author | [#319 — Add pre-contributing just recipe](https://github.com/getfloresta/Floresta/pull/319) |
-| 2024-12-26 | 314 | ✅ yes | ✍️ author | [#314 — Add prometheus support](https://github.com/getfloresta/Floresta/pull/314) |
+| 2024-12-26 | 319 | — no | — | [#319 — Add pre-contributing just recipe](https://github.com/getfloresta/Floresta/pull/319) |
+| 2024-12-26 | 314 | — no | — | [#314 — Add prometheus support](https://github.com/getfloresta/Floresta/pull/314) |
 | 2024-12-26 | 318 | — no | — | [#318 — Update florestad.rs](https://github.com/getfloresta/Floresta/pull/318) |
 | 2024-12-24 | 316 | — no | — | [#316 — Update lib.rs](https://github.com/getfloresta/Floresta/pull/316) |
 | 2024-12-23 | 315 | — no | — | [#315 — Update lib.rs for floresta-watch-only-wallet](https://github.com/getfloresta/Floresta/pull/315) |
@@ -507,7 +505,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2024-10-13 | 256 | — no | — | [#256 — Fixing path to config.toml.sample](https://github.com/getfloresta/Floresta/pull/256) |
 | 2024-10-07 | 248 | — no | — | [#248 — Move assume-valid hashes to chainparams](https://github.com/getfloresta/Floresta/pull/248) |
 | 2024-10-07 | 249 | — no | — | [#249 — fix:including requests on requirements.txt](https://github.com/getfloresta/Floresta/pull/249) |
-| 2024-10-07 | 247 | ✅ yes | ✍️ author | [#247 — Improve CI caching](https://github.com/getfloresta/Floresta/pull/247) |
+| 2024-10-07 | 247 | — no | — | [#247 — Improve CI caching](https://github.com/getfloresta/Floresta/pull/247) |
 | 2024-10-03 | 246 | — no | — | [#246 — Remove unused maybe_reindex](https://github.com/getfloresta/Floresta/pull/246) |
 | 2024-10-02 | 245 | — no | — | [#245 — Fix our dockerfile (once again)](https://github.com/getfloresta/Floresta/pull/245) |
 | 2024-10-01 | 243 | — no | — | [#243 — Correct Cargo categories](https://github.com/getfloresta/Floresta/pull/243) |
@@ -668,7 +666,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2023-04-12 | 29 | — no | — | [#29 — Add missing rules](https://github.com/getfloresta/Floresta/pull/29) |
 | 2023-04-05 | 31 | — no | — | [#31 — Fix sparrow incompatibility](https://github.com/getfloresta/Floresta/pull/31) |
 | 2023-03-31 | 30 | — no | — | [#30 — Added support for output descriptors](https://github.com/getfloresta/Floresta/pull/30) |
-| 2023-03-23 | 27 | ✅ yes | ✍️ author | [#27 — Fix config file parse error and docs ortography](https://github.com/getfloresta/Floresta/pull/27) |
+| 2023-03-23 | 27 | — no | — | [#27 — Fix config file parse error and docs ortography](https://github.com/getfloresta/Floresta/pull/27) |
 | 2023-03-22 | 25 | — no | — | [#25 — Bump version](https://github.com/getfloresta/Floresta/pull/25) |
 | 2023-03-22 | 24 | — no | — | [#24 — Docs](https://github.com/getfloresta/Floresta/pull/24) |
 | 2023-03-22 | 23 | — no | — | [#23 — A few teaks on electrum implementation](https://github.com/getfloresta/Floresta/pull/23) |

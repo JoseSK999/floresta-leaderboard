@@ -1,15 +1,15 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-22
+- Generated: 2026-06-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 658 |
-| 🎯 Merged PRs with my impact | 258 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 659 |
+| 🎯 Merged PRs with my impact | 259 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -33,7 +33,7 @@ Ordered newest first by PR number.
 | 1043 | ✅ merged | 👀 reviewed | [#1043 — filters: `FlatFilterStore::new` takes in `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1043) | 2026-05-11 | 2026-05-14 |
 | 1034 | ✅ merged | 👀 reviewed | [#1034 — update rustls to 0.23.40 - deps housekeeping](https://github.com/getfloresta/Floresta/pull/1034) | 2026-05-06 | 2026-05-07 |
 | 1023 | ✅ merged | 👀 reviewed | [#1023 — fix: apply clippy latest suggestions](https://github.com/getfloresta/Floresta/pull/1023) | 2026-05-04 | 2026-05-05 |
-| 979 | 🟢 open | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 |  |
+| 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
 | 937 | ✅ merged | 👀 reviewed | [#937 — fix(chain,compact-filters): replace Debug delegation in Display impls with per-variant messages](https://github.com/getfloresta/Floresta/pull/937) | 2026-04-04 | 2026-05-25 |
 | 930 | ✅ merged | 👀 reviewed | [#930 — chore: remove the mainnet bridges warning, as we now have those](https://github.com/getfloresta/Floresta/pull/930) | 2026-04-02 | 2026-04-03 |
 | 919 | ✅ merged | 👀 reviewed | [#919 — Add luisschwab and Casa21's bridges to seed files](https://github.com/getfloresta/Floresta/pull/919) | 2026-03-31 | 2026-03-31 |
@@ -306,6 +306,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-22 | 979 | ✅ yes | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
 | 2026-06-18 | 1134 | — no | — | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
 | 2026-06-17 | 1057 | — no | — | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
 | 2026-06-17 | 897 | — no | — | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |

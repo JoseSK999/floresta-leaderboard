@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-22
+- Generated: 2026-06-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 658 |
-| 🎯 Merged PRs with my impact | 567 |
-| 🔥 [Current impact streak](#all-merged-prs) | **71** |
+| ✅ Project merged PRs | 659 |
+| 🎯 Merged PRs with my impact | 568 |
+| 🔥 [Current impact streak](#all-merged-prs) | **72** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -93,7 +93,7 @@ Ordered newest first by PR number.
 | 985 | 🟢 open | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
 | 984 | ✅ merged | ✍️ author | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 980 | ✅ merged | ✍️ author | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
-| 979 | 🟢 open | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 |  |
+| 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
 | 977 | ❌ closed | 👀 reviewed | [#977 — docs: Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/977) | 2026-04-21 | 2026-06-09 |
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 969 | ❌ closed | 👀 reviewed | [#969 — feat: log to file by default and allow custom log file path](https://github.com/getfloresta/Floresta/pull/969) | 2026-04-19 | 2026-06-16 |
@@ -655,6 +655,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-22 | 979 | ✅ yes | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
 | 2026-06-18 | 1134 | ✅ yes | 👀 reviewed | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
 | 2026-06-17 | 1057 | ✅ yes | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) |
 | 2026-06-17 | 897 | ✅ yes | 👀 reviewed | [#897 — Add P2P addr/addrv2 tests + oversized/spam message checks](https://github.com/getfloresta/Floresta/pull/897) |
