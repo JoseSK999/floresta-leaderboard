@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-24
+- Generated: 2026-06-25
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 660 |
-| 🎯 Merged PRs with my impact | 202 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 665 |
+| 🎯 Merged PRs with my impact | 206 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,11 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1142 | 🟢 open | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 |  |
+| 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
+| 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
+| 1150 | ❌ closed | 👀 reviewed | [#1150 — chore(deps): bump nixpkgs from nixos-25.11 to nixos-26.05](https://github.com/getfloresta/Floresta/pull/1150) | 2026-06-24 | 2026-06-24 |
+| 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
+| 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
 | 1138 | 📝 draft | ✍️ author | [#1138 — Wip POC: Centralize trait and types rpc](https://github.com/getfloresta/Floresta/pull/1138) | 2026-06-19 |  |
 | 1135 | 🟢 open | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 |  |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
@@ -294,6 +298,11 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-24 | 1154 | ✅ yes | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
+| 2026-06-24 | 1155 | ✅ yes | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |
+| 2026-06-24 | 1143 | ✅ yes | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) |
+| 2026-06-24 | 1137 | — no | — | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) |
+| 2026-06-24 | 1142 | ✅ yes | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) |
 | 2026-06-23 | 1140 | — no | — | [#1140 — Add missing `checks: write` permission to `cargo-audit` job](https://github.com/getfloresta/Floresta/pull/1140) |
 | 2026-06-22 | 979 | ✅ yes | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
 | 2026-06-18 | 1134 | — no | — | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |

@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-24
+- Generated: 2026-06-25
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 660 |
-| 🎯 Merged PRs with my impact | 569 |
-| 🔥 [Current impact streak](#all-merged-prs) | **73** |
+| ✅ Project merged PRs | 665 |
+| 🎯 Merged PRs with my impact | 574 |
+| 🔥 [Current impact streak](#all-merged-prs) | **78** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,9 +19,12 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1142 | 🟢 open | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 |  |
+| 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
+| 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
+| 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
+| 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
 | 1140 | ✅ merged | 👀 reviewed | [#1140 — Add missing `checks: write` permission to `cargo-audit` job](https://github.com/getfloresta/Floresta/pull/1140) | 2026-06-23 | 2026-06-23 |
-| 1137 | 🟢 open | ✍️ author | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) | 2026-06-19 |  |
+| 1137 | ✅ merged | ✍️ author | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) | 2026-06-19 | 2026-06-24 |
 | 1134 | ✅ merged | 👀 reviewed | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) | 2026-06-17 | 2026-06-18 |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
 | 1130 | ✅ merged | 👀 reviewed | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) | 2026-06-13 | 2026-06-15 |
@@ -658,6 +661,11 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-24 | 1154 | ✅ yes | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
+| 2026-06-24 | 1155 | ✅ yes | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |
+| 2026-06-24 | 1143 | ✅ yes | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) |
+| 2026-06-24 | 1137 | ✅ yes | ✍️ author | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) |
+| 2026-06-24 | 1142 | ✅ yes | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) |
 | 2026-06-23 | 1140 | ✅ yes | 👀 reviewed | [#1140 — Add missing `checks: write` permission to `cargo-audit` job](https://github.com/getfloresta/Floresta/pull/1140) |
 | 2026-06-22 | 979 | ✅ yes | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) |
 | 2026-06-18 | 1134 | ✅ yes | 👀 reviewed | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) |
