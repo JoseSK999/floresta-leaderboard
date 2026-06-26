@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-25
+- Generated: 2026-06-26
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1158 | ❌ closed | 👀 reviewed | [#1158 — docs(rpc): add documentation for findtxout, getmemoryinfo, getrpcinfo…](https://github.com/getfloresta/Floresta/pull/1158) | 2026-06-25 | 2026-06-25 |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
 | 1150 | ❌ closed | 👀 reviewed | [#1150 — chore(deps): bump nixpkgs from nixos-25.11 to nixos-26.05](https://github.com/getfloresta/Floresta/pull/1150) | 2026-06-24 | 2026-06-24 |
