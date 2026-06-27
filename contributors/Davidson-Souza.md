@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-26
+- Generated: 2026-06-27
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
 | 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
@@ -51,7 +52,7 @@ Ordered newest first by PR number.
 | 1094 | ✅ merged | ✍️ author | [#1094 — chore: add my dns seed to testnet, mainnet and update the signet one](https://github.com/getfloresta/Floresta/pull/1094) | 2026-05-27 | 2026-05-28 |
 | 1093 | ✅ merged | 👀 reviewed | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |
 | 1092 | ✅ merged | 👀 reviewed | [#1092 — feat(wire)!: allow passing multiple fixed peers](https://github.com/getfloresta/Floresta/pull/1092) | 2026-05-27 | 2026-06-02 |
-| 1091 | 🟢 open | 👀 reviewed | [#1091 — Add Electrum coverage and wait_until helpers](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
+| 1091 | 🟢 open | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
 | 1088 | ✅ merged | ✍️ author | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
 | 1085 | 🟢 open | 👀 reviewed | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |

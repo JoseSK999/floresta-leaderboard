@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-26
+- Generated: 2026-06-27
 
 ## Summary
 
@@ -19,6 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1164 | 📝 draft | ✍️ author | [#1164 — Introduce WalletBase abstraction](https://github.com/getfloresta/Floresta/pull/1164) | 2026-06-26 |  |
+| 1163 | 🟢 open | ✍️ author | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 |  |
+| 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
 | 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
 | 1140 | ✅ merged | 👀 reviewed | [#1140 — Add missing `checks: write` permission to `cargo-audit` job](https://github.com/getfloresta/Floresta/pull/1140) | 2026-06-23 | 2026-06-23 |
@@ -31,7 +34,7 @@ Ordered newest first by PR number.
 | 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
-| 1091 | 🟢 open | ✍️ author | [#1091 — Add Electrum coverage and wait_until helpers](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
+| 1091 | 🟢 open | ✍️ author | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
 | 1088 | ✅ merged | 👀 reviewed | [#1088 — feat(node): Add GetCFHeaders to the node handle](https://github.com/getfloresta/Floresta/pull/1088) | 2026-05-26 | 2026-06-15 |
 | 1087 | ✅ merged | 👀 reviewed | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
 | 1077 | ✅ merged | 👀 reviewed | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) | 2026-05-20 | 2026-05-27 |
