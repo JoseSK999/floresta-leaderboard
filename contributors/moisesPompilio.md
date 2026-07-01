@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-30
+- Generated: 2026-07-01
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 666 |
-| 🎯 Merged PRs with my impact | 65 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 669 |
+| 🎯 Merged PRs with my impact | 68 |
+| 🔥 [Current impact streak](#all-merged-prs) | **5** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1174 | 🟢 open | ✍️ author | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 |  |
+| 1175 | ✅ merged | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) | 2026-06-30 | 2026-06-30 |
+| 1174 | ✅ merged | ✍️ author | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1173 | ✅ merged | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
 | 1164 | 📝 draft | ✍️ author | [#1164 — Introduce WalletBase abstraction](https://github.com/getfloresta/Floresta/pull/1164) | 2026-06-26 |  |
 | 1163 | 🟢 open | ✍️ author | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 |  |
@@ -57,7 +58,7 @@ Ordered newest first by PR number.
 | 1001 | ✅ merged | 👀 reviewed | [#1001 — Replace the hardcoded release string with env!(CARGO_PKG_VERSION) ](https://github.com/getfloresta/Floresta/pull/1001) | 2026-04-26 | 2026-04-27 |
 | 991 | ❌ closed | 👀 reviewed | [#991 — Add `brew` installation notice to the README](https://github.com/getfloresta/Floresta/pull/991) | 2026-04-23 | 2026-06-10 |
 | 986 | 🟢 open | ✍️ author | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
-| 985 | 🟢 open | ✍️ author | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
+| 985 | ✅ merged | ✍️ author | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 980 | ✅ merged | 👀 reviewed | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
 | 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
@@ -129,6 +130,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-30 | 985 | ✅ yes | ✍️ author | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
+| 2026-06-30 | 1175 | ✅ yes | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
+| 2026-06-30 | 1174 | ✅ yes | ✍️ author | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |
 | 2026-06-29 | 1173 | ✅ yes | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) |
 | 2026-06-24 | 1154 | ✅ yes | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
 | 2026-06-24 | 1155 | — no | — | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |

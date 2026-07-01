@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-30
+- Generated: 2026-07-01
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 666 |
-| 🎯 Merged PRs with my impact | 575 |
-| 🔥 [Current impact streak](#all-merged-prs) | **79** |
+| ✅ Project merged PRs | 669 |
+| 🎯 Merged PRs with my impact | 578 |
+| 🔥 [Current impact streak](#all-merged-prs) | **82** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,12 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1177 | 🟢 open | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
+| 1176 | 🟢 open | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 |  |
+| 1175 | ✅ merged | ✍️ author | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) | 2026-06-30 | 2026-06-30 |
+| 1174 | ✅ merged | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1173 | ✅ merged | ✍️ author | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
+| 1163 | 🟢 open | 👀 reviewed | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 |  |
 | 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
@@ -28,6 +33,7 @@ Ordered newest first by PR number.
 | 1140 | ✅ merged | 👀 reviewed | [#1140 — Add missing `checks: write` permission to `cargo-audit` job](https://github.com/getfloresta/Floresta/pull/1140) | 2026-06-23 | 2026-06-23 |
 | 1137 | ✅ merged | ✍️ author | [#1137 — chore: bump bip324 0.10.0 -> 0.11.0](https://github.com/getfloresta/Floresta/pull/1137) | 2026-06-19 | 2026-06-24 |
 | 1134 | ✅ merged | 👀 reviewed | [#1134 — Fix p2p_addr_relay for onion address support](https://github.com/getfloresta/Floresta/pull/1134) | 2026-06-17 | 2026-06-18 |
+| 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
 | 1130 | ✅ merged | 👀 reviewed | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) | 2026-06-13 | 2026-06-15 |
 | 1129 | ✅ merged | ✍️ author | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 | 2026-06-15 |
@@ -98,7 +104,7 @@ Ordered newest first by PR number.
 | 992 | ✅ merged | 👀 reviewed | [#992 — fix(mempool): fix dangling depends references](https://github.com/getfloresta/Floresta/pull/992) | 2026-04-24 | 2026-05-04 |
 | 991 | ❌ closed | 👀 reviewed | [#991 — Add `brew` installation notice to the README](https://github.com/getfloresta/Floresta/pull/991) | 2026-04-23 | 2026-06-10 |
 | 989 | ✅ merged | ✍️ author | [#989 — chore: backport #980 to 0.9.x](https://github.com/getfloresta/Floresta/pull/989) | 2026-04-23 | 2026-04-27 |
-| 985 | 🟢 open | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
+| 985 | ✅ merged | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 984 | ✅ merged | ✍️ author | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 980 | ✅ merged | ✍️ author | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
 | 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
@@ -663,6 +669,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-30 | 985 | ✅ yes | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
+| 2026-06-30 | 1175 | ✅ yes | ✍️ author | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
+| 2026-06-30 | 1174 | ✅ yes | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |
 | 2026-06-29 | 1173 | ✅ yes | ✍️ author | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) |
 | 2026-06-24 | 1154 | ✅ yes | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
 | 2026-06-24 | 1155 | ✅ yes | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |

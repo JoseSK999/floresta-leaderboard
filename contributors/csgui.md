@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-30
+- Generated: 2026-07-01
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 666 |
-| 🎯 Merged PRs with my impact | 44 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 669 |
+| 🎯 Merged PRs with my impact | 45 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -39,7 +39,7 @@ Ordered newest first by PR number.
 | 1021 | ✅ merged | 👀 reviewed | [#1021 — Avoid `as` casting on `floresta_electrum` crate](https://github.com/getfloresta/Floresta/pull/1021) | 2026-05-02 | 2026-05-14 |
 | 992 | ✅ merged | 👀 reviewed | [#992 — fix(mempool): fix dangling depends references](https://github.com/getfloresta/Floresta/pull/992) | 2026-04-24 | 2026-05-04 |
 | 986 | 🟢 open | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
-| 985 | 🟢 open | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 |  |
+| 985 | ✅ merged | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 984 | ✅ merged | 👀 reviewed | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 957 | ✅ merged | 👀 reviewed | [#957 — [BUG] mempool_size should decreased  when txn is removed from mempool](https://github.com/getfloresta/Floresta/pull/957) | 2026-04-14 | 2026-04-17 |
 | 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
@@ -82,6 +82,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-30 | 985 | ✅ yes | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
+| 2026-06-30 | 1175 | — no | — | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
+| 2026-06-30 | 1174 | — no | — | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |
 | 2026-06-29 | 1173 | — no | — | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) |
 | 2026-06-24 | 1154 | — no | — | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
 | 2026-06-24 | 1155 | ✅ yes | ✍️ author | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |

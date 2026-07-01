@@ -1,15 +1,15 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-06-30
+- Generated: 2026-07-01
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 666 |
-| 🎯 Merged PRs with my impact | 148 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 669 |
+| 🎯 Merged PRs with my impact | 151 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1176 | 🟢 open | ✍️ author | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 |  |
+| 1175 | ✅ merged | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) | 2026-06-30 | 2026-06-30 |
+| 1174 | ✅ merged | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1154 | ✅ merged | ✍️ author | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
 | 1143 | ✅ merged | ✍️ author | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
@@ -66,6 +69,7 @@ Ordered newest first by PR number.
 | 992 | ✅ merged | 👀 reviewed | [#992 — fix(mempool): fix dangling depends references](https://github.com/getfloresta/Floresta/pull/992) | 2026-04-24 | 2026-05-04 |
 | 991 | ❌ closed | ✍️ author | [#991 — Add `brew` installation notice to the README](https://github.com/getfloresta/Floresta/pull/991) | 2026-04-23 | 2026-06-10 |
 | 989 | ✅ merged | 👀 reviewed | [#989 — chore: backport #980 to 0.9.x](https://github.com/getfloresta/Floresta/pull/989) | 2026-04-23 | 2026-04-27 |
+| 985 | ✅ merged | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 984 | ✅ merged | 👀 reviewed | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 980 | ✅ merged | 👀 reviewed | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
 | 977 | ❌ closed | 👀 reviewed | [#977 — docs: Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/977) | 2026-04-21 | 2026-06-09 |
@@ -185,6 +189,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-06-30 | 985 | ✅ yes | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
+| 2026-06-30 | 1175 | ✅ yes | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
+| 2026-06-30 | 1174 | ✅ yes | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |
 | 2026-06-29 | 1173 | — no | — | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) |
 | 2026-06-24 | 1154 | ✅ yes | ✍️ author | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) |
 | 2026-06-24 | 1155 | ✅ yes | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) |
