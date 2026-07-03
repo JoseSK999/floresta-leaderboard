@@ -1,14 +1,14 @@
 # @Husteem impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-02
+- Generated: 2026-07-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 669 |
-| 🎯 Merged PRs with my impact | 2 |
+| ✅ Project merged PRs | 671 |
+| 🎯 Merged PRs with my impact | 3 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1170 | 🟢 open | ✍️ author | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 |  |
+| 1170 | ✅ merged | ✍️ author | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 | 2026-07-02 |
 | 1132 | ❌ closed | ✍️ author | [#1132 — docs(cli): document gettransaction and findtxout RPCs](https://github.com/getfloresta/Floresta/pull/1132) | 2026-06-15 | 2026-06-15 |
 | 1028 | ✅ merged | ✍️ author | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
 | 1027 | ✅ merged | ✍️ author | [#1027 — docs(cli): document ping and stop RPCs](https://github.com/getfloresta/Floresta/pull/1027) | 2026-05-05 | 2026-05-21 |
@@ -30,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-02 | 1178 | — no | — | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |
+| 2026-07-02 | 1170 | ✅ yes | ✍️ author | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) |
 | 2026-06-30 | 985 | — no | — | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
 | 2026-06-30 | 1175 | — no | — | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
 | 2026-06-30 | 1174 | — no | — | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |

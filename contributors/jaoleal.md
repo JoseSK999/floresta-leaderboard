@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-02
+- Generated: 2026-07-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 669 |
-| 🎯 Merged PRs with my impact | 210 |
-| 🔥 [Current impact streak](#all-merged-prs) | **7** |
+| ✅ Project merged PRs | 671 |
+| 🎯 Merged PRs with my impact | 212 |
+| 🔥 [Current impact streak](#all-merged-prs) | **9** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,13 +19,14 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1178 | 🟢 open | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 |  |
+| 1180 | 🟢 open | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 |  |
+| 1178 | ✅ merged | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
 | 1177 | 🟢 open | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
 | 1176 | 🟢 open | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 |  |
 | 1175 | ✅ merged | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) | 2026-06-30 | 2026-06-30 |
 | 1174 | ✅ merged | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1173 | ✅ merged | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
-| 1170 | 🟢 open | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 |  |
+| 1170 | ✅ merged | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 | 2026-07-02 |
 | 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1158 | ❌ closed | 👀 reviewed | [#1158 — docs(rpc): add documentation for findtxout, getmemoryinfo, getrpcinfo…](https://github.com/getfloresta/Floresta/pull/1158) | 2026-06-25 | 2026-06-25 |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
@@ -308,6 +309,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-02 | 1178 | ✅ yes | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |
+| 2026-07-02 | 1170 | ✅ yes | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) |
 | 2026-06-30 | 985 | ✅ yes | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
 | 2026-06-30 | 1175 | ✅ yes | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
 | 2026-06-30 | 1174 | ✅ yes | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |

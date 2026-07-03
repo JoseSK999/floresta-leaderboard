@@ -1,13 +1,13 @@
 # @rustaceanrob impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-02
+- Generated: 2026-07-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 669 |
+| ✅ Project merged PRs | 671 |
 | 🎯 Merged PRs with my impact | 2 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -31,6 +31,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-02 | 1178 | — no | — | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |
+| 2026-07-02 | 1170 | — no | — | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) |
 | 2026-06-30 | 985 | — no | — | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
 | 2026-06-30 | 1175 | — no | — | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) |
 | 2026-06-30 | 1174 | — no | — | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) |
