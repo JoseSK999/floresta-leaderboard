@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-03
+- Generated: 2026-07-04
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 671 |
-| 🎯 Merged PRs with my impact | 212 |
-| 🔥 [Current impact streak](#all-merged-prs) | **9** |
+| ✅ Project merged PRs | 673 |
+| 🎯 Merged PRs with my impact | 214 |
+| 🔥 [Current impact streak](#all-merged-prs) | **11** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1180 | 🟢 open | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 |  |
+| 1180 | ✅ merged | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 | 2026-07-03 |
 | 1178 | ✅ merged | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
 | 1177 | 🟢 open | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
 | 1176 | 🟢 open | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 |  |
@@ -47,7 +47,7 @@ Ordered newest first by PR number.
 | 1117 | 🟢 open | ✍️ author | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1116 | ✅ merged | ✍️ author | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
 | 1114 | 🟢 open | ✍️ author | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
-| 1113 | 🟢 open | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 |  |
+| 1113 | ✅ merged | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1112 | ✅ merged | ✍️ author | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
 | 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
 | 1096 | ✅ merged | 👀 reviewed | [#1096 — refactor: move `try_and_*` to `common`](https://github.com/getfloresta/Floresta/pull/1096) | 2026-05-27 | 2026-05-28 |
@@ -96,7 +96,7 @@ Ordered newest first by PR number.
 | 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
 | 977 | ❌ closed | 👀 reviewed | [#977 — docs: Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/977) | 2026-04-21 | 2026-06-09 |
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
-| 960 | 📝 draft | ✍️ author | [#960 — Chore: add linters and formatters para Dockerfile, justfile, TOMLs and sh scripts.](https://github.com/getfloresta/Floresta/pull/960) | 2026-04-15 |  |
+| 960 | 📝 draft | ✍️ author | [#960 — Chore: add linters and formatters para Dockerfile, justfile, TOMLs and sh scripts.](https://github.com/getfloresta/Floresta/pull/960) | 2026-04-15 | 2026-07-03 |
 | 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
 | 955 | ✅ merged | 👀 reviewed | [#955 — chore: backport #942 for 0.9.x](https://github.com/getfloresta/Floresta/pull/955) | 2026-04-14 | 2026-04-14 |
 | 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
@@ -309,6 +309,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-03 | 1180 | ✅ yes | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) |
+| 2026-07-03 | 1113 | ✅ yes | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) |
 | 2026-07-02 | 1178 | ✅ yes | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |
 | 2026-07-02 | 1170 | ✅ yes | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) |
 | 2026-06-30 | 985 | ✅ yes | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) |
