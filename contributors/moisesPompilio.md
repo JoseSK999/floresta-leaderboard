@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-06
+- Generated: 2026-07-07
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1189 | 🟢 open | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 |  |
 | 1180 | ✅ merged | 👀 reviewed | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 | 2026-07-03 |
 | 1178 | ✅ merged | 👀 reviewed | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
 | 1177 | 🟢 open | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |

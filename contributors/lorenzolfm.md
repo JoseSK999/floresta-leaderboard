@@ -1,7 +1,7 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-06
+- Generated: 2026-07-07
 
 ## Summary
 
@@ -19,6 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1190 | 🟢 open | 👀 reviewed | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 |  |
+| 1189 | 🟢 open | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 |  |
+| 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1128 | ✅ merged | 👀 reviewed | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 | 2026-06-17 |
 | 1124 | ✅ merged | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1122 | ✅ merged | 👀 reviewed | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
@@ -44,6 +47,7 @@ Ordered newest first by PR number.
 | 1059 | ✅ merged | 👀 reviewed | [#1059 — wire: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1059) | 2026-05-14 | 2026-05-18 |
 | 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1056 | ✅ merged | 👀 reviewed | [#1056 — fix(flake): remove gcc from devshell.](https://github.com/getfloresta/Floresta/pull/1056) | 2026-05-13 | 2026-05-15 |
+| 1055 | 🟢 open | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
 | 1050 | ✅ merged | 👀 reviewed | [#1050 — Add Zizmor to CI and fix audit warnings](https://github.com/getfloresta/Floresta/pull/1050) | 2026-05-12 | 2026-05-18 |
 | 1044 | ✅ merged | 👀 reviewed | [#1044 — chain: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1044) | 2026-05-11 | 2026-05-12 |
 | 1043 | ✅ merged | 👀 reviewed | [#1043 — filters: `FlatFilterStore::new` takes in `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1043) | 2026-05-11 | 2026-05-14 |

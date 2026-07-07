@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-06
+- Generated: 2026-07-07
 
 ## Summary
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1190 | 🟢 open | ✍️ author | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 |  |
+| 1189 | 🟢 open | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 |  |
 | 1180 | ✅ merged | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 | 2026-07-03 |
 | 1178 | ✅ merged | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
 | 1177 | 🟢 open | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
@@ -68,6 +70,7 @@ Ordered newest first by PR number.
 | 1059 | ✅ merged | 👀 reviewed | [#1059 — wire: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1059) | 2026-05-14 | 2026-05-18 |
 | 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1056 | ✅ merged | ✍️ author | [#1056 — fix(flake): remove gcc from devshell.](https://github.com/getfloresta/Floresta/pull/1056) | 2026-05-13 | 2026-05-15 |
+| 1055 | 🟢 open | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
 | 1050 | ✅ merged | 👀 reviewed | [#1050 — Add Zizmor to CI and fix audit warnings](https://github.com/getfloresta/Floresta/pull/1050) | 2026-05-12 | 2026-05-18 |
 | 1048 | ✅ merged | 👀 reviewed | [#1048 — Add CI job to check for unsigned commits](https://github.com/getfloresta/Floresta/pull/1048) | 2026-05-12 | 2026-05-12 |
 | 1046 | ✅ merged | 👀 reviewed | [#1046 — Bump MSRV to 1.85.0](https://github.com/getfloresta/Floresta/pull/1046) | 2026-05-11 | 2026-05-25 |

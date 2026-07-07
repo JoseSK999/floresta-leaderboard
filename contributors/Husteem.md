@@ -1,7 +1,7 @@
 # @Husteem impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-06
+- Generated: 2026-07-07
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1189 | 🟢 open | ✍️ author | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 |  |
 | 1170 | ✅ merged | ✍️ author | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 | 2026-07-02 |
 | 1132 | ❌ closed | ✍️ author | [#1132 — docs(cli): document gettransaction and findtxout RPCs](https://github.com/getfloresta/Floresta/pull/1132) | 2026-06-15 | 2026-06-15 |
 | 1028 | ✅ merged | ✍️ author | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
