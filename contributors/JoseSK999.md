@@ -1,13 +1,13 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-07
+- Generated: 2026-07-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 673 |
+| ✅ Project merged PRs | 677 |
 | 🎯 Merged PRs with my impact | 260 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -75,7 +75,7 @@ Ordered newest first by PR number.
 | 814 | ✅ merged | 👀 reviewed | [#814 — chore: remove unused features](https://github.com/getfloresta/Floresta/pull/814) | 2026-01-26 | 2026-02-03 |
 | 808 | ✅ merged | ✍️ author | [#808 — chore(wire): simplify integration tests utils](https://github.com/getfloresta/Floresta/pull/808) | 2026-01-26 | 2026-01-27 |
 | 807 | ✅ merged | 👀 reviewed | [#807 — Allow disconnecting from a peer](https://github.com/getfloresta/Floresta/pull/807) | 2026-01-25 | 2026-01-30 |
-| 804 | 📝 draft | 👀 reviewed | [#804 — Wallet: move database to sqlite, remove kv and memmory db](https://github.com/getfloresta/Floresta/pull/804) | 2026-01-24 |  |
+| 804 | 📝 draft | 👀 reviewed | [#804 — Wallet: move database to sqlite, remove kv and memmory db](https://github.com/getfloresta/Floresta/pull/804) | 2026-01-24 | 2026-07-07 |
 | 803 | ✅ merged | 👀 reviewed | [#803 — split mempool into its own crate](https://github.com/getfloresta/Floresta/pull/803) | 2026-01-23 | 2026-01-26 |
 | 802 | ✅ merged | ✍️ author | [#802 — refactor(wire): create `handle_peer_msg_common`](https://github.com/getfloresta/Floresta/pull/802) | 2026-01-22 | 2026-01-24 |
 | 800 | ✅ merged | 👀 reviewed | [#800 — fix just pcc](https://github.com/getfloresta/Floresta/pull/800) | 2026-01-22 | 2026-01-22 |
@@ -306,6 +306,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-07 | 1190 | — no | — | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
+| 2026-07-07 | 1191 | — no | — | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) |
+| 2026-07-07 | 1189 | — no | — | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) |
+| 2026-07-07 | 1192 | — no | — | [#1192 — chore(deps): update crossbeam-epoch to 0.9.20 and crossbeam-utils to …](https://github.com/getfloresta/Floresta/pull/1192) |
 | 2026-07-03 | 1180 | — no | — | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) |
 | 2026-07-03 | 1113 | ✅ yes | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) |
 | 2026-07-02 | 1178 | — no | — | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |

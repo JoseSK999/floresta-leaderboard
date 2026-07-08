@@ -1,13 +1,13 @@
 # @bitkarrot impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-07
+- Generated: 2026-07-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 673 |
+| ✅ Project merged PRs | 677 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-07 | 1190 | — no | — | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
+| 2026-07-07 | 1191 | — no | — | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) |
+| 2026-07-07 | 1189 | — no | — | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) |
+| 2026-07-07 | 1192 | — no | — | [#1192 — chore(deps): update crossbeam-epoch to 0.9.20 and crossbeam-utils to …](https://github.com/getfloresta/Floresta/pull/1192) |
 | 2026-07-03 | 1180 | — no | — | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) |
 | 2026-07-03 | 1113 | — no | — | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) |
 | 2026-07-02 | 1178 | — no | — | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |

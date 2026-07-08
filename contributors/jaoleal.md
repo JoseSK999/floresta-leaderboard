@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-07
+- Generated: 2026-07-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 673 |
-| 🎯 Merged PRs with my impact | 214 |
-| 🔥 [Current impact streak](#all-merged-prs) | **11** |
+| ✅ Project merged PRs | 677 |
+| 🎯 Merged PRs with my impact | 218 |
+| 🔥 [Current impact streak](#all-merged-prs) | **15** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,8 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1190 | 🟢 open | ✍️ author | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 |  |
-| 1189 | 🟢 open | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 |  |
+| 1192 | ✅ merged | 👀 reviewed | [#1192 — chore(deps): update crossbeam-epoch to 0.9.20 and crossbeam-utils to …](https://github.com/getfloresta/Floresta/pull/1192) | 2026-07-07 | 2026-07-07 |
+| 1191 | ✅ merged | 👀 reviewed | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) | 2026-07-06 | 2026-07-07 |
+| 1190 | ✅ merged | ✍️ author | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 | 2026-07-07 |
+| 1189 | ✅ merged | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 | 2026-07-07 |
 | 1180 | ✅ merged | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 | 2026-07-03 |
 | 1178 | ✅ merged | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
 | 1177 | 🟢 open | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
@@ -140,7 +142,7 @@ Ordered newest first by PR number.
 | 821 | ✅ merged | 👀 reviewed | [#821 — Add Wallet Integration Tests and Fix Descriptor Persistence Issues](https://github.com/getfloresta/Floresta/pull/821) | 2026-02-02 | 2026-05-11 |
 | 819 | ❌ closed | 👀 reviewed | [#819 — feat(rpc): add verifyutxochaintipinclusionproof RPC method](https://github.com/getfloresta/Floresta/pull/819) | 2026-01-30 | 2026-05-25 |
 | 806 | ✅ merged | 👀 reviewed | [#806 — docs(cli): Add documentation for getblockchaininfo and getblockhash rpc calls](https://github.com/getfloresta/Floresta/pull/806) | 2026-01-25 | 2026-02-07 |
-| 804 | 📝 draft | ✍️ author | [#804 — Wallet: move database to sqlite, remove kv and memmory db](https://github.com/getfloresta/Floresta/pull/804) | 2026-01-24 |  |
+| 804 | 📝 draft | ✍️ author | [#804 — Wallet: move database to sqlite, remove kv and memmory db](https://github.com/getfloresta/Floresta/pull/804) | 2026-01-24 | 2026-07-07 |
 | 794 | ✅ merged | 👀 reviewed | [#794 —  Migrate all Integration Tests to Pytest and Refactor Test Framework](https://github.com/getfloresta/Floresta/pull/794) | 2026-01-19 | 2026-04-28 |
 | 793 | ✅ merged | 👀 reviewed | [#793 — feat(wire): don't fetch peers from DNS on startup if we have enough](https://github.com/getfloresta/Floresta/pull/793) | 2026-01-19 | 2026-01-24 |
 | 791 | ❌ closed | ✍️ author | [#791 — fix(wire): Dont error when no conections while on regtest.](https://github.com/getfloresta/Floresta/pull/791) | 2026-01-18 | 2026-03-02 |
@@ -312,6 +314,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-07 | 1190 | ✅ yes | ✍️ author | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
+| 2026-07-07 | 1191 | ✅ yes | 👀 reviewed | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) |
+| 2026-07-07 | 1189 | ✅ yes | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) |
+| 2026-07-07 | 1192 | ✅ yes | 👀 reviewed | [#1192 — chore(deps): update crossbeam-epoch to 0.9.20 and crossbeam-utils to …](https://github.com/getfloresta/Floresta/pull/1192) |
 | 2026-07-03 | 1180 | ✅ yes | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) |
 | 2026-07-03 | 1113 | ✅ yes | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) |
 | 2026-07-02 | 1178 | ✅ yes | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) |
