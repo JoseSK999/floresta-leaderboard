@@ -1,13 +1,13 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-08
+- Generated: 2026-07-09
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 677 |
+| ✅ Project merged PRs | 679 |
 | 🎯 Merged PRs with my impact | 10 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1177 | 🟢 open | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
 | 1135 | 🟢 open | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 |  |
 | 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1128 | ✅ merged | ✍️ author | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 | 2026-06-17 |
@@ -56,6 +57,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-08 | 1196 | — no | — | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) |
+| 2026-07-08 | 1195 | — no | — | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) |
 | 2026-07-07 | 1190 | — no | — | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
 | 2026-07-07 | 1191 | — no | — | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) |
 | 2026-07-07 | 1189 | — no | — | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) |

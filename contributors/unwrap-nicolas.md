@@ -1,13 +1,13 @@
 # @unwrap-nicolas impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-08
+- Generated: 2026-07-09
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 677 |
+| ✅ Project merged PRs | 679 |
 | 🎯 Merged PRs with my impact | 3 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -33,6 +33,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-08 | 1196 | — no | — | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) |
+| 2026-07-08 | 1195 | — no | — | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) |
 | 2026-07-07 | 1190 | — no | — | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
 | 2026-07-07 | 1191 | — no | — | [#1191 — Weekly Dependency Bumps [2026-07-06]](https://github.com/getfloresta/Floresta/pull/1191) |
 | 2026-07-07 | 1189 | — no | — | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) |
