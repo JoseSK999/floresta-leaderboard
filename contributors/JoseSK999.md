@@ -1,13 +1,13 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-09
+- Generated: 2026-07-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 679 |
+| ✅ Project merged PRs | 681 |
 | 🎯 Merged PRs with my impact | 260 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -306,6 +306,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-09 | 1198 | — no | — | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) |
+| 2026-07-09 | 1197 | — no | — | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) |
 | 2026-07-08 | 1196 | — no | — | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) |
 | 2026-07-08 | 1195 | — no | — | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) |
 | 2026-07-07 | 1190 | — no | — | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |

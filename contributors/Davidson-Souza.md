@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-09
+- Generated: 2026-07-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 679 |
-| 🎯 Merged PRs with my impact | 588 |
-| 🔥 [Current impact streak](#all-merged-prs) | **92** |
+| ✅ Project merged PRs | 681 |
+| 🎯 Merged PRs with my impact | 590 |
+| 🔥 [Current impact streak](#all-merged-prs) | **94** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1197 | 🟢 open | ✍️ author | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 |  |
+| 1198 | ✅ merged | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) | 2026-07-08 | 2026-07-09 |
+| 1197 | ✅ merged | ✍️ author | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
 | 1195 | ✅ merged | 👀 reviewed | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) | 2026-07-07 | 2026-07-08 |
 | 1192 | ✅ merged | 👀 reviewed | [#1192 — chore(deps): update crossbeam-epoch to 0.9.20 and crossbeam-utils to …](https://github.com/getfloresta/Floresta/pull/1192) | 2026-07-07 | 2026-07-07 |
@@ -679,6 +680,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-09 | 1198 | ✅ yes | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) |
+| 2026-07-09 | 1197 | ✅ yes | ✍️ author | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) |
 | 2026-07-08 | 1196 | ✅ yes | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) |
 | 2026-07-08 | 1195 | ✅ yes | 👀 reviewed | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) |
 | 2026-07-07 | 1190 | ✅ yes | 👀 reviewed | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) |
