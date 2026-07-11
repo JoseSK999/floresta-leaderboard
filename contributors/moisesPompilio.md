@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-10
+- Generated: 2026-07-11
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1200 | 🟢 open | 👀 reviewed | [#1200 — docs: add findtxout RPC documentation](https://github.com/getfloresta/Floresta/pull/1200) | 2026-07-09 |  |
 | 1198 | ✅ merged | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) | 2026-07-08 | 2026-07-09 |
 | 1197 | ✅ merged | 👀 reviewed | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
