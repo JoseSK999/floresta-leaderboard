@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-14
+- Generated: 2026-07-15
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1206 | 🟢 open | ✍️ author | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
 | 1197 | ✅ merged | 👀 reviewed | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
 | 1195 | ✅ merged | 👀 reviewed | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) | 2026-07-07 | 2026-07-08 |
