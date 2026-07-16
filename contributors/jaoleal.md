@@ -1,13 +1,13 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-15
+- Generated: 2026-07-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 683 |
+| ✅ Project merged PRs | 686 |
 | 🎯 Merged PRs with my impact | 221 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
+| 1210 | 🟢 open | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 |  |
 | 1206 | 🟢 open | ✍️ author | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
 | 1197 | ✅ merged | 👀 reviewed | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
@@ -42,7 +44,7 @@ Ordered newest first by PR number.
 | 1150 | ❌ closed | 👀 reviewed | [#1150 — chore(deps): bump nixpkgs from nixos-25.11 to nixos-26.05](https://github.com/getfloresta/Floresta/pull/1150) | 2026-06-24 | 2026-06-24 |
 | 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
 | 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
-| 1138 | 📝 draft | ✍️ author | [#1138 — Wip POC: Centralize trait and types rpc](https://github.com/getfloresta/Floresta/pull/1138) | 2026-06-19 |  |
+| 1138 | 📝 draft | ✍️ author | [#1138 — Wip POC: Centralize trait and types rpc](https://github.com/getfloresta/Floresta/pull/1138) | 2026-06-19 | 2026-07-15 |
 | 1135 | 🟢 open | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 |  |
 | 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
@@ -318,6 +320,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
+| 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
+| 2026-07-15 | 1211 | — no | — | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
 | 2026-07-13 | 1203 | — no | — | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) |
 | 2026-07-13 | 1204 | — no | — | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) |
 | 2026-07-09 | 1198 | — no | — | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) |

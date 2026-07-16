@@ -1,4 +1,4 @@
-# @HalFinneyIsMyHomeBoy impact report
+# @4xvgal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-07-16
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 686 |
 | 🎯 Merged PRs with my impact | 1 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 220 | ✅ merged | ✍️ author | [#220 — Added prerequisite to README](https://github.com/getfloresta/Floresta/pull/220) | 2024-08-22 | 2024-08-23 |
+| 1209 | ✅ merged | ✍️ author | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
 
 ## All merged PRs
 
@@ -27,7 +27,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
+| 2026-07-15 | 1209 | ✅ yes | ✍️ author | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
 | 2026-07-15 | 1211 | — no | — | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
 | 2026-07-13 | 1203 | — no | — | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) |
@@ -551,7 +551,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2024-08-27 | 225 | — no | — | [#225 — Feature: daemonize](https://github.com/getfloresta/Floresta/pull/225) |
 | 2024-08-27 | 224 | — no | — | [#224 — Update copyright notices and use the copyright ident on every public interface file](https://github.com/getfloresta/Floresta/pull/224) |
 | 2024-08-26 | 221 | — no | — | [#221 — Only keep extra peers if they give us a new block](https://github.com/getfloresta/Floresta/pull/221) |
-| 2024-08-23 | 220 | ✅ yes | ✍️ author | [#220 — Added prerequisite to README](https://github.com/getfloresta/Floresta/pull/220) |
+| 2024-08-23 | 220 | — no | — | [#220 — Added prerequisite to README](https://github.com/getfloresta/Floresta/pull/220) |
 | 2024-08-21 | 219 | — no | — | [#219 — readme: fix mention of --assume-utreexo option](https://github.com/getfloresta/Floresta/pull/219) |
 | 2024-08-21 | 218 | — no | — | [#218 — minor improvement when printing height](https://github.com/getfloresta/Floresta/pull/218) |
 | 2024-08-19 | 211 | — no | — | [#211 — florestad: expose assumeutreexo in lib mode](https://github.com/getfloresta/Floresta/pull/211) |

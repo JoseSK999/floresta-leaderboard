@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-15
+- Generated: 2026-07-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 683 |
-| 🎯 Merged PRs with my impact | 592 |
-| 🔥 [Current impact streak](#all-merged-prs) | **96** |
+| ✅ Project merged PRs | 686 |
+| 🎯 Merged PRs with my impact | 595 |
+| 🔥 [Current impact streak](#all-merged-prs) | **99** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,9 +19,13 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1205 | 📝 draft | ✍️ author | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
+| 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
+| 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
+| 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
+| 1205 | 🟢 open | ✍️ author | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1204 | ✅ merged | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |
 | 1203 | ✅ merged | 👀 reviewed | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) | 2026-07-12 | 2026-07-13 |
+| 1201 | ✅ merged | 👀 reviewed | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) | 2026-07-12 | 2026-07-15 |
 | 1198 | ✅ merged | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) | 2026-07-08 | 2026-07-09 |
 | 1197 | ✅ merged | ✍️ author | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
@@ -684,6 +688,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-15 | 1209 | ✅ yes | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
+| 2026-07-15 | 1201 | ✅ yes | 👀 reviewed | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
+| 2026-07-15 | 1211 | ✅ yes | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
 | 2026-07-13 | 1203 | ✅ yes | 👀 reviewed | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) |
 | 2026-07-13 | 1204 | ✅ yes | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) |
 | 2026-07-09 | 1198 | ✅ yes | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) |

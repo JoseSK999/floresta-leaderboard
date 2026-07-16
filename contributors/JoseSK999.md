@@ -1,14 +1,14 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-15
+- Generated: 2026-07-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 683 |
-| 🎯 Merged PRs with my impact | 260 |
+| ✅ Project merged PRs | 686 |
+| 🎯 Merged PRs with my impact | 261 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1115 | 📝 draft | ✍️ author | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
@@ -306,6 +307,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
+| 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
+| 2026-07-15 | 1211 | ✅ yes | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
 | 2026-07-13 | 1203 | — no | — | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) |
 | 2026-07-13 | 1204 | — no | — | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) |
 | 2026-07-09 | 1198 | — no | — | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) |
