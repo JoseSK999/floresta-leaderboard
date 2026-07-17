@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-16
+- Generated: 2026-07-17
 
 ## Summary
 
@@ -19,8 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1213 | 🟢 open | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 |  |
 | 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
+| 1210 | 🟢 open | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 |  |
 | 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
 | 1205 | 🟢 open | ✍️ author | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1204 | ✅ merged | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |

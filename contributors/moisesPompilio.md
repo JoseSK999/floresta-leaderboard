@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-16
+- Generated: 2026-07-17
 
 ## Summary
 
@@ -19,10 +19,12 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1213 | 🟢 open | ✍️ author | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 |  |
 | 1212 | 🟢 open | ✍️ author | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1210 | 🟢 open | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 |  |
 | 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
+| 1205 | 🟢 open | 👀 reviewed | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1201 | ✅ merged | 👀 reviewed | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) | 2026-07-12 | 2026-07-15 |
 | 1200 | 🟢 open | 👀 reviewed | [#1200 — docs: add findtxout RPC documentation](https://github.com/getfloresta/Floresta/pull/1200) | 2026-07-09 |  |
 | 1198 | ✅ merged | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) | 2026-07-08 | 2026-07-09 |

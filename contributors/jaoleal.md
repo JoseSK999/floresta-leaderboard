@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-16
+- Generated: 2026-07-17
 
 ## Summary
 
@@ -72,6 +72,7 @@ Ordered newest first by PR number.
 | 1074 | ❌ closed | ✍️ author | [#1074 — Rpcsaga/impl getindexinfo](https://github.com/getfloresta/Floresta/pull/1074) | 2026-05-19 | 2026-05-19 |
 | 1071 | ✅ merged | 👀 reviewed | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
+| 1067 | 🟢 open | 👀 reviewed | [#1067 — [REFACTOR][RPC] Centralize RPC traits and method names](https://github.com/getfloresta/Floresta/pull/1067) | 2026-05-15 |  |
 | 1065 | ✅ merged | 👀 reviewed | [#1065 — ci: don't fail on SSH signatures](https://github.com/getfloresta/Floresta/pull/1065) | 2026-05-15 | 2026-05-20 |
 | 1064 | ✅ merged | ✍️ author | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
 | 1061 | ✅ merged | 👀 reviewed | [#1061 — feat(wire): disconnect slowest peers in `SyncNode`](https://github.com/getfloresta/Floresta/pull/1061) | 2026-05-14 | 2026-06-03 |
