@@ -1,13 +1,13 @@
 # @cirqueira-labs impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-17
+- Generated: 2026-07-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 686 |
+| ✅ Project merged PRs | 688 |
 | 🎯 Merged PRs with my impact | 2 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -28,6 +28,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-17 | 1210 | — no | — | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
+| 2026-07-17 | 1213 | — no | — | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) |
 | 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
 | 2026-07-15 | 1211 | — no | — | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |

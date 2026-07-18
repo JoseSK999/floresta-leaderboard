@@ -1,4 +1,4 @@
-# @siddheshzz impact report
+# @octaviolucca impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-07-18
@@ -8,8 +8,8 @@
 | Metric | Count |
 |---|---:|
 | ✅ Project merged PRs | 688 |
-| 🎯 Merged PRs with my impact | 3 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🎯 Merged PRs with my impact | 1 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,9 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 371 | ✅ merged | ✍️ author | [#371 — code quality:Fix code simplification clippy warnings](https://github.com/getfloresta/Floresta/pull/371) | 2025-02-07 | 2025-02-12 |
-| 367 | ✅ merged | ✍️ author | [#367 — code quality- Fixing serde clippy warning](https://github.com/getfloresta/Floresta/pull/367) | 2025-02-05 | 2025-02-05 |
-| 361 | ✅ merged | ✍️ author | [#361 — Remove unused cfg attributes](https://github.com/getfloresta/Floresta/pull/361) | 2025-01-31 | 2025-02-04 |
+| 1210 | ✅ merged | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
+| 1207 | ❌ closed | ✍️ author | [#1207 — testing CI ](https://github.com/getfloresta/Floresta/pull/1207) | 2026-07-14 | 2026-07-14 |
+| 1161 | 🟢 open | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 
 ## All merged PRs
 
@@ -29,7 +29,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-07-17 | 1210 | — no | — | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
+| 2026-07-17 | 1210 | ✅ yes | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
 | 2026-07-17 | 1213 | — no | — | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) |
 | 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
@@ -454,10 +454,10 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2025-02-22 | 380 | — no | — | [#380 — README: Add floresta-docs link](https://github.com/getfloresta/Floresta/pull/380) |
 | 2025-02-17 | 377 | — no | — | [#377 — doc: add floresta-cli PATH installation command to README](https://github.com/getfloresta/Floresta/pull/377) |
 | 2025-02-14 | 372 | — no | — | [#372 — More metrics](https://github.com/getfloresta/Floresta/pull/372) |
-| 2025-02-12 | 371 | ✅ yes | ✍️ author | [#371 — code quality:Fix code simplification clippy warnings](https://github.com/getfloresta/Floresta/pull/371) |
+| 2025-02-12 | 371 | — no | — | [#371 — code quality:Fix code simplification clippy warnings](https://github.com/getfloresta/Floresta/pull/371) |
 | 2025-02-10 | 346 | — no | — | [#346 — Feat: Create some very basic mempool stuff](https://github.com/getfloresta/Floresta/pull/346) |
-| 2025-02-05 | 367 | ✅ yes | ✍️ author | [#367 — code quality- Fixing serde clippy warning](https://github.com/getfloresta/Floresta/pull/367) |
-| 2025-02-04 | 361 | ✅ yes | ✍️ author | [#361 — Remove unused cfg attributes](https://github.com/getfloresta/Floresta/pull/361) |
+| 2025-02-05 | 367 | — no | — | [#367 — code quality- Fixing serde clippy warning](https://github.com/getfloresta/Floresta/pull/367) |
+| 2025-02-04 | 361 | — no | — | [#361 — Remove unused cfg attributes](https://github.com/getfloresta/Floresta/pull/361) |
 | 2025-02-04 | 357 | — no | — | [#357 — doc: make template more concise, add ref to CONTRIBUTING.md on template](https://github.com/getfloresta/Floresta/pull/357) |
 | 2025-02-04 | 365 | — no | — | [#365 — fix(florestad): don't panic if a lock cannot be obtained to the datadir, RPC and Electrum ports](https://github.com/getfloresta/Floresta/pull/365) |
 | 2025-02-03 | 353 | — no | — | [#353 — add fuzz testing to ci-cd](https://github.com/getfloresta/Floresta/pull/353) |

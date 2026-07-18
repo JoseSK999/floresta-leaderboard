@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-17
+- Generated: 2026-07-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 686 |
-| 🎯 Merged PRs with my impact | 595 |
-| 🔥 [Current impact streak](#all-merged-prs) | **99** |
+| ✅ Project merged PRs | 688 |
+| 🎯 Merged PRs with my impact | 597 |
+| 🔥 [Current impact streak](#all-merged-prs) | **101** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1213 | 🟢 open | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 |  |
+| 1213 | ✅ merged | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 | 2026-07-17 |
 | 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
-| 1210 | 🟢 open | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 |  |
+| 1210 | ✅ merged | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
 | 1205 | 🟢 open | ✍️ author | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1204 | ✅ merged | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |
@@ -690,6 +690,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-07-17 | 1210 | ✅ yes | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
+| 2026-07-17 | 1213 | ✅ yes | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) |
 | 2026-07-15 | 1209 | ✅ yes | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | ✅ yes | 👀 reviewed | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
 | 2026-07-15 | 1211 | ✅ yes | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
