@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-20
+- Generated: 2026-07-21
 
 ## Summary
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1219 | 🟢 open | 👀 reviewed | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) | 2026-07-19 |  |
+| 1217 | 🟢 open | 👀 reviewed | [#1217 — chore(deps): bump flake-parts from `0678d89` to `f7c1a2d` in the all group](https://github.com/getfloresta/Floresta/pull/1217) | 2026-07-19 |  |
 | 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
 | 1210 | ✅ merged | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1206 | 🟢 open | ✍️ author | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
