@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-26
+- Generated: 2026-07-27
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1230 | 🟢 open | 👀 reviewed | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) | 2026-07-26 |  |
 | 1222 | ✅ merged | 👀 reviewed | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) | 2026-07-21 | 2026-07-21 |
 | 1221 | 🟢 open | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
 | 1219 | ✅ merged | 👀 reviewed | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) | 2026-07-19 | 2026-07-21 |

@@ -1,7 +1,7 @@
 # @brunoerg impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-26
+- Generated: 2026-07-27
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1231 | 🟢 open | ✍️ author | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
 | 781 | ✅ merged | 👀 reviewed | [#781 — fix: several improvements to how AddrMan works](https://github.com/getfloresta/Floresta/pull/781) | 2026-01-13 | 2026-02-24 |
 | 529 | ❌ closed | 👀 reviewed | [#529 — fuzz: FlatChainstore targets](https://github.com/getfloresta/Floresta/pull/529) | 2025-06-20 | 2026-04-23 |
 | 491 | ✅ merged | ✍️ author | [#491 — fuzz: add target for addrman](https://github.com/getfloresta/Floresta/pull/491) | 2025-05-19 | 2025-05-20 |
