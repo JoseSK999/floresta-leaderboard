@@ -1,7 +1,7 @@
 # @octaviolucca impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-27
+- Generated: 2026-07-28
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1233 | 🟢 open | ✍️ author | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 |  |
 | 1210 | ✅ merged | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1207 | ❌ closed | ✍️ author | [#1207 — testing CI ](https://github.com/getfloresta/Floresta/pull/1207) | 2026-07-14 | 2026-07-14 |
 | 1161 | 🟢 open | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |

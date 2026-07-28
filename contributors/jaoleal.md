@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-27
+- Generated: 2026-07-28
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1230 | 🟢 open | 👀 reviewed | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) | 2026-07-26 |  |
 | 1222 | ✅ merged | 👀 reviewed | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) | 2026-07-21 | 2026-07-21 |
 | 1219 | ✅ merged | 👀 reviewed | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) | 2026-07-19 | 2026-07-21 |
 | 1217 | ✅ merged | 👀 reviewed | [#1217 — chore(deps): bump flake-parts from `0678d89` to `f7c1a2d` in the all group](https://github.com/getfloresta/Floresta/pull/1217) | 2026-07-19 | 2026-07-21 |
