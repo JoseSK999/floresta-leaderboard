@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-29
+- Generated: 2026-07-30
 
 ## Summary
 
@@ -21,6 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1233 | 🟢 open | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 |  |
 | 1231 | 🟢 open | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
+| 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
 | 1220 | 🟢 open | ✍️ author | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) | 2026-07-19 |  |
 | 1215 | 🟢 open | ✍️ author | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 |  |
 | 1206 | 🟢 open | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
