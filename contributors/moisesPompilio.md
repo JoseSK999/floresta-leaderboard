@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-07-30
+- Generated: 2026-07-31
 
 ## Summary
 
@@ -31,7 +31,7 @@ Ordered newest first by PR number.
 | 1206 | 🟢 open | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
 | 1205 | 🟢 open | 👀 reviewed | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1201 | ✅ merged | 👀 reviewed | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) | 2026-07-12 | 2026-07-15 |
-| 1200 | 🟢 open | 👀 reviewed | [#1200 — docs: add findtxout RPC documentation](https://github.com/getfloresta/Floresta/pull/1200) | 2026-07-09 |  |
+| 1200 | ❌ closed | 👀 reviewed | [#1200 — docs: add findtxout RPC documentation](https://github.com/getfloresta/Floresta/pull/1200) | 2026-07-09 | 2026-07-30 |
 | 1198 | ✅ merged | 👀 reviewed | [#1198 — chore(deps): bump pytest from 9.0.2 to 9.0.3 in the all group](https://github.com/getfloresta/Floresta/pull/1198) | 2026-07-08 | 2026-07-09 |
 | 1197 | ✅ merged | 👀 reviewed | [#1197 — chore: bump rustreexo 0.5.0 -> 0.6.0](https://github.com/getfloresta/Floresta/pull/1197) | 2026-07-08 | 2026-07-09 |
 | 1196 | ✅ merged | 👀 reviewed | [#1196 — Group all dependabot updates in the same PR](https://github.com/getfloresta/Floresta/pull/1196) | 2026-07-08 | 2026-07-08 |
