@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-01
+- Generated: 2026-08-02
 
 ## Summary
 
@@ -118,7 +118,7 @@ Ordered newest first by PR number.
 | 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 942 | ✅ merged | 👀 reviewed | [#942 — fix(wire): Don't request the same block twice](https://github.com/getfloresta/Floresta/pull/942) | 2026-04-07 | 2026-04-10 |
 | 941 | ✅ merged | 👀 reviewed | [#941 — [0.9.x] Backport #930](https://github.com/getfloresta/Floresta/pull/941) | 2026-04-07 | 2026-04-08 |
-| 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
+| 931 | ❌ closed | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 926 | 🟢 open | 👀 reviewed | [#926 — feat(wire): implement BanMan and make it single source of truth for bans](https://github.com/getfloresta/Floresta/pull/926) | 2026-04-02 |  |
 | 925 | ✅ merged | 👀 reviewed | [#925 — feat(chain): add ChainState::open() for load-or-create](https://github.com/getfloresta/Floresta/pull/925) | 2026-04-02 | 2026-04-16 |
 | 924 | ❌ closed | 👀 reviewed | [#924 — Ci linting action](https://github.com/getfloresta/Floresta/pull/924) | 2026-04-02 | 2026-06-09 |

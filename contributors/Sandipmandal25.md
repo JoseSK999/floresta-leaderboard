@@ -1,7 +1,7 @@
 # @Sandipmandal25 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-01
+- Generated: 2026-08-02
 
 ## Summary
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 970 | 🟢 open | ✍️ author | [#970 — feat(wire): rename ConnectionKind::Regular to OutboundFullRelay, add BlockRelayOnly and AddrFetch](https://github.com/getfloresta/Floresta/pull/970) | 2026-04-19 |  |
 | 936 | ❌ closed | 👀 reviewed | [#936 — fix: improve reorganization logic to defer reorg](https://github.com/getfloresta/Floresta/pull/936) | 2026-04-04 | 2026-05-19 |
-| 931 | 🟢 open | ✍️ author | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
+| 931 | ❌ closed | ✍️ author | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 925 | ✅ merged | ✍️ author | [#925 — feat(chain): add ChainState::open() for load-or-create](https://github.com/getfloresta/Floresta/pull/925) | 2026-04-02 | 2026-04-16 |
 
 ## All merged PRs

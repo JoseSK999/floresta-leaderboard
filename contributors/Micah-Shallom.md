@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-01
+- Generated: 2026-08-02
 
 ## Summary
 
@@ -46,7 +46,7 @@ Ordered newest first by PR number.
 | 986 | 🟢 open | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
 | 973 | ✅ merged | ✍️ author | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 948 | ✅ merged | ✍️ author | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
-| 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
+| 931 | ❌ closed | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 926 | 🟢 open | ✍️ author | [#926 — feat(wire): implement BanMan and make it single source of truth for bans](https://github.com/getfloresta/Floresta/pull/926) | 2026-04-02 |  |
 | 925 | ✅ merged | 👀 reviewed | [#925 — feat(chain): add ChainState::open() for load-or-create](https://github.com/getfloresta/Floresta/pull/925) | 2026-04-02 | 2026-04-16 |
 | 916 | 📝 draft | 👀 reviewed | [#916 — Network RPCs: getaddednodeinfo, addpeeraddress, getnodedaddresses e getaddrmaninfo.](https://github.com/getfloresta/Floresta/pull/916) | 2026-03-27 | 2026-06-03 |

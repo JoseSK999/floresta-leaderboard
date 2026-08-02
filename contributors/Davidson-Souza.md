@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-01
+- Generated: 2026-08-02
 
 ## Summary
 
@@ -151,7 +151,7 @@ Ordered newest first by PR number.
 | 941 | ✅ merged | 👀 reviewed | [#941 — [0.9.x] Backport #930](https://github.com/getfloresta/Floresta/pull/941) | 2026-04-07 | 2026-04-08 |
 | 940 | ✅ merged | 👀 reviewed | [#940 — Avoid panic during node shutdown](https://github.com/getfloresta/Floresta/pull/940) | 2026-04-07 | 2026-04-09 |
 | 937 | ✅ merged | 👀 reviewed | [#937 — fix(chain,compact-filters): replace Debug delegation in Display impls with per-variant messages](https://github.com/getfloresta/Floresta/pull/937) | 2026-04-04 | 2026-05-25 |
-| 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
+| 931 | ❌ closed | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 930 | ✅ merged | ✍️ author | [#930 — chore: remove the mainnet bridges warning, as we now have those](https://github.com/getfloresta/Floresta/pull/930) | 2026-04-02 | 2026-04-03 |
 | 926 | 🟢 open | 👀 reviewed | [#926 — feat(wire): implement BanMan and make it single source of truth for bans](https://github.com/getfloresta/Floresta/pull/926) | 2026-04-02 |  |
 | 925 | ✅ merged | 👀 reviewed | [#925 — feat(chain): add ChainState::open() for load-or-create](https://github.com/getfloresta/Floresta/pull/925) | 2026-04-02 | 2026-04-16 |

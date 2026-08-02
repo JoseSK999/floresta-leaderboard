@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-01
+- Generated: 2026-08-02
 
 ## Summary
 
@@ -92,7 +92,7 @@ Ordered newest first by PR number.
 | 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 937 | ✅ merged | 👀 reviewed | [#937 — fix(chain,compact-filters): replace Debug delegation in Display impls with per-variant messages](https://github.com/getfloresta/Floresta/pull/937) | 2026-04-04 | 2026-05-25 |
 | 936 | ❌ closed | 👀 reviewed | [#936 — fix: improve reorganization logic to defer reorg](https://github.com/getfloresta/Floresta/pull/936) | 2026-04-04 | 2026-05-19 |
-| 931 | 🟢 open | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 |  |
+| 931 | ❌ closed | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 922 | 📝 draft | 👀 reviewed | [#922 — Refactor AddressCache API to use Result-based error handling](https://github.com/getfloresta/Floresta/pull/922) | 2026-04-02 | 2026-04-02 |
 | 917 | ✅ merged | 👀 reviewed | [#917 — chore: bump version for release](https://github.com/getfloresta/Floresta/pull/917) | 2026-03-28 | 2026-03-31 |
 | 916 | 📝 draft | 👀 reviewed | [#916 — Network RPCs: getaddednodeinfo, addpeeraddress, getnodedaddresses e getaddrmaninfo.](https://github.com/getfloresta/Floresta/pull/916) | 2026-03-27 | 2026-06-03 |
