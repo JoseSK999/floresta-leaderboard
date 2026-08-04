@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-03
+- Generated: 2026-08-04
 
 ## Summary
 
@@ -142,7 +142,7 @@ Ordered newest first by PR number.
 | 967 | ✅ merged | 👀 reviewed | [#967 — docs: updated CLI paths and commands](https://github.com/getfloresta/Floresta/pull/967) | 2026-04-18 | 2026-04-20 |
 | 966 | ✅ merged | 👀 reviewed | [#966 — Implement `Display` & `Error` for error enums](https://github.com/getfloresta/Floresta/pull/966) | 2026-04-17 | 2026-04-27 |
 | 957 | ✅ merged | 👀 reviewed | [#957 — [BUG] mempool_size should decreased  when txn is removed from mempool](https://github.com/getfloresta/Floresta/pull/957) | 2026-04-14 | 2026-04-17 |
-| 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
+| 956 | ❌ closed | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 | 2026-08-03 |
 | 955 | ✅ merged | ✍️ author | [#955 — chore: backport #942 for 0.9.x](https://github.com/getfloresta/Floresta/pull/955) | 2026-04-14 | 2026-04-14 |
 | 954 | ✅ merged | 👀 reviewed | [#954 — doc: Remove additional run argument](https://github.com/getfloresta/Floresta/pull/954) | 2026-04-12 | 2026-04-13 |
 | 950 | 📝 draft | 👀 reviewed | [#950 — [POC BDK] Introduce modular trait-based watch-only wallet architecture](https://github.com/getfloresta/Floresta/pull/950) | 2026-04-09 |  |

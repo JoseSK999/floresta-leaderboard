@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-03
+- Generated: 2026-08-04
 
 ## Summary
 
@@ -21,6 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1235 | 🟢 open | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 |  |
 | 1234 | 🟢 open | ✍️ author | [#1234 — Add security marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) | 2026-07-28 |  |
+| 1231 | 🟢 open | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
 | 1223 | 📝 draft | ✍️ author | [#1223 — CI: enforce per-commit atomic checks in CI](https://github.com/getfloresta/Floresta/pull/1223) | 2026-07-21 |  |
 | 1222 | ✅ merged | 👀 reviewed | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) | 2026-07-21 | 2026-07-21 |
 | 1213 | ✅ merged | ✍️ author | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 | 2026-07-17 |

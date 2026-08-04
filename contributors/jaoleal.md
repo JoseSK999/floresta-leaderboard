@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-03
+- Generated: 2026-08-04
 
 ## Summary
 
@@ -113,7 +113,7 @@ Ordered newest first by PR number.
 | 977 | ❌ closed | 👀 reviewed | [#977 — docs: Update Homebrew install command in build-macos.md](https://github.com/getfloresta/Floresta/pull/977) | 2026-04-21 | 2026-06-09 |
 | 973 | ✅ merged | 👀 reviewed | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 960 | 📝 draft | ✍️ author | [#960 — Chore: add linters and formatters para Dockerfile, justfile, TOMLs and sh scripts.](https://github.com/getfloresta/Floresta/pull/960) | 2026-04-15 | 2026-07-03 |
-| 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
+| 956 | ❌ closed | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 | 2026-08-03 |
 | 955 | ✅ merged | 👀 reviewed | [#955 — chore: backport #942 for 0.9.x](https://github.com/getfloresta/Floresta/pull/955) | 2026-04-14 | 2026-04-14 |
 | 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 942 | ✅ merged | 👀 reviewed | [#942 — fix(wire): Don't request the same block twice](https://github.com/getfloresta/Floresta/pull/942) | 2026-04-07 | 2026-04-10 |

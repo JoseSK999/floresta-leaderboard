@@ -1,7 +1,7 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-03
+- Generated: 2026-08-04
 
 ## Summary
 
@@ -42,7 +42,7 @@ Ordered newest first by PR number.
 | 985 | ✅ merged | 👀 reviewed | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 984 | ✅ merged | 👀 reviewed | [#984 — feat(wire)!: Add a new `BitcoinSocketAddr` struct to unify address parsing](https://github.com/getfloresta/Floresta/pull/984) | 2026-04-23 | 2026-06-05 |
 | 957 | ✅ merged | 👀 reviewed | [#957 — [BUG] mempool_size should decreased  when txn is removed from mempool](https://github.com/getfloresta/Floresta/pull/957) | 2026-04-14 | 2026-04-17 |
-| 956 | 🟢 open | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 |  |
+| 956 | ❌ closed | 👀 reviewed | [#956 — Refactor(electrum): Remove unwraps and expects](https://github.com/getfloresta/Floresta/pull/956) | 2026-04-14 | 2026-08-03 |
 | 955 | ✅ merged | 👀 reviewed | [#955 — chore: backport #942 for 0.9.x](https://github.com/getfloresta/Floresta/pull/955) | 2026-04-14 | 2026-04-14 |
 | 954 | ✅ merged | 👀 reviewed | [#954 — doc: Remove additional run argument](https://github.com/getfloresta/Floresta/pull/954) | 2026-04-12 | 2026-04-13 |
 | 948 | ✅ merged | 👀 reviewed | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
