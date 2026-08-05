@@ -1,13 +1,13 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-04
+- Generated: 2026-08-05
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 693 |
+| ✅ Project merged PRs | 695 |
 | 🎯 Merged PRs with my impact | 162 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1236 | 🟢 open | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 |  |
+| 1231 | 🟢 open | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
 | 1213 | ✅ merged | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 | 2026-07-17 |
 | 1204 | ✅ merged | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |
 | 1203 | ✅ merged | 👀 reviewed | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) | 2026-07-12 | 2026-07-13 |
@@ -200,6 +202,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
+| 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
 | 2026-07-21 | 1218 | — no | — | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) |
 | 2026-07-21 | 1222 | — no | — | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) |

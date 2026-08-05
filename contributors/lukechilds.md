@@ -1,13 +1,13 @@
 # @lukechilds impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-04
+- Generated: 2026-08-05
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 693 |
+| ✅ Project merged PRs | 695 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
+| 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
 | 2026-07-21 | 1218 | — no | — | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) |
 | 2026-07-21 | 1222 | — no | — | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) |

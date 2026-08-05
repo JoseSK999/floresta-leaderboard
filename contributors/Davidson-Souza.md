@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-04
+- Generated: 2026-08-05
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 693 |
-| 🎯 Merged PRs with my impact | 602 |
-| 🔥 [Current impact streak](#all-merged-prs) | **106** |
+| ✅ Project merged PRs | 695 |
+| 🎯 Merged PRs with my impact | 604 |
+| 🔥 [Current impact streak](#all-merged-prs) | **108** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1243 | 🟢 open | 👀 reviewed | [#1243 — fix(wire): don't panic when a peer is unresponsive during fork resolution](https://github.com/getfloresta/Floresta/pull/1243) | 2026-08-02 |  |
+| 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
+| 1236 | 🟢 open | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 |  |
+| 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1230 | ✅ merged | 👀 reviewed | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) | 2026-07-26 | 2026-07-28 |
 | 1222 | ✅ merged | 👀 reviewed | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) | 2026-07-21 | 2026-07-21 |
 | 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
@@ -697,6 +701,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-04 | 1233 | ✅ yes | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
+| 2026-08-04 | 1242 | ✅ yes | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | ✅ yes | 👀 reviewed | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
 | 2026-07-21 | 1218 | ✅ yes | 👀 reviewed | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) |
 | 2026-07-21 | 1222 | ✅ yes | 👀 reviewed | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) |

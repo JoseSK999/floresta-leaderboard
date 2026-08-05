@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-04
+- Generated: 2026-08-05
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 693 |
-| 🎯 Merged PRs with my impact | 10 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 695 |
+| 🎯 Merged PRs with my impact | 11 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -20,7 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1235 | 🟢 open | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 |  |
-| 1233 | 🟢 open | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 |  |
+| 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1231 | 🟢 open | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
 | 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
 | 1220 | 🟢 open | ✍️ author | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) | 2026-07-19 |  |
@@ -64,6 +64,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-04 | 1233 | ✅ yes | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
+| 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
 | 2026-07-21 | 1218 | — no | — | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) |
 | 2026-07-21 | 1222 | — no | — | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) |
