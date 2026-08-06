@@ -1,13 +1,13 @@
 # @Husteem impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-05
+- Generated: 2026-08-06
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 695 |
+| ✅ Project merged PRs | 697 |
 | 🎯 Merged PRs with my impact | 6 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1232 | 🟢 open | ✍️ author | [#1232 — feat(node): made flat_chain_store capacities configurable](https://github.com/getfloresta/Floresta/pull/1232) | 2026-07-27 |  |
+| 1247 | 🟢 open | ✍️ author | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
+| 1232 | ❌ closed | ✍️ author | [#1232 — feat(node): made flat_chain_store capacities configurable](https://github.com/getfloresta/Floresta/pull/1232) | 2026-07-27 | 2026-08-05 |
 | 1204 | ✅ merged | ✍️ author | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |
 | 1195 | ✅ merged | ✍️ author | [#1195 — docs(rpc): added listdescriptors documentation](https://github.com/getfloresta/Floresta/pull/1195) | 2026-07-07 | 2026-07-08 |
 | 1189 | ✅ merged | ✍️ author | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 | 2026-07-07 |
@@ -34,6 +35,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-05 | 1135 | — no | — | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
+| 2026-08-05 | 1231 | — no | — | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
 | 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |

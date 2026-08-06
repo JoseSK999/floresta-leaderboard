@@ -1,14 +1,14 @@
 # @brunoerg impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-05
+- Generated: 2026-08-06
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 695 |
-| 🎯 Merged PRs with my impact | 7 |
+| ✅ Project merged PRs | 697 |
+| 🎯 Merged PRs with my impact | 8 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1231 | 🟢 open | ✍️ author | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 |  |
+| 1231 | ✅ merged | ✍️ author | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
 | 781 | ✅ merged | 👀 reviewed | [#781 — fix: several improvements to how AddrMan works](https://github.com/getfloresta/Floresta/pull/781) | 2026-01-13 | 2026-02-24 |
 | 529 | ❌ closed | 👀 reviewed | [#529 — fuzz: FlatChainstore targets](https://github.com/getfloresta/Floresta/pull/529) | 2025-06-20 | 2026-04-23 |
 | 491 | ✅ merged | ✍️ author | [#491 — fuzz: add target for addrman](https://github.com/getfloresta/Floresta/pull/491) | 2025-05-19 | 2025-05-20 |
@@ -35,6 +35,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-05 | 1135 | — no | — | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
+| 2026-08-05 | 1231 | ✅ yes | ✍️ author | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
 | 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
