@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-06
+- Generated: 2026-08-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 697 |
-| 🎯 Merged PRs with my impact | 13 |
-| 🔥 [Current impact streak](#all-merged-prs) | **3** |
+| ✅ Project merged PRs | 701 |
+| 🎯 Merged PRs with my impact | 14 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,11 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1235 | 🟢 open | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 |  |
+| 1249 | 📝 draft | ✍️ author | [#1249 — [WIP]wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
+| 1235 | ✅ merged | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
 | 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
-| 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
+| 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 | 2026-08-07 |
 | 1220 | 🟢 open | ✍️ author | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) | 2026-07-19 |  |
 | 1215 | 🟢 open | ✍️ author | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 |  |
 | 1206 | 🟢 open | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
@@ -64,6 +65,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-06 | 1235 | ✅ yes | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) |
+| 2026-08-06 | 1250 | — no | — | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) |
+| 2026-08-06 | 1248 | — no | — | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) |
+| 2026-08-06 | 1106 | — no | — | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) |
 | 2026-08-05 | 1135 | ✅ yes | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
 | 2026-08-05 | 1231 | ✅ yes | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | ✅ yes | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |

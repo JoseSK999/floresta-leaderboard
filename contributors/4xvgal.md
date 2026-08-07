@@ -1,13 +1,13 @@
 # @4xvgal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-06
+- Generated: 2026-08-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 697 |
+| ✅ Project merged PRs | 701 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1221 | 📝 draft | ✍️ author | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 |  |
+| 1253 | 📝 draft | ✍️ author | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
+| 1221 | 📝 draft | ✍️ author | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 | 2026-08-07 |
 | 1209 | ✅ merged | ✍️ author | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
 
 ## All merged PRs
@@ -28,6 +29,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-06 | 1235 | — no | — | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) |
+| 2026-08-06 | 1250 | — no | — | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) |
+| 2026-08-06 | 1248 | — no | — | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) |
+| 2026-08-06 | 1106 | — no | — | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) |
 | 2026-08-05 | 1135 | — no | — | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
 | 2026-08-05 | 1231 | — no | — | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |

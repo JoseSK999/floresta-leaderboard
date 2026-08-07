@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-06
+- Generated: 2026-08-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 697 |
-| 🎯 Merged PRs with my impact | 88 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 701 |
+| 🎯 Merged PRs with my impact | 91 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1248 | 🟢 open | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 |  |
+| 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
-| 1235 | 🟢 open | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 |  |
+| 1235 | ✅ merged | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
 | 1234 | 🟢 open | ✍️ author | [#1234 — Add security marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) | 2026-07-28 |  |
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
 | 1223 | 📝 draft | ✍️ author | [#1223 — CI: enforce per-commit atomic checks in CI](https://github.com/getfloresta/Floresta/pull/1223) | 2026-07-21 |  |
@@ -61,7 +61,7 @@ Ordered newest first by PR number.
 | 1116 | ✅ merged | 👀 reviewed | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
 | 1114 | 🟢 open | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
-| 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
+| 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
 | 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
@@ -159,6 +159,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-06 | 1235 | ✅ yes | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) |
+| 2026-08-06 | 1250 | — no | — | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) |
+| 2026-08-06 | 1248 | ✅ yes | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) |
+| 2026-08-06 | 1106 | ✅ yes | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) |
 | 2026-08-05 | 1135 | ✅ yes | ✍️ author | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
 | 2026-08-05 | 1231 | ✅ yes | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |

@@ -1,14 +1,14 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-06
+- Generated: 2026-08-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 697 |
-| 🎯 Merged PRs with my impact | 261 |
+| ✅ Project merged PRs | 701 |
+| 🎯 Merged PRs with my impact | 262 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -23,7 +23,7 @@ Ordered newest first by PR number.
 | 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1115 | 📝 draft | ✍️ author | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
-| 1106 | 🟢 open | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 |  |
+| 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
 | 1094 | ✅ merged | 👀 reviewed | [#1094 — chore: add my dns seed to testnet, mainnet and update the signet one](https://github.com/getfloresta/Floresta/pull/1094) | 2026-05-27 | 2026-05-28 |
 | 1077 | ✅ merged | 👀 reviewed | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) | 2026-05-20 | 2026-05-27 |
 | 1066 | ✅ merged | 👀 reviewed | [#1066 — chore: remove `returns` with the `?` operator](https://github.com/getfloresta/Floresta/pull/1066) | 2026-05-15 | 2026-05-15 |
@@ -308,6 +308,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-06 | 1235 | — no | — | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) |
+| 2026-08-06 | 1250 | — no | — | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) |
+| 2026-08-06 | 1248 | — no | — | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) |
+| 2026-08-06 | 1106 | ✅ yes | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) |
 | 2026-08-05 | 1135 | — no | — | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
 | 2026-08-05 | 1231 | — no | — | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
 | 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
