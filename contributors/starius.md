@@ -1,7 +1,7 @@
 # @starius impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-09
+- Generated: 2026-08-10
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |
 | 1106 | ✅ merged | ✍️ author | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
 | 724 | ✅ merged | ✍️ author | [#724 — chore(slip132): remove unused KeyApplication](https://github.com/getfloresta/Floresta/pull/724) | 2025-12-07 | 2025-12-08 |
 
