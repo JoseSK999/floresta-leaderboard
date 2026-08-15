@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-14
+- Generated: 2026-08-15
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1271 | 📝 draft | ✍️ author | [#1271 — Reject leaves with future creation height](https://github.com/getfloresta/Floresta/pull/1271) | 2026-08-14 |  |
 | 1268 | 🟢 open | 👀 reviewed | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) | 2026-08-12 |  |
 | 1266 | 🟢 open | ✍️ author | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) | 2026-08-11 |  |
 | 1265 | 🟢 open | ✍️ author | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) | 2026-08-11 |  |
