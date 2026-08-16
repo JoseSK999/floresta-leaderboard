@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-15
+- Generated: 2026-08-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 706 |
-| 🎯 Merged PRs with my impact | 615 |
-| 🔥 [Current impact streak](#all-merged-prs) | **119** |
+| ✅ Project merged PRs | 707 |
+| 🎯 Merged PRs with my impact | 616 |
+| 🔥 [Current impact streak](#all-merged-prs) | **120** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -20,6 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1269 | 🟢 open | 👀 reviewed | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 |  |
+| 1265 | ✅ merged | 👀 reviewed | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) | 2026-08-11 | 2026-08-15 |
 | 1264 | ✅ merged | 👀 reviewed | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) | 2026-08-10 | 2026-08-13 |
 | 1263 | ✅ merged | 👀 reviewed | [#1263 — chore(wire): allow Clippy lint in derived code](https://github.com/getfloresta/Floresta/pull/1263) | 2026-08-10 | 2026-08-10 |
 | 1262 | 🟢 open | ✍️ author | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 |  |
@@ -720,6 +721,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-15 | 1265 | ✅ yes | 👀 reviewed | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) |
 | 2026-08-13 | 1264 | ✅ yes | 👀 reviewed | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) |
 | 2026-08-13 | 1261 | ✅ yes | 👀 reviewed | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) |
 | 2026-08-11 | 1258 | ✅ yes | 👀 reviewed | [#1258 — chore(deps): bump taiki-e/install-action from 2.81.3 to 2.81.10 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1258) |
