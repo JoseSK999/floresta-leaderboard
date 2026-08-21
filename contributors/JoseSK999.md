@@ -1,13 +1,13 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-20
+- Generated: 2026-08-21
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 707 |
+| ✅ Project merged PRs | 712 |
 | 🎯 Merged PRs with my impact | 265 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -24,6 +24,7 @@ Ordered newest first by PR number.
 | 1260 | 🟢 open | 👀 reviewed | [#1260 — feat: enforce time rules on headers](https://github.com/getfloresta/Floresta/pull/1260) | 2026-08-10 |  |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | 🟢 open | ✍️ author | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 |  |
+| 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1236 | 🟢 open | ✍️ author | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 |  |
 | 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1115 | 📝 draft | ✍️ author | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
@@ -313,6 +314,11 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-20 | 1283 | — no | — | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) |
+| 2026-08-20 | 1282 | — no | — | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) |
+| 2026-08-20 | 1274 | — no | — | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) |
+| 2026-08-20 | 1275 | — no | — | [#1275 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1275) |
+| 2026-08-20 | 1279 | — no | — | [#1279 — chore(deps): bump the all group with 3 updates](https://github.com/getfloresta/Floresta/pull/1279) |
 | 2026-08-15 | 1265 | — no | — | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) |
 | 2026-08-13 | 1264 | — no | — | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) |
 | 2026-08-13 | 1261 | ✅ yes | ✍️ author | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) |
