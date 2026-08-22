@@ -1,13 +1,13 @@
 # @Husteem impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-21
+- Generated: 2026-08-22
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 712 |
+| ✅ Project merged PRs | 715 |
 | 🎯 Merged PRs with my impact | 6 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -36,6 +36,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-21 | 1259 | — no | — | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) |
+| 2026-08-21 | 1285 | — no | — | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) |
+| 2026-08-21 | 1236 | — no | — | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) |
 | 2026-08-20 | 1283 | — no | — | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) |
 | 2026-08-20 | 1282 | — no | — | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) |
 | 2026-08-20 | 1274 | — no | — | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) |

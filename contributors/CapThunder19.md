@@ -1,4 +1,4 @@
-# @4xvgal impact report
+# @CapThunder19 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-08-22
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 715 |
 | 🎯 Merged PRs with my impact | 1 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,9 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1253 | 🟢 open | ✍️ author | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
-| 1221 | 📝 draft | ✍️ author | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 | 2026-08-07 |
-| 1209 | ✅ merged | ✍️ author | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
+| 1259 | ✅ merged | ✍️ author | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
+| 1244 | ❌ closed | ✍️ author | [#1244 — fix(rpc): addnode now returns the actual error instead of always reporting success](https://github.com/getfloresta/Floresta/pull/1244) | 2026-08-03 | 2026-08-03 |
 
 ## All merged PRs
 
@@ -29,7 +28,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-08-21 | 1259 | — no | — | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) |
+| 2026-08-21 | 1259 | ✅ yes | ✍️ author | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) |
 | 2026-08-21 | 1285 | — no | — | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) |
 | 2026-08-21 | 1236 | — no | — | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) |
 | 2026-08-20 | 1283 | — no | — | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) |
@@ -58,7 +57,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-07-21 | 1219 | — no | — | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) |
 | 2026-07-17 | 1210 | — no | — | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
 | 2026-07-17 | 1213 | — no | — | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) |
-| 2026-07-15 | 1209 | ✅ yes | ✍️ author | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
+| 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |
 | 2026-07-15 | 1211 | — no | — | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) |
 | 2026-07-13 | 1203 | — no | — | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) |

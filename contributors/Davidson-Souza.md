@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-21
+- Generated: 2026-08-22
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 712 |
-| 🎯 Merged PRs with my impact | 621 |
-| 🔥 [Current impact streak](#all-merged-prs) | **125** |
+| ✅ Project merged PRs | 715 |
+| 🎯 Merged PRs with my impact | 624 |
+| 🔥 [Current impact streak](#all-merged-prs) | **128** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
 | 1283 | ✅ merged | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
 | 1282 | ✅ merged | 👀 reviewed | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) | 2026-08-20 | 2026-08-20 |
 | 1279 | ✅ merged | 👀 reviewed | [#1279 — chore(deps): bump the all group with 3 updates](https://github.com/getfloresta/Floresta/pull/1279) | 2026-08-18 | 2026-08-20 |
@@ -33,7 +34,7 @@ Ordered newest first by PR number.
 | 1262 | 🟢 open | ✍️ author | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 |  |
 | 1261 | ✅ merged | 👀 reviewed | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) | 2026-08-10 | 2026-08-13 |
 | 1260 | 🟢 open | 👀 reviewed | [#1260 — feat: enforce time rules on headers](https://github.com/getfloresta/Floresta/pull/1260) | 2026-08-10 |  |
-| 1259 | 🟢 open | 👀 reviewed | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 |  |
+| 1259 | ✅ merged | 👀 reviewed | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
 | 1258 | ✅ merged | 👀 reviewed | [#1258 — chore(deps): bump taiki-e/install-action from 2.81.3 to 2.81.10 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1258) | 2026-08-09 | 2026-08-11 |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | 🟢 open | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 |  |
@@ -46,7 +47,7 @@ Ordered newest first by PR number.
 | 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |
 | 1243 | 🟢 open | 👀 reviewed | [#1243 — fix(wire): don't panic when a peer is unresponsive during fork resolution](https://github.com/getfloresta/Floresta/pull/1243) | 2026-08-02 |  |
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
-| 1236 | 🟢 open | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 |  |
+| 1236 | ✅ merged | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1235 | ✅ merged | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
 | 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
@@ -730,6 +731,9 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-21 | 1259 | ✅ yes | 👀 reviewed | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) |
+| 2026-08-21 | 1285 | ✅ yes | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) |
+| 2026-08-21 | 1236 | ✅ yes | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) |
 | 2026-08-20 | 1283 | ✅ yes | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) |
 | 2026-08-20 | 1282 | ✅ yes | 👀 reviewed | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) |
 | 2026-08-20 | 1274 | ✅ yes | 👀 reviewed | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) |
