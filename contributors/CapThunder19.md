@@ -1,15 +1,15 @@
 # @CapThunder19 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-24
+- Generated: 2026-08-25
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 715 |
+| ✅ Project merged PRs | 717 |
 | 🎯 Merged PRs with my impact | 1 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -28,6 +28,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-24 | 1262 | — no | — | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) |
+| 2026-08-24 | 1284 | — no | — | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) |
 | 2026-08-21 | 1259 | ✅ yes | ✍️ author | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) |
 | 2026-08-21 | 1285 | — no | — | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) |
 | 2026-08-21 | 1236 | — no | — | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) |
