@@ -1,14 +1,14 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-26
+- Generated: 2026-08-27
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 718 |
-| 🎯 Merged PRs with my impact | 14 |
+| ✅ Project merged PRs | 722 |
+| 🎯 Merged PRs with my impact | 15 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1290 | 🟢 open | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 |  |
 | 1249 | 🟢 open | ✍️ author | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
 | 1235 | ✅ merged | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
 | 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
@@ -27,7 +28,7 @@ Ordered newest first by PR number.
 | 1220 | 🟢 open | ✍️ author | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) | 2026-07-19 |  |
 | 1215 | 🟢 open | ✍️ author | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 |  |
 | 1206 | 🟢 open | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
-| 1177 | 🟢 open | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
+| 1177 | ✅ merged | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
 | 1135 | ✅ merged | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 | 2026-08-05 |
 | 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1128 | ✅ merged | ✍️ author | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 | 2026-06-17 |
@@ -65,6 +66,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-27 | 1176 | — no | — | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
+| 2026-08-26 | 1269 | — no | — | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |
+| 2026-08-26 | 1177 | ✅ yes | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) |
+| 2026-08-26 | 1287 | — no | — | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) |
 | 2026-08-25 | 1286 | — no | — | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) |
 | 2026-08-24 | 1262 | — no | — | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) |
 | 2026-08-24 | 1284 | — no | — | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) |

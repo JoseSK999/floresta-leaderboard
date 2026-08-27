@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-26
+- Generated: 2026-08-27
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 718 |
-| 🎯 Merged PRs with my impact | 241 |
-| 🔥 [Current impact streak](#all-merged-prs) | **4** |
+| ✅ Project merged PRs | 722 |
+| 🎯 Merged PRs with my impact | 244 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,11 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1291 | 🟢 open | ✍️ author | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) | 2026-08-26 |  |
 | 1286 | ✅ merged | ✍️ author | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
 | 1284 | ✅ merged | 👀 reviewed | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) | 2026-08-20 | 2026-08-24 |
 | 1280 | 🟢 open | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
-| 1269 | 🟢 open | ✍️ author | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 |  |
+| 1269 | ✅ merged | ✍️ author | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 | 2026-08-26 |
 | 1264 | ✅ merged | ✍️ author | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) | 2026-08-10 | 2026-08-13 |
 | 1263 | ✅ merged | 👀 reviewed | [#1263 — chore(wire): allow Clippy lint in derived code](https://github.com/getfloresta/Floresta/pull/1263) | 2026-08-10 | 2026-08-10 |
 | 1262 | ✅ merged | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 | 2026-08-24 |
@@ -57,8 +58,8 @@ Ordered newest first by PR number.
 | 1189 | ✅ merged | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 | 2026-07-07 |
 | 1180 | ✅ merged | ✍️ author | [#1180 — test: add unit test for BitcoinSocketAddress::get_default_port](https://github.com/getfloresta/Floresta/pull/1180) | 2026-07-02 | 2026-07-03 |
 | 1178 | ✅ merged | ✍️ author | [#1178 — test(chain): chainstate-level test for fork tips](https://github.com/getfloresta/Floresta/pull/1178) | 2026-07-01 | 2026-07-02 |
-| 1177 | 🟢 open | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
-| 1176 | 🟢 open | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 |  |
+| 1177 | ✅ merged | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
+| 1176 | ✅ merged | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) | 2026-06-30 | 2026-08-27 |
 | 1175 | ✅ merged | 👀 reviewed | [#1175 — chore(deps): Weekly Bumps [2026-06-29]](https://github.com/getfloresta/Floresta/pull/1175) | 2026-06-30 | 2026-06-30 |
 | 1174 | ✅ merged | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1173 | ✅ merged | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
@@ -347,6 +348,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-27 | 1176 | ✅ yes | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
+| 2026-08-26 | 1269 | ✅ yes | ✍️ author | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |
+| 2026-08-26 | 1177 | ✅ yes | ✍️ author | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) |
+| 2026-08-26 | 1287 | — no | — | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) |
 | 2026-08-25 | 1286 | ✅ yes | ✍️ author | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) |
 | 2026-08-24 | 1262 | ✅ yes | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) |
 | 2026-08-24 | 1284 | ✅ yes | 👀 reviewed | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) |

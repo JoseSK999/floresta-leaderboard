@@ -1,13 +1,13 @@
 # @lukechilds impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-26
+- Generated: 2026-08-27
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 718 |
+| ✅ Project merged PRs | 722 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-27 | 1176 | — no | — | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
+| 2026-08-26 | 1269 | — no | — | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |
+| 2026-08-26 | 1177 | — no | — | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) |
+| 2026-08-26 | 1287 | — no | — | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) |
 | 2026-08-25 | 1286 | — no | — | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) |
 | 2026-08-24 | 1262 | — no | — | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) |
 | 2026-08-24 | 1284 | — no | — | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) |

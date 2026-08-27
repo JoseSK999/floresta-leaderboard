@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-26
+- Generated: 2026-08-27
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 718 |
-| 🎯 Merged PRs with my impact | 52 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 722 |
+| 🎯 Merged PRs with my impact | 55 |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,17 +19,18 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1287 | 🟢 open | ✍️ author | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 |  |
+| 1287 | ✅ merged | ✍️ author | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 | 2026-08-26 |
 | 1286 | ✅ merged | 👀 reviewed | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
 | 1283 | ✅ merged | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
 | 1280 | 🟢 open | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
+| 1269 | ✅ merged | 👀 reviewed | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 | 2026-08-26 |
 | 1264 | ✅ merged | 👀 reviewed | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) | 2026-08-10 | 2026-08-13 |
 | 1262 | ✅ merged | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 | 2026-08-24 |
 | 1261 | ✅ merged | 👀 reviewed | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) | 2026-08-10 | 2026-08-13 |
 | 1255 | 🟢 open | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 |  |
 | 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1249 | 🟢 open | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
-| 1177 | 🟢 open | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 |  |
+| 1177 | ✅ merged | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
 | 1155 | ✅ merged | ✍️ author | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
 | 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
@@ -94,6 +95,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-08-27 | 1176 | — no | — | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
+| 2026-08-26 | 1269 | ✅ yes | 👀 reviewed | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |
+| 2026-08-26 | 1177 | ✅ yes | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) |
+| 2026-08-26 | 1287 | ✅ yes | ✍️ author | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) |
 | 2026-08-25 | 1286 | ✅ yes | 👀 reviewed | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) |
 | 2026-08-24 | 1262 | ✅ yes | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) |
 | 2026-08-24 | 1284 | — no | — | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) |
