@@ -1,7 +1,7 @@
 # @CapThunder19 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-08-30
+- Generated: 2026-08-31
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1293 | 🟢 open | ✍️ author | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 |  |
 | 1259 | ✅ merged | ✍️ author | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
 | 1244 | ❌ closed | ✍️ author | [#1244 — fix(rpc): addnode now returns the actual error instead of always reporting success](https://github.com/getfloresta/Floresta/pull/1244) | 2026-08-03 | 2026-08-03 |
 
