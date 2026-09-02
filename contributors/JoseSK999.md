@@ -1,14 +1,14 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-01
+- Generated: 2026-09-02
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 723 |
-| 🎯 Merged PRs with my impact | 267 |
+| ✅ Project merged PRs | 729 |
+| 🎯 Merged PRs with my impact | 268 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,12 +19,13 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1300 | 🟢 open | ✍️ author | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 |  |
 | 1286 | ✅ merged | 👀 reviewed | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
 | 1263 | ✅ merged | ✍️ author | [#1263 — chore(wire): allow Clippy lint in derived code](https://github.com/getfloresta/Floresta/pull/1263) | 2026-08-10 | 2026-08-10 |
 | 1261 | ✅ merged | ✍️ author | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) | 2026-08-10 | 2026-08-13 |
 | 1260 | 🟢 open | 👀 reviewed | [#1260 — feat: enforce time rules on headers](https://github.com/getfloresta/Floresta/pull/1260) | 2026-08-10 |  |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
-| 1255 | 🟢 open | ✍️ author | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 |  |
+| 1255 | ✅ merged | ✍️ author | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1236 | ✅ merged | ✍️ author | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
@@ -315,6 +316,12 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-01 | 1234 | — no | — | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |
+| 2026-09-01 | 1291 | — no | — | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) |
+| 2026-09-01 | 1296 | — no | — | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) |
+| 2026-09-01 | 1294 | — no | — | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) |
+| 2026-09-01 | 1295 | — no | — | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) |
+| 2026-09-01 | 1255 | ✅ yes | ✍️ author | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) |
 | 2026-08-27 | 1220 | — no | — | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) |
 | 2026-08-27 | 1176 | — no | — | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
 | 2026-08-26 | 1269 | — no | — | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |

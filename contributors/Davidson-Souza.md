@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-01
+- Generated: 2026-09-02
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 723 |
-| 🎯 Merged PRs with my impact | 631 |
-| 🔥 [Current impact streak](#all-merged-prs) | **7** |
+| ✅ Project merged PRs | 729 |
+| 🎯 Merged PRs with my impact | 636 |
+| 🔥 [Current impact streak](#all-merged-prs) | **4** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1296 | ✅ merged | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) | 2026-09-01 | 2026-09-01 |
+| 1294 | ✅ merged | 👀 reviewed | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) | 2026-09-01 | 2026-09-01 |
+| 1291 | ✅ merged | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) | 2026-08-26 | 2026-09-01 |
 | 1287 | ✅ merged | 👀 reviewed | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 | 2026-08-26 |
 | 1286 | ✅ merged | 👀 reviewed | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
 | 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
@@ -39,7 +42,7 @@ Ordered newest first by PR number.
 | 1259 | ✅ merged | 👀 reviewed | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
 | 1258 | ✅ merged | 👀 reviewed | [#1258 — chore(deps): bump taiki-e/install-action from 2.81.3 to 2.81.10 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1258) | 2026-08-09 | 2026-08-11 |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
-| 1255 | 🟢 open | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 |  |
+| 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | 📝 draft | ✍️ author | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 |  |
 | 1252 | 🟢 open | ✍️ author | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
@@ -51,6 +54,7 @@ Ordered newest first by PR number.
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
 | 1236 | ✅ merged | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1235 | ✅ merged | 👀 reviewed | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
+| 1234 | ✅ merged | 👀 reviewed | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) | 2026-07-28 | 2026-09-01 |
 | 1233 | ✅ merged | 👀 reviewed | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
 | 1230 | ✅ merged | 👀 reviewed | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) | 2026-07-26 | 2026-07-28 |
@@ -733,6 +737,12 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-01 | 1234 | ✅ yes | 👀 reviewed | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |
+| 2026-09-01 | 1291 | ✅ yes | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) |
+| 2026-09-01 | 1296 | ✅ yes | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) |
+| 2026-09-01 | 1294 | ✅ yes | 👀 reviewed | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) |
+| 2026-09-01 | 1295 | — no | — | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) |
+| 2026-09-01 | 1255 | ✅ yes | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) |
 | 2026-08-27 | 1220 | ✅ yes | 👀 reviewed | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) |
 | 2026-08-27 | 1176 | ✅ yes | 👀 reviewed | [#1176 — Fix `floresta`'s re-exports](https://github.com/getfloresta/Floresta/pull/1176) |
 | 2026-08-26 | 1269 | ✅ yes | 👀 reviewed | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) |
