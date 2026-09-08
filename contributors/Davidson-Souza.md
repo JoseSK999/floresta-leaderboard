@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-07
+- Generated: 2026-09-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 730 |
-| 🎯 Merged PRs with my impact | 637 |
-| 🔥 [Current impact streak](#all-merged-prs) | **5** |
+| ✅ Project merged PRs | 731 |
+| 🎯 Merged PRs with my impact | 638 |
+| 🔥 [Current impact streak](#all-merged-prs) | **6** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1305 | ✅ merged | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
 | 1296 | ✅ merged | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) | 2026-09-01 | 2026-09-01 |
 | 1294 | ✅ merged | 👀 reviewed | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) | 2026-09-01 | 2026-09-01 |
@@ -44,7 +45,7 @@ Ordered newest first by PR number.
 | 1258 | ✅ merged | 👀 reviewed | [#1258 — chore(deps): bump taiki-e/install-action from 2.81.3 to 2.81.10 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1258) | 2026-08-09 | 2026-08-11 |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
-| 1254 | 📝 draft | ✍️ author | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 |  |
+| 1254 | 🟢 open | ✍️ author | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 |  |
 | 1252 | 🟢 open | ✍️ author | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
@@ -738,6 +739,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-07 | 1313 | ✅ yes | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | ✅ yes | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
 | 2026-09-01 | 1234 | ✅ yes | 👀 reviewed | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |
 | 2026-09-01 | 1291 | ✅ yes | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) |

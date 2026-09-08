@@ -1,13 +1,13 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-07
+- Generated: 2026-09-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 730 |
+| ✅ Project merged PRs | 731 |
 | 🎯 Merged PRs with my impact | 175 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,7 +27,7 @@ Ordered newest first by PR number.
 | 1265 | ✅ merged | 👀 reviewed | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) | 2026-08-11 | 2026-08-15 |
 | 1264 | ✅ merged | 👀 reviewed | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) | 2026-08-10 | 2026-08-13 |
 | 1261 | ✅ merged | 👀 reviewed | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) | 2026-08-10 | 2026-08-13 |
-| 1254 | 📝 draft | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 |  |
+| 1254 | 🟢 open | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 |  |
 | 1248 | ✅ merged | ✍️ author | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1236 | ✅ merged | 👀 reviewed | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
@@ -213,6 +213,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | — no | — | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
 | 2026-09-01 | 1234 | — no | — | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |
 | 2026-09-01 | 1291 | ✅ yes | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) |
