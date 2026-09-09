@@ -1,4 +1,4 @@
-# @octaviolucca impact report
+# @7-falseparfait impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-09-09
@@ -8,8 +8,8 @@
 | Metric | Count |
 |---|---:|
 | ✅ Project merged PRs | 733 |
-| 🎯 Merged PRs with my impact | 2 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🎯 Merged PRs with my impact | 1 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1233 | ✅ merged | ✍️ author | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
-| 1210 | ✅ merged | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
-| 1207 | ❌ closed | ✍️ author | [#1207 — testing CI ](https://github.com/getfloresta/Floresta/pull/1207) | 2026-07-14 | 2026-07-14 |
-| 1161 | 🟢 open | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
+| 1290 | ✅ merged | ✍️ author | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 | 2026-09-09 |
+| 1289 | ❌ closed | ✍️ author | [#1289 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1289) | 2026-08-26 | 2026-08-26 |
+| 1288 | ❌ closed | ✍️ author | [#1288 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1288) | 2026-08-26 | 2026-08-26 |
 
 ## All merged PRs
 
@@ -30,7 +29,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-09-09 | 1290 | — no | — | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
+| 2026-09-09 | 1290 | ✅ yes | ✍️ author | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
 | 2026-09-08 | 1318 | — no | — | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | — no | — | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
@@ -68,14 +67,14 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-08-06 | 1106 | — no | — | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) |
 | 2026-08-05 | 1135 | — no | — | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) |
 | 2026-08-05 | 1231 | — no | — | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) |
-| 2026-08-04 | 1233 | ✅ yes | ✍️ author | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
+| 2026-08-04 | 1233 | — no | — | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) |
 | 2026-08-04 | 1242 | — no | — | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) |
 | 2026-07-28 | 1230 | — no | — | [#1230 — chore(deps): bump the all group with 5 updates](https://github.com/getfloresta/Floresta/pull/1230) |
 | 2026-07-21 | 1218 | — no | — | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) |
 | 2026-07-21 | 1222 | — no | — | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) |
 | 2026-07-21 | 1217 | — no | — | [#1217 — chore(deps): bump flake-parts from `0678d89` to `f7c1a2d` in the all group](https://github.com/getfloresta/Floresta/pull/1217) |
 | 2026-07-21 | 1219 | — no | — | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) |
-| 2026-07-17 | 1210 | ✅ yes | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
+| 2026-07-17 | 1210 | — no | — | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) |
 | 2026-07-17 | 1213 | — no | — | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) |
 | 2026-07-15 | 1209 | — no | — | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) |
 | 2026-07-15 | 1201 | — no | — | [#1201 — chore(deps): bump requests from 2.33.1 to 2.34.0 in the all group](https://github.com/getfloresta/Floresta/pull/1201) |

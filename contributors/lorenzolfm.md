@@ -1,14 +1,14 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-08
+- Generated: 2026-09-09
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 731 |
-| 🎯 Merged PRs with my impact | 41 |
+| ✅ Project merged PRs | 733 |
+| 🎯 Merged PRs with my impact | 42 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1318 | ✅ merged | ✍️ author | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
 | 1262 | ✅ merged | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 | 2026-08-24 |
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1190 | ✅ merged | 👀 reviewed | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 | 2026-07-07 |
@@ -74,6 +75,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-09 | 1290 | — no | — | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
+| 2026-09-08 | 1318 | ✅ yes | ✍️ author | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | — no | — | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
 | 2026-09-01 | 1234 | — no | — | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |

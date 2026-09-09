@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-08
+- Generated: 2026-09-09
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 731 |
-| 🎯 Merged PRs with my impact | 112 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 733 |
+| 🎯 Merged PRs with my impact | 113 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -23,7 +23,7 @@ Ordered newest first by PR number.
 | 1295 | ✅ merged | 👀 reviewed | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) | 2026-09-01 | 2026-09-01 |
 | 1294 | ✅ merged | 👀 reviewed | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) | 2026-09-01 | 2026-09-01 |
 | 1291 | ✅ merged | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) | 2026-08-26 | 2026-09-01 |
-| 1290 | 🟢 open | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 |  |
+| 1290 | ✅ merged | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 | 2026-09-09 |
 | 1287 | ✅ merged | 👀 reviewed | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 | 2026-08-26 |
 | 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
 | 1284 | ✅ merged | 👀 reviewed | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) | 2026-08-20 | 2026-08-24 |
@@ -184,6 +184,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-09 | 1290 | ✅ yes | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
+| 2026-09-08 | 1318 | — no | — | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | — no | — | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
 | 2026-09-01 | 1234 | ✅ yes | ✍️ author | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |

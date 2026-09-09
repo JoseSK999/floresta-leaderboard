@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-08
+- Generated: 2026-09-09
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 731 |
-| 🎯 Merged PRs with my impact | 58 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 733 |
+| 🎯 Merged PRs with my impact | 59 |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
 | 1313 | ✅ merged | ✍️ author | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1305 | ✅ merged | ✍️ author | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
 | 1301 | 🟢 open | 👀 reviewed | [#1301 — feat : Add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
@@ -98,6 +99,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-09 | 1290 | — no | — | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
+| 2026-09-08 | 1318 | ✅ yes | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | ✅ yes | ✍️ author | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
 | 2026-09-04 | 1305 | ✅ yes | ✍️ author | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) |
 | 2026-09-01 | 1234 | — no | — | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) |
