@@ -1,15 +1,15 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-09
+- Generated: 2026-09-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 733 |
-| 🎯 Merged PRs with my impact | 42 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 734 |
+| 🎯 Merged PRs with my impact | 43 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1320 | 🟢 open | ✍️ author | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 |  |
 | 1318 | ✅ merged | ✍️ author | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
 | 1262 | ✅ merged | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 | 2026-08-24 |
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
@@ -38,7 +39,7 @@ Ordered newest first by PR number.
 | 1094 | ✅ merged | 👀 reviewed | [#1094 — chore: add my dns seed to testnet, mainnet and update the signet one](https://github.com/getfloresta/Floresta/pull/1094) | 2026-05-27 | 2026-05-28 |
 | 1093 | ✅ merged | ✍️ author | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |
 | 1092 | ✅ merged | ✍️ author | [#1092 — feat(wire)!: allow passing multiple fixed peers](https://github.com/getfloresta/Floresta/pull/1092) | 2026-05-27 | 2026-06-02 |
-| 1091 | 🟢 open | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 |  |
+| 1091 | ✅ merged | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 | 2026-09-09 |
 | 1080 | ✅ merged | 👀 reviewed | [#1080 — rpc/cli: use `PathBuf`](https://github.com/getfloresta/Floresta/pull/1080) | 2026-05-22 | 2026-05-26 |
 | 1078 | ✅ merged | 👀 reviewed | [#1078 — docs: Reword, clarify, format contributing.md](https://github.com/getfloresta/Floresta/pull/1078) | 2026-05-20 | 2026-05-25 |
 | 1077 | ✅ merged | 👀 reviewed | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) | 2026-05-20 | 2026-05-27 |
@@ -75,6 +76,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-09 | 1091 | ✅ yes | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |
 | 2026-09-09 | 1290 | — no | — | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
 | 2026-09-08 | 1318 | ✅ yes | ✍️ author | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |

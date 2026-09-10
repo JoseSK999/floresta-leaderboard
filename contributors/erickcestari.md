@@ -1,13 +1,13 @@
 # @erickcestari impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-09
+- Generated: 2026-09-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 733 |
+| ✅ Project merged PRs | 734 |
 | 🎯 Merged PRs with my impact | 4 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 781 | ✅ merged | 👀 reviewed | [#781 — fix: several improvements to how AddrMan works](https://github.com/getfloresta/Floresta/pull/781) | 2026-01-13 | 2026-02-24 |
 | 693 | ✅ merged | ✍️ author | [#693 — fuzz: Add flat_chainstore_header_insertion fuzz target](https://github.com/getfloresta/Floresta/pull/693) | 2025-10-24 | 2025-10-28 |
 | 691 | ✅ merged | ✍️ author | [#691 — fix: ensure all chain store files are created when metadata is missing](https://github.com/getfloresta/Floresta/pull/691) | 2025-10-23 | 2025-10-26 |
@@ -30,6 +31,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-09 | 1091 | — no | — | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |
 | 2026-09-09 | 1290 | — no | — | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
 | 2026-09-08 | 1318 | — no | — | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
 | 2026-09-07 | 1313 | — no | — | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) |
