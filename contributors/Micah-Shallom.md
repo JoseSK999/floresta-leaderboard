@@ -1,14 +1,14 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-10
+- Generated: 2026-09-11
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 734 |
-| 🎯 Merged PRs with my impact | 18 |
+| ✅ Project merged PRs | 736 |
+| 🎯 Merged PRs with my impact | 19 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -48,7 +48,7 @@ Ordered newest first by PR number.
 | 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
 | 1024 | ❌ closed | ✍️ author | [#1024 — chore: fix clippy::for_kv_map flagged by newer nightly](https://github.com/getfloresta/Floresta/pull/1024) | 2026-05-05 | 2026-05-05 |
 | 1006 | ✅ merged | 👀 reviewed | [#1006 — Add verbosity support to `getblockheader` RPC](https://github.com/getfloresta/Floresta/pull/1006) | 2026-04-27 | 2026-05-15 |
-| 986 | 🟢 open | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
+| 986 | ✅ merged | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 | 2026-09-10 |
 | 973 | ✅ merged | ✍️ author | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) | 2026-04-21 | 2026-05-25 |
 | 948 | ✅ merged | ✍️ author | [#948 — Fix/rpc getblockchaininfo core compliance](https://github.com/getfloresta/Floresta/pull/948) | 2026-04-09 | 2026-06-17 |
 | 931 | ❌ closed | 👀 reviewed | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
@@ -69,6 +69,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-10 | 1254 | — no | — | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
+| 2026-09-10 | 986 | ✅ yes | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | — no | — | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |
 | 2026-09-09 | 1290 | ✅ yes | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
 | 2026-09-08 | 1318 | — no | — | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |

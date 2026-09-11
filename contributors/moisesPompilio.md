@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-10
+- Generated: 2026-09-11
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 734 |
-| 🎯 Merged PRs with my impact | 114 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 736 |
+| 🎯 Merged PRs with my impact | 116 |
+| 🔥 [Current impact streak](#all-merged-prs) | **4** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -42,6 +42,7 @@ Ordered newest first by PR number.
 | 1258 | ✅ merged | 👀 reviewed | [#1258 — chore(deps): bump taiki-e/install-action from 2.81.3 to 2.81.10 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1258) | 2026-08-09 | 2026-08-11 |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
+| 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
@@ -112,7 +113,7 @@ Ordered newest first by PR number.
 | 1006 | ✅ merged | ✍️ author | [#1006 — Add verbosity support to `getblockheader` RPC](https://github.com/getfloresta/Floresta/pull/1006) | 2026-04-27 | 2026-05-15 |
 | 1001 | ✅ merged | 👀 reviewed | [#1001 — Replace the hardcoded release string with env!(CARGO_PKG_VERSION) ](https://github.com/getfloresta/Floresta/pull/1001) | 2026-04-26 | 2026-04-27 |
 | 991 | ❌ closed | 👀 reviewed | [#991 — Add `brew` installation notice to the README](https://github.com/getfloresta/Floresta/pull/991) | 2026-04-23 | 2026-06-10 |
-| 986 | 🟢 open | ✍️ author | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 |  |
+| 986 | ✅ merged | ✍️ author | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 | 2026-09-10 |
 | 985 | ✅ merged | ✍️ author | [#985 — [FIX] [RPC] Align getrawtransaction with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/985) | 2026-04-23 | 2026-06-30 |
 | 980 | ✅ merged | 👀 reviewed | [#980 — fix: fixes two potential attack vectors with low pow block spam](https://github.com/getfloresta/Floresta/pull/980) | 2026-04-22 | 2026-04-23 |
 | 979 | ✅ merged | 👀 reviewed | [#979 — Duplicate input detection](https://github.com/getfloresta/Floresta/pull/979) | 2026-04-22 | 2026-06-22 |
@@ -185,6 +186,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-10 | 1254 | ✅ yes | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
+| 2026-09-10 | 986 | ✅ yes | ✍️ author | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | ✅ yes | ✍️ author | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |
 | 2026-09-09 | 1290 | ✅ yes | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) |
 | 2026-09-08 | 1318 | — no | — | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) |
