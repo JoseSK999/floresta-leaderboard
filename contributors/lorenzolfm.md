@@ -1,14 +1,14 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-11
+- Generated: 2026-09-12
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 736 |
-| 🎯 Merged PRs with my impact | 43 |
+| ✅ Project merged PRs | 738 |
+| 🎯 Merged PRs with my impact | 44 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -53,7 +53,7 @@ Ordered newest first by PR number.
 | 1059 | ✅ merged | 👀 reviewed | [#1059 — wire: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1059) | 2026-05-14 | 2026-05-18 |
 | 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1056 | ✅ merged | 👀 reviewed | [#1056 — fix(flake): remove gcc from devshell.](https://github.com/getfloresta/Floresta/pull/1056) | 2026-05-13 | 2026-05-15 |
-| 1055 | 🟢 open | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
+| 1055 | ✅ merged | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 | 2026-09-11 |
 | 1050 | ✅ merged | 👀 reviewed | [#1050 — Add Zizmor to CI and fix audit warnings](https://github.com/getfloresta/Floresta/pull/1050) | 2026-05-12 | 2026-05-18 |
 | 1044 | ✅ merged | 👀 reviewed | [#1044 — chain: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1044) | 2026-05-11 | 2026-05-12 |
 | 1043 | ✅ merged | 👀 reviewed | [#1043 — filters: `FlatFilterStore::new` takes in `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1043) | 2026-05-11 | 2026-05-14 |
@@ -78,6 +78,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-11 | 1266 | — no | — | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
+| 2026-09-11 | 1055 | ✅ yes | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | — no | — | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
 | 2026-09-10 | 986 | — no | — | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | ✅ yes | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |

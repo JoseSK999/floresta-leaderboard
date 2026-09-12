@@ -1,13 +1,13 @@
 # @nervana21 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-11
+- Generated: 2026-09-12
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 736 |
+| ✅ Project merged PRs | 738 |
 | 🎯 Merged PRs with my impact | 3 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -30,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-11 | 1266 | — no | — | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
+| 2026-09-11 | 1055 | — no | — | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | — no | — | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
 | 2026-09-10 | 986 | — no | — | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | — no | — | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |

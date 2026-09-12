@@ -1,14 +1,14 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-11
+- Generated: 2026-09-12
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 736 |
-| 🎯 Merged PRs with my impact | 19 |
+| ✅ Project merged PRs | 738 |
+| 🎯 Merged PRs with my impact | 20 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -43,7 +43,7 @@ Ordered newest first by PR number.
 | 1071 | ✅ merged | ✍️ author | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
-| 1055 | 🟢 open | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
+| 1055 | ✅ merged | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 | 2026-09-11 |
 | 1054 | 📝 draft | ✍️ author | [#1054 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1054) | 2026-05-13 | 2026-05-13 |
 | 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
 | 1024 | ❌ closed | ✍️ author | [#1024 — chore: fix clippy::for_kv_map flagged by newer nightly](https://github.com/getfloresta/Floresta/pull/1024) | 2026-05-05 | 2026-05-05 |
@@ -69,6 +69,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-11 | 1266 | — no | — | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
+| 2026-09-11 | 1055 | ✅ yes | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | — no | — | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
 | 2026-09-10 | 986 | ✅ yes | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | — no | — | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |

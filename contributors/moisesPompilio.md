@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-11
+- Generated: 2026-09-12
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 736 |
-| 🎯 Merged PRs with my impact | 116 |
-| 🔥 [Current impact streak](#all-merged-prs) | **4** |
+| ✅ Project merged PRs | 738 |
+| 🎯 Merged PRs with my impact | 118 |
+| 🔥 [Current impact streak](#all-merged-prs) | **6** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -35,7 +35,7 @@ Ordered newest first by PR number.
 | 1271 | 📝 draft | ✍️ author | [#1271 — Reject leaves with future creation height](https://github.com/getfloresta/Floresta/pull/1271) | 2026-08-14 |  |
 | 1269 | ✅ merged | 👀 reviewed | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 | 2026-08-26 |
 | 1268 | 🟢 open | 👀 reviewed | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) | 2026-08-12 |  |
-| 1266 | 🟢 open | ✍️ author | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) | 2026-08-11 |  |
+| 1266 | ✅ merged | ✍️ author | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) | 2026-08-11 | 2026-09-11 |
 | 1265 | ✅ merged | ✍️ author | [#1265 — chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/getfloresta/Floresta/pull/1265) | 2026-08-11 | 2026-08-15 |
 | 1262 | ✅ merged | 👀 reviewed | [#1262 — fix(wire): don't request blocks that won't extend our main chain](https://github.com/getfloresta/Floresta/pull/1262) | 2026-08-10 | 2026-08-24 |
 | 1259 | ✅ merged | 👀 reviewed | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
@@ -46,6 +46,7 @@ Ordered newest first by PR number.
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
+| 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
 | 1235 | ✅ merged | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
 | 1234 | ✅ merged | ✍️ author | [#1234 — Add heavy marker for tests and implement option](https://github.com/getfloresta/Floresta/pull/1234) | 2026-07-28 | 2026-09-01 |
@@ -102,7 +103,7 @@ Ordered newest first by PR number.
 | 1067 | 🟢 open | ✍️ author | [#1067 — [REFACTOR][RPC] Centralize RPC traits and method names](https://github.com/getfloresta/Floresta/pull/1067) | 2026-05-15 |  |
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
 | 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
-| 1055 | 🟢 open | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 |  |
+| 1055 | ✅ merged | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 | 2026-09-11 |
 | 1048 | ✅ merged | 👀 reviewed | [#1048 — Add CI job to check for unsigned commits](https://github.com/getfloresta/Floresta/pull/1048) | 2026-05-12 | 2026-05-12 |
 | 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
 | 1028 | ✅ merged | 👀 reviewed | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
@@ -186,6 +187,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-11 | 1266 | ✅ yes | ✍️ author | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
+| 2026-09-11 | 1055 | ✅ yes | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | ✅ yes | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
 | 2026-09-10 | 986 | ✅ yes | ✍️ author | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) |
 | 2026-09-09 | 1091 | ✅ yes | ✍️ author | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) |
