@@ -1,7 +1,7 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-12
+- Generated: 2026-09-13
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1330 | 🟢 open | ✍️ author | [#1330 — fix(wire): report block download progress on a time interval](https://github.com/getfloresta/Floresta/pull/1330) | 2026-09-12 |  |
 | 1327 | 📝 draft | ✍️ author | [#1327 — fix(chain): drop the assumeutreexo assumption when a reorg makes it wrong](https://github.com/getfloresta/Floresta/pull/1327) | 2026-09-10 |  |
 | 1325 | 🟢 open | ✍️ author | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) | 2026-09-10 |  |
 | 1320 | 🟢 open | ✍️ author | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 |  |
