@@ -1,13 +1,13 @@
 # @mystical-prog impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-14
+- Generated: 2026-09-15
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 738 |
+| ✅ Project merged PRs | 739 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-14 | 1320 | — no | — | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) |
 | 2026-09-11 | 1266 | — no | — | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
 | 2026-09-11 | 1055 | — no | — | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | — no | — | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |

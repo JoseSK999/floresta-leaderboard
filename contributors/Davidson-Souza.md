@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-14
+- Generated: 2026-09-15
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 738 |
-| 🎯 Merged PRs with my impact | 645 |
-| 🔥 [Current impact streak](#all-merged-prs) | **13** |
+| ✅ Project merged PRs | 739 |
+| 🎯 Merged PRs with my impact | 646 |
+| 🔥 [Current impact streak](#all-merged-prs) | **14** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,8 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1328 | 📝 draft | ✍️ author | [#1328 — [WIP] feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
-| 1320 | 🟢 open | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 |  |
+| 1328 | 🟢 open | ✍️ author | [#1328 — feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
+| 1320 | ✅ merged | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 | 2026-09-14 |
 | 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1305 | ✅ merged | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
@@ -51,6 +51,7 @@ Ordered newest first by PR number.
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | ✅ merged | ✍️ author | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
+| 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1252 | 🟢 open | ✍️ author | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
@@ -77,6 +78,7 @@ Ordered newest first by PR number.
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1210 | ✅ merged | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
+| 1206 | 🟢 open | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
 | 1205 | 🟢 open | ✍️ author | [#1205 — tests(wire): add tests to the node handle](https://github.com/getfloresta/Floresta/pull/1205) | 2026-07-13 |  |
 | 1204 | ✅ merged | 👀 reviewed | [#1204 — docs(rpc): wired gettxout documentation](https://github.com/getfloresta/Floresta/pull/1204) | 2026-07-13 | 2026-07-13 |
 | 1203 | ✅ merged | 👀 reviewed | [#1203 — chore(deps): bump taiki-e/install-action from 2.77.6 to 2.77.7 in the all group](https://github.com/getfloresta/Floresta/pull/1203) | 2026-07-12 | 2026-07-13 |
@@ -745,6 +747,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-14 | 1320 | ✅ yes | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) |
 | 2026-09-11 | 1266 | ✅ yes | 👀 reviewed | [#1266 — Improve unit test coverage for extensions](https://github.com/getfloresta/Floresta/pull/1266) |
 | 2026-09-11 | 1055 | ✅ yes | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) |
 | 2026-09-10 | 1254 | ✅ yes | ✍️ author | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) |
