@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-17
+- Generated: 2026-09-18
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1337 | ❌ closed | ✍️ author | [#1337 — tests performance instrumentation](https://github.com/getfloresta/Floresta/pull/1337) | 2026-09-17 | 2026-09-17 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
 | 1330 | 🟢 open | 👀 reviewed | [#1330 — fix(wire): report block download progress on a time interval](https://github.com/getfloresta/Floresta/pull/1330) | 2026-09-12 |  |
 | 1322 | ❌ closed | ✍️ author | [#1322 — chore: use map instead of match in get_roots_for_block](https://github.com/getfloresta/Floresta/pull/1322) | 2026-09-09 | 2026-09-10 |
