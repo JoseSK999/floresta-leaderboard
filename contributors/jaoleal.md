@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-18
+- Generated: 2026-09-19
 
 ## Summary
 
@@ -132,7 +132,7 @@ Ordered newest first by PR number.
 | 1045 | ❌ closed | ✍️ author | [#1045 — fix: gates mallinfo for linux only.](https://github.com/getfloresta/Floresta/pull/1045) | 2026-05-11 | 2026-05-18 |
 | 1043 | ✅ merged | 👀 reviewed | [#1043 — filters: `FlatFilterStore::new` takes in `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1043) | 2026-05-11 | 2026-05-14 |
 | 1042 | ✅ merged | 👀 reviewed | [#1042 — wallet: `KvDatabase::new` takes in `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1042) | 2026-05-11 | 2026-05-18 |
-| 1038 | 🟢 open | ✍️ author | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
+| 1038 | ❌ closed | ✍️ author | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 | 2026-09-18 |
 | 1035 | ✅ merged | 👀 reviewed | [#1035 — refactor(wire): make node interface a trait](https://github.com/getfloresta/Floresta/pull/1035) | 2026-05-06 | 2026-06-05 |
 | 1034 | ✅ merged | 👀 reviewed | [#1034 — update rustls to 0.23.40 - deps housekeeping](https://github.com/getfloresta/Floresta/pull/1034) | 2026-05-06 | 2026-05-07 |
 | 1033 | ✅ merged | ✍️ author | [#1033 — Flake: input removal and chores](https://github.com/getfloresta/Floresta/pull/1033) | 2026-05-06 | 2026-05-07 |

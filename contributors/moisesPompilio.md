@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-18
+- Generated: 2026-09-19
 
 ## Summary
 
@@ -106,7 +106,7 @@ Ordered newest first by PR number.
 | 1057 | ✅ merged | 👀 reviewed | [#1057 — introduce floresta-domain and decouple mempool interface from implementation](https://github.com/getfloresta/Floresta/pull/1057) | 2026-05-14 | 2026-06-17 |
 | 1055 | ✅ merged | 👀 reviewed | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 | 2026-09-11 |
 | 1048 | ✅ merged | 👀 reviewed | [#1048 — Add CI job to check for unsigned commits](https://github.com/getfloresta/Floresta/pull/1048) | 2026-05-12 | 2026-05-12 |
-| 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
+| 1038 | ❌ closed | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 | 2026-09-18 |
 | 1028 | ✅ merged | 👀 reviewed | [#1028 — docs(cli): document getroots, getpeerinfo, and uptime RPCs](https://github.com/getfloresta/Floresta/pull/1028) | 2026-05-05 | 2026-05-18 |
 | 1027 | ✅ merged | 👀 reviewed | [#1027 — docs(cli): document ping and stop RPCs](https://github.com/getfloresta/Floresta/pull/1027) | 2026-05-05 | 2026-05-21 |
 | 1023 | ✅ merged | 👀 reviewed | [#1023 — fix: apply clippy latest suggestions](https://github.com/getfloresta/Floresta/pull/1023) | 2026-05-04 | 2026-05-05 |

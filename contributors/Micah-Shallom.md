@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-18
+- Generated: 2026-09-19
 
 ## Summary
 
@@ -20,7 +20,8 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1336 | 🟢 open | 👀 reviewed | [#1336 — fix(wire): Don't get stuck during chain selection if one peer is unresponsive](https://github.com/getfloresta/Floresta/pull/1336) | 2026-09-17 |  |
-| 1331 | 🟢 open | 👀 reviewed | [#1331 — fix(wire): correct peer latency samples and timeout retries](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 |  |
+| 1331 | 🟢 open | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 |  |
+| 1329 | 🟢 open | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 |  |
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1301 | 🟢 open | 👀 reviewed | [#1301 — feat : Add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
 | 1293 | 🟢 open | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 |  |
@@ -47,7 +48,7 @@ Ordered newest first by PR number.
 | 1064 | ✅ merged | 👀 reviewed | [#1064 — [RPCSAGA]: `getaddrmaninfo`rpc command](https://github.com/getfloresta/Floresta/pull/1064) | 2026-05-15 | 2026-06-01 |
 | 1055 | ✅ merged | ✍️ author | [#1055 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1055) | 2026-05-13 | 2026-09-11 |
 | 1054 | 📝 draft | ✍️ author | [#1054 — fix(rpc): make verificationprogress tip-aware](https://github.com/getfloresta/Floresta/pull/1054) | 2026-05-13 | 2026-05-13 |
-| 1038 | 🟢 open | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 |  |
+| 1038 | ❌ closed | 👀 reviewed | [#1038 — functional tests: wait for sync and wait for height helpers, expose timeouts to environment variables, timeouts for stallment to avoid misleading breaks](https://github.com/getfloresta/Floresta/pull/1038) | 2026-05-07 | 2026-09-18 |
 | 1024 | ❌ closed | ✍️ author | [#1024 — chore: fix clippy::for_kv_map flagged by newer nightly](https://github.com/getfloresta/Floresta/pull/1024) | 2026-05-05 | 2026-05-05 |
 | 1006 | ✅ merged | 👀 reviewed | [#1006 — Add verbosity support to `getblockheader` RPC](https://github.com/getfloresta/Floresta/pull/1006) | 2026-04-27 | 2026-05-15 |
 | 986 | ✅ merged | 👀 reviewed | [#986 — Centralize server-side defaults and align `addnode` behavior with Bitcoin Core](https://github.com/getfloresta/Floresta/pull/986) | 2026-04-23 | 2026-09-10 |
