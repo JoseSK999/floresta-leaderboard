@@ -1,13 +1,13 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-22
+- Generated: 2026-09-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 741 |
+| ✅ Project merged PRs | 743 |
 | 🎯 Merged PRs with my impact | 20 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -72,6 +72,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-22 | 1346 | — no | — | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
+| 2026-09-22 | 1340 | — no | — | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |
 | 2026-09-16 | 1325 | — no | — | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) |
 | 2026-09-15 | 1333 | — no | — | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) |
 | 2026-09-14 | 1320 | — no | — | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) |

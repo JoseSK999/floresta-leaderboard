@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-22
+- Generated: 2026-09-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 741 |
-| 🎯 Merged PRs with my impact | 260 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 743 |
+| 🎯 Merged PRs with my impact | 262 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
 | 1343 | 🟢 open | ✍️ author | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) | 2026-09-21 |  |
+| 1340 | ✅ merged | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) | 2026-09-17 | 2026-09-22 |
 | 1337 | ❌ closed | ✍️ author | [#1337 — tests performance instrumentation](https://github.com/getfloresta/Floresta/pull/1337) | 2026-09-17 | 2026-09-17 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
 | 1330 | 🟢 open | 👀 reviewed | [#1330 — fix(wire): report block download progress on a time interval](https://github.com/getfloresta/Floresta/pull/1330) | 2026-09-12 |  |
@@ -368,6 +370,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-22 | 1346 | ✅ yes | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
+| 2026-09-22 | 1340 | ✅ yes | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |
 | 2026-09-16 | 1325 | — no | — | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) |
 | 2026-09-15 | 1333 | ✅ yes | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) |
 | 2026-09-14 | 1320 | ✅ yes | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) |
