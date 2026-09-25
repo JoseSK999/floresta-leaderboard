@@ -1,13 +1,13 @@
 # @nervana21 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-24
+- Generated: 2026-09-25
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 743 |
+| ✅ Project merged PRs | 744 |
 | 🎯 Merged PRs with my impact | 3 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1339 | 🟢 open | ✍️ author | [#1339 — test(rpc): rebuild florestad before RPC integration tests](https://github.com/getfloresta/Floresta/pull/1339) | 2026-09-17 |  |
+| 1339 | ❌ closed | ✍️ author | [#1339 — test(rpc): rebuild florestad before RPC integration tests](https://github.com/getfloresta/Floresta/pull/1339) | 2026-09-17 | 2026-09-24 |
 | 1250 | ✅ merged | ✍️ author | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
 | 1222 | ✅ merged | ✍️ author | [#1222 — fix(wire): Reject truncated BIP324 short-id-0 frames](https://github.com/getfloresta/Floresta/pull/1222) | 2026-07-21 | 2026-07-21 |
 | 1130 | ✅ merged | ✍️ author | [#1130 — fix(wire): Reject malformed utreexo accumulator](https://github.com/getfloresta/Floresta/pull/1130) | 2026-06-13 | 2026-06-15 |
@@ -31,6 +31,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-24 | 1347 | — no | — | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
 | 2026-09-22 | 1346 | — no | — | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
 | 2026-09-22 | 1340 | — no | — | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |
 | 2026-09-16 | 1325 | — no | — | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) |
