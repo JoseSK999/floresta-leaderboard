@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-25
+- Generated: 2026-09-26
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1348 | 🟢 open | ✍️ author | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 |  |
 | 1336 | 🟢 open | 👀 reviewed | [#1336 — fix(wire): Don't get stuck during chain selection if one peer is unresponsive](https://github.com/getfloresta/Floresta/pull/1336) | 2026-09-17 |  |
 | 1331 | 🟢 open | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 |  |
 | 1329 | 🟢 open | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 |  |
