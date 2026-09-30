@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-29
+- Generated: 2026-09-30
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 744 |
-| 🎯 Merged PRs with my impact | 649 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 745 |
+| 🎯 Merged PRs with my impact | 650 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -24,7 +24,7 @@ Ordered newest first by PR number.
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
 | 1338 | 📝 draft | ✍️ author | [#1338 — feat: Introduce `FiltersMan` for better CBF handling](https://github.com/getfloresta/Floresta/pull/1338) | 2026-09-17 |  |
 | 1336 | 🟢 open | ✍️ author | [#1336 — fix(wire): Don't get stuck during chain selection if one peer is unresponsive](https://github.com/getfloresta/Floresta/pull/1336) | 2026-09-17 |  |
-| 1331 | 🟢 open | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 |  |
+| 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1328 | 🟢 open | ✍️ author | [#1328 — feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
 | 1325 | ✅ merged | 👀 reviewed | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) | 2026-09-10 | 2026-09-16 |
 | 1320 | ✅ merged | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 | 2026-09-14 |
@@ -41,6 +41,7 @@ Ordered newest first by PR number.
 | 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
 | 1283 | ✅ merged | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
 | 1282 | ✅ merged | 👀 reviewed | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) | 2026-08-20 | 2026-08-20 |
+| 1280 | 🟢 open | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
 | 1279 | ✅ merged | 👀 reviewed | [#1279 — chore(deps): bump the all group with 3 updates](https://github.com/getfloresta/Floresta/pull/1279) | 2026-08-18 | 2026-08-20 |
 | 1275 | ✅ merged | 👀 reviewed | [#1275 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1275) | 2026-08-16 | 2026-08-20 |
 | 1274 | ✅ merged | 👀 reviewed | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) | 2026-08-16 | 2026-08-20 |
@@ -754,6 +755,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-29 | 1331 | ✅ yes | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
 | 2026-09-24 | 1347 | ✅ yes | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
 | 2026-09-22 | 1346 | ✅ yes | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
 | 2026-09-22 | 1340 | — no | — | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |

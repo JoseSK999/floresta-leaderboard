@@ -1,15 +1,15 @@
 # @luisschwab impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-29
+- Generated: 2026-09-30
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 744 |
-| 🎯 Merged PRs with my impact | 179 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 745 |
+| 🎯 Merged PRs with my impact | 180 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -22,6 +22,7 @@ Ordered newest first by PR number.
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1340 | ✅ merged | ✍️ author | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) | 2026-09-17 | 2026-09-22 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
+| 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1291 | ✅ merged | 👀 reviewed | [#1291 — deps: bump bitcoinkernel to 0.3.0](https://github.com/getfloresta/Floresta/pull/1291) | 2026-08-26 | 2026-09-01 |
 | 1287 | ✅ merged | 👀 reviewed | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 | 2026-08-26 |
 | 1283 | ✅ merged | ✍️ author | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
@@ -216,6 +217,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-29 | 1331 | ✅ yes | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
 | 2026-09-24 | 1347 | ✅ yes | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
 | 2026-09-22 | 1346 | — no | — | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
 | 2026-09-22 | 1340 | ✅ yes | ✍️ author | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |

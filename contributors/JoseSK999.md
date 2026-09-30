@@ -1,15 +1,15 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-29
+- Generated: 2026-09-30
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 744 |
-| 🎯 Merged PRs with my impact | 269 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 745 |
+| 🎯 Merged PRs with my impact | 270 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -20,7 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1336 | 🟢 open | 👀 reviewed | [#1336 — fix(wire): Don't get stuck during chain selection if one peer is unresponsive](https://github.com/getfloresta/Floresta/pull/1336) | 2026-09-17 |  |
-| 1331 | 🟢 open | ✍️ author | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 |  |
+| 1331 | ✅ merged | ✍️ author | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1305 | ✅ merged | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
 | 1300 | 🟢 open | ✍️ author | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 |  |
 | 1286 | ✅ merged | 👀 reviewed | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
@@ -319,6 +319,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-29 | 1331 | ✅ yes | ✍️ author | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
 | 2026-09-24 | 1347 | — no | — | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
 | 2026-09-22 | 1346 | — no | — | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
 | 2026-09-22 | 1340 | — no | — | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |

@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-09-29
+- Generated: 2026-09-30
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 744 |
-| 🎯 Merged PRs with my impact | 70 |
-| 🔥 [Current impact streak](#all-merged-prs) | **11** |
+| ✅ Project merged PRs | 745 |
+| 🎯 Merged PRs with my impact | 71 |
+| 🔥 [Current impact streak](#all-merged-prs) | **12** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,10 +19,12 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1348 | 🟢 open | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 |  |
 | 1347 | ✅ merged | ✍️ author | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | ✍️ author | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
 | 1340 | ✅ merged | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) | 2026-09-17 | 2026-09-22 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
+| 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1325 | ✅ merged | 👀 reviewed | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) | 2026-09-10 | 2026-09-16 |
 | 1320 | ✅ merged | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 | 2026-09-14 |
 | 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
@@ -109,6 +111,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-09-29 | 1331 | ✅ yes | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
 | 2026-09-24 | 1347 | ✅ yes | ✍️ author | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
 | 2026-09-22 | 1346 | ✅ yes | ✍️ author | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) |
 | 2026-09-22 | 1340 | ✅ yes | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) |
