@@ -1,4 +1,4 @@
-# @thgO-O impact report
+# @r1b2ns impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
 - Generated: 2026-10-01
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 747 |
 | 🎯 Merged PRs with my impact | 1 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1087 | ✅ merged | ✍️ author | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) | 2026-05-26 | 2026-05-26 |
+| 1268 | ✅ merged | ✍️ author | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) | 2026-08-12 | 2026-09-30 |
+| 1267 | 📝 draft | ✍️ author | [#1267 — test(wire): exercise the V1 read path and the peer liveness deadlines](https://github.com/getfloresta/Floresta/pull/1267) | 2026-08-11 |  |
 
 ## All merged PRs
 
@@ -27,7 +28,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
-| 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
+| 2026-09-30 | 1268 | ✅ yes | ✍️ author | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
 | 2026-09-30 | 1348 | — no | — | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) |
 | 2026-09-29 | 1331 | — no | — | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
 | 2026-09-24 | 1347 | — no | — | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) |
@@ -148,7 +149,7 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-05-27 | 879 | — no | — | [#879 — chore: implement Display for error types](https://github.com/getfloresta/Floresta/pull/879) |
 | 2026-05-27 | 1071 | — no | — | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) |
 | 2026-05-27 | 1077 | — no | — | [#1077 — node/florestad: use `PathBuf` and `impl AsRef<Path>`](https://github.com/getfloresta/Floresta/pull/1077) |
-| 2026-05-26 | 1087 | ✅ yes | ✍️ author | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) |
+| 2026-05-26 | 1087 | — no | — | [#1087 — fix(electrum): return output index in listunspent tx_pos](https://github.com/getfloresta/Floresta/pull/1087) |
 | 2026-05-26 | 1080 | — no | — | [#1080 — rpc/cli: use `PathBuf`](https://github.com/getfloresta/Floresta/pull/1080) |
 | 2026-05-25 | 973 | — no | — | [#973 — rpc: implement getdifficulty](https://github.com/getfloresta/Floresta/pull/973) |
 | 2026-05-25 | 1078 | — no | — | [#1078 — docs: Reword, clarify, format contributing.md](https://github.com/getfloresta/Floresta/pull/1078) |
