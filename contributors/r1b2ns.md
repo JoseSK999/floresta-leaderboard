@@ -1,7 +1,7 @@
 # @r1b2ns impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-01
+- Generated: 2026-10-02
 
 ## Summary
 
@@ -20,7 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1268 | ✅ merged | ✍️ author | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) | 2026-08-12 | 2026-09-30 |
-| 1267 | 📝 draft | ✍️ author | [#1267 — test(wire): exercise the V1 read path and the peer liveness deadlines](https://github.com/getfloresta/Floresta/pull/1267) | 2026-08-11 |  |
+| 1267 | 🟢 open | ✍️ author | [#1267 — test(wire): exercise the V1 read path and the peer liveness deadlines](https://github.com/getfloresta/Floresta/pull/1267) | 2026-08-11 |  |
 
 ## All merged PRs
 

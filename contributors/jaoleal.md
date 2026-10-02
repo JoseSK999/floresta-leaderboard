@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-01
+- Generated: 2026-10-02
 
 ## Summary
 
@@ -110,6 +110,7 @@ Ordered newest first by PR number.
 | 1113 | ✅ merged | ✍️ author | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1112 | ✅ merged | ✍️ author | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
 | 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
+| 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1096 | ✅ merged | 👀 reviewed | [#1096 — refactor: move `try_and_*` to `common`](https://github.com/getfloresta/Floresta/pull/1096) | 2026-05-27 | 2026-05-28 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1093 | ✅ merged | 👀 reviewed | [#1093 — chore(nix): add direnv .envrc to auto-load the flake devshell](https://github.com/getfloresta/Floresta/pull/1093) | 2026-05-27 | 2026-05-28 |

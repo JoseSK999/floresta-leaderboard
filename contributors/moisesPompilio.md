@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-01
+- Generated: 2026-10-02
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1353 | 🟢 open | 👀 reviewed | [#1353 — fix(common): resolve tracing through $crate in the logging macros](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 |  |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
 | 1343 | 🟢 open | 👀 reviewed | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) | 2026-09-21 |  |
