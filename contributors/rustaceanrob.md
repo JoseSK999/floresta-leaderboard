@@ -1,7 +1,7 @@
 # @rustaceanrob impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1115 | 📝 draft | 👀 reviewed | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
+| 1115 | 🟢 open | 👀 reviewed | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
 | 954 | ✅ merged | ✍️ author | [#954 — doc: Remove additional run argument](https://github.com/getfloresta/Floresta/pull/954) | 2026-04-12 | 2026-04-13 |
 | 837 | 📝 draft | 👀 reviewed | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 |  |
 | 836 | ✅ merged | 👀 reviewed | [#836 — feat(consensus): assume-valid swift sync aggregator](https://github.com/getfloresta/Floresta/pull/836) | 2026-02-09 | 2026-05-11 |

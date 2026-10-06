@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1358 | 🟢 open | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 |  |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
@@ -35,7 +36,7 @@ Ordered newest first by PR number.
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1310 | 📝 draft | ✍️ author | [#1310 — [WIP] chain: acceptance test for block validation parity and ordering (fail-intended)](https://github.com/getfloresta/Floresta/pull/1310) | 2026-09-04 |  |
 | 1305 | ✅ merged | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat : Add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
 | 1300 | 🟢 open | 👀 reviewed | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 |  |
 | 1296 | ✅ merged | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) | 2026-09-01 | 2026-09-01 |
 | 1295 | ✅ merged | 👀 reviewed | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) | 2026-09-01 | 2026-09-01 |

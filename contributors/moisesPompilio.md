@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -27,7 +27,7 @@ Ordered newest first by PR number.
 | 1340 | ✅ merged | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) | 2026-09-17 | 2026-09-22 |
 | 1333 | ✅ merged | ✍️ author | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
 | 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat : Add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
 | 1296 | ✅ merged | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) | 2026-09-01 | 2026-09-01 |
 | 1295 | ✅ merged | 👀 reviewed | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) | 2026-09-01 | 2026-09-01 |
 | 1294 | ✅ merged | 👀 reviewed | [#1294 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1294) | 2026-09-01 | 2026-09-01 |

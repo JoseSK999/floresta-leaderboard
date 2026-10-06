@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1358 | 🟢 open | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 |  |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
@@ -132,7 +133,7 @@ Ordered newest first by PR number.
 | 1118 | 📝 draft | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 📝 draft | 👀 reviewed | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1116 | ✅ merged | 👀 reviewed | [#1116 — refactor(rpc): extract default_network_port helper](https://github.com/getfloresta/Floresta/pull/1116) | 2026-06-03 | 2026-06-05 |
-| 1115 | 📝 draft | 👀 reviewed | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
+| 1115 | 🟢 open | 👀 reviewed | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
 | 1114 | 📝 draft | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1112 | ✅ merged | 👀 reviewed | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |

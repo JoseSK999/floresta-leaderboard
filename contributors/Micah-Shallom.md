@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -24,7 +24,7 @@ Ordered newest first by PR number.
 | 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1329 | 🟢 open | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 |  |
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat : Add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
 | 1293 | 🟢 open | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 |  |
 | 1290 | ✅ merged | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 | 2026-09-09 |
 | 1249 | 📝 draft | ✍️ author | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |

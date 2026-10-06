@@ -1,7 +1,7 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-05
+- Generated: 2026-10-06
 
 ## Summary
 
@@ -32,7 +32,7 @@ Ordered newest first by PR number.
 | 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
 | 1236 | ✅ merged | ✍️ author | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
-| 1115 | 📝 draft | ✍️ author | [#1115 — [WIP] feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
+| 1115 | 🟢 open | ✍️ author | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
 | 1094 | ✅ merged | 👀 reviewed | [#1094 — chore: add my dns seed to testnet, mainnet and update the signet one](https://github.com/getfloresta/Floresta/pull/1094) | 2026-05-27 | 2026-05-28 |
