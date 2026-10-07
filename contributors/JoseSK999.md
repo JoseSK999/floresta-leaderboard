@@ -1,14 +1,14 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-06
+- Generated: 2026-10-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 747 |
-| 🎯 Merged PRs with my impact | 270 |
+| ✅ Project merged PRs | 749 |
+| 🎯 Merged PRs with my impact | 271 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -29,7 +29,7 @@ Ordered newest first by PR number.
 | 1260 | 🟢 open | 👀 reviewed | [#1260 — feat: enforce time rules on headers](https://github.com/getfloresta/Floresta/pull/1260) | 2026-08-10 |  |
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | ✍️ author | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
-| 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
+| 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1236 | ✅ merged | ✍️ author | [#1236 — feat(wire): implement `StumpUpdater`](https://github.com/getfloresta/Floresta/pull/1236) | 2026-07-28 | 2026-08-21 |
 | 1211 | ✅ merged | ✍️ author | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1115 | 🟢 open | ✍️ author | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 |  |
@@ -79,7 +79,7 @@ Ordered newest first by PR number.
 | 847 | ✅ merged | 👀 reviewed | [#847 — fix(chain_selector): fix a bug where we can sometimes get stuck and don't download any extra header](https://github.com/getfloresta/Floresta/pull/847) | 2026-02-17 | 2026-02-21 |
 | 845 | ✅ merged | ✍️ author | [#845 — refactor(chain): `check_block` method, returning computed `txids`](https://github.com/getfloresta/Floresta/pull/845) | 2026-02-16 | 2026-02-23 |
 | 843 | ❌ closed | 👀 reviewed | [#843 — Add `rust-toolchain.toml`](https://github.com/getfloresta/Floresta/pull/843) | 2026-02-12 | 2026-03-13 |
-| 837 | 📝 draft | ✍️ author | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 |  |
+| 837 | 📝 draft | ✍️ author | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 | 2026-10-06 |
 | 836 | ✅ merged | ✍️ author | [#836 — feat(consensus): assume-valid swift sync aggregator](https://github.com/getfloresta/Floresta/pull/836) | 2026-02-09 | 2026-05-11 |
 | 828 | ✅ merged | 👀 reviewed | [#828 — feat(wire): introduce RequestSelection](https://github.com/getfloresta/Floresta/pull/828) | 2026-02-05 | 2026-02-18 |
 | 825 | ✅ merged | ✍️ author | [#825 — ci: add `no-std` job to check `floresta-common`](https://github.com/getfloresta/Floresta/pull/825) | 2026-02-04 | 2026-02-05 |
@@ -319,6 +319,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-06 | 1358 | — no | — | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
+| 2026-10-06 | 1252 | ✅ yes | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
 | 2026-09-30 | 1348 | — no | — | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) |
 | 2026-09-29 | 1331 | ✅ yes | ✍️ author | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |

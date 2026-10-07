@@ -1,14 +1,14 @@
 # @erickcestari impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-06
+- Generated: 2026-10-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 747 |
-| 🎯 Merged PRs with my impact | 4 |
+| ✅ Project merged PRs | 749 |
+| 🎯 Merged PRs with my impact | 5 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
+| 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 781 | ✅ merged | 👀 reviewed | [#781 — fix: several improvements to how AddrMan works](https://github.com/getfloresta/Floresta/pull/781) | 2026-01-13 | 2026-02-24 |
 | 693 | ✅ merged | ✍️ author | [#693 — fuzz: Add flat_chainstore_header_insertion fuzz target](https://github.com/getfloresta/Floresta/pull/693) | 2025-10-24 | 2025-10-28 |
 | 691 | ✅ merged | ✍️ author | [#691 — fix: ensure all chain store files are created when metadata is missing](https://github.com/getfloresta/Floresta/pull/691) | 2025-10-23 | 2025-10-26 |
@@ -31,6 +31,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-06 | 1358 | — no | — | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
+| 2026-10-06 | 1252 | ✅ yes | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
 | 2026-09-30 | 1348 | — no | — | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) |
 | 2026-09-29 | 1331 | — no | — | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |

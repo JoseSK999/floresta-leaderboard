@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-06
+- Generated: 2026-10-07
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 747 |
-| 🎯 Merged PRs with my impact | 124 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 749 |
+| 🎯 Merged PRs with my impact | 126 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1358 | 🟢 open | ✍️ author | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 |  |
+| 1358 | ✅ merged | ✍️ author | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
 | 1353 | 🟢 open | 👀 reviewed | [#1353 — fix(common): resolve tracing through $crate in the logging macros](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 |  |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
@@ -52,7 +52,7 @@ Ordered newest first by PR number.
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
-| 1252 | 🟢 open | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 |  |
+| 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |
@@ -149,7 +149,7 @@ Ordered newest first by PR number.
 | 879 | ✅ merged | 👀 reviewed | [#879 — chore: implement Display for error types](https://github.com/getfloresta/Floresta/pull/879) | 2026-03-10 | 2026-05-27 |
 | 855 | ✅ merged | 👀 reviewed | [#855 — Remove `MAX_BLOCK_WEIGHT` in favor of `bitcoin::blockdata::Weight::MAX_BLOCK`](https://github.com/getfloresta/Floresta/pull/855) | 2026-02-23 | 2026-02-24 |
 | 849 | ❌ closed | 👀 reviewed | [#849 — fix(test): clean big files on `clean` recipe](https://github.com/getfloresta/Floresta/pull/849) | 2026-02-17 | 2026-03-16 |
-| 837 | 📝 draft | 👀 reviewed | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 |  |
+| 837 | 📝 draft | 👀 reviewed | [#837 — [WIP] feat: assume-valid swift sync](https://github.com/getfloresta/Floresta/pull/837) | 2026-02-09 | 2026-10-06 |
 | 831 | ✅ merged | 👀 reviewed | [#831 — rpcserver: Support named and null parameters, Review optionals on rpc internal methods, Stronger Response and Error codes](https://github.com/getfloresta/Floresta/pull/831) | 2026-02-06 | 2026-06-02 |
 | 826 | ✅ merged | 👀 reviewed | [#826 — cleanup test directories before running tests](https://github.com/getfloresta/Floresta/pull/826) | 2026-02-04 | 2026-02-10 |
 | 821 | ✅ merged | ✍️ author | [#821 — Add Wallet Integration Tests and Fix Descriptor Persistence Issues](https://github.com/getfloresta/Floresta/pull/821) | 2026-02-02 | 2026-05-11 |
@@ -196,6 +196,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-06 | 1358 | ✅ yes | ✍️ author | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
+| 2026-10-06 | 1252 | ✅ yes | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | ✅ yes | 👀 reviewed | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
 | 2026-09-30 | 1348 | — no | — | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) |
 | 2026-09-29 | 1331 | ✅ yes | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) |
