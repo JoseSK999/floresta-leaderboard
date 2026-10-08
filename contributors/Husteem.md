@@ -1,13 +1,13 @@
 # @Husteem impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-07
+- Generated: 2026-10-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 749 |
+| ✅ Project merged PRs | 751 |
 | 🎯 Merged PRs with my impact | 6 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -22,7 +22,7 @@ Ordered newest first by PR number.
 | 1329 | 🟢 open | ✍️ author | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 |  |
 | 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
 | 1293 | 🟢 open | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 |  |
-| 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
+| 1253 | 📝 draft | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1247 | 🟢 open | ✍️ author | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1232 | ❌ closed | ✍️ author | [#1232 — feat(node): made flat_chain_store capacities configurable](https://github.com/getfloresta/Floresta/pull/1232) | 2026-07-27 | 2026-08-05 |
@@ -40,6 +40,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-07 | 1343 | — no | — | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
+| 2026-10-07 | 1362 | — no | — | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | — no | — | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
 | 2026-10-06 | 1252 | — no | — | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |

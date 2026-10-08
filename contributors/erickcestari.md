@@ -1,13 +1,13 @@
 # @erickcestari impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-07
+- Generated: 2026-10-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 749 |
+| ✅ Project merged PRs | 751 |
 | 🎯 Merged PRs with my impact | 5 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -31,6 +31,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-07 | 1343 | — no | — | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
+| 2026-10-07 | 1362 | — no | — | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | — no | — | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
 | 2026-10-06 | 1252 | ✅ yes | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |

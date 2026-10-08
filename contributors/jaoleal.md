@@ -1,14 +1,14 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-07
+- Generated: 2026-10-08
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 749 |
-| 🎯 Merged PRs with my impact | 265 |
+| ✅ Project merged PRs | 751 |
+| 🎯 Merged PRs with my impact | 266 |
 | 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -23,7 +23,7 @@ Ordered newest first by PR number.
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
-| 1343 | 🟢 open | ✍️ author | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) | 2026-09-21 |  |
+| 1343 | ✅ merged | ✍️ author | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) | 2026-09-21 | 2026-10-07 |
 | 1340 | ✅ merged | 👀 reviewed | [#1340 — Branch out `libbitcoinkernel` setup into dedicated CI action](https://github.com/getfloresta/Floresta/pull/1340) | 2026-09-17 | 2026-09-22 |
 | 1337 | ❌ closed | ✍️ author | [#1337 — tests performance instrumentation](https://github.com/getfloresta/Floresta/pull/1337) | 2026-09-17 | 2026-09-17 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
@@ -56,7 +56,7 @@ Ordered newest first by PR number.
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
-| 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
+| 1253 | 📝 draft | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1251 | 🟢 open | ✍️ author | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
 | 1249 | 📝 draft | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
@@ -374,6 +374,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-07 | 1343 | ✅ yes | ✍️ author | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
+| 2026-10-07 | 1362 | — no | — | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | ✅ yes | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
 | 2026-10-06 | 1252 | — no | — | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) |
 | 2026-09-30 | 1268 | — no | — | [#1268 — fix(wire): keep checking the handshake deadline while a ping is in flight](https://github.com/getfloresta/Floresta/pull/1268) |
