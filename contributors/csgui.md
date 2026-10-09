@@ -1,7 +1,7 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-08
+- Generated: 2026-10-09
 
 ## Summary
 
@@ -46,7 +46,7 @@ Ordered newest first by PR number.
 | 1261 | ✅ merged | 👀 reviewed | [#1261 — fix(consensus): always consume spent `UtxoData`](https://github.com/getfloresta/Floresta/pull/1261) | 2026-08-10 | 2026-08-13 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
-| 1253 | 📝 draft | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
+| 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): block-based fee estimation via the block-subscriber port](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1249 | 📝 draft | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
 | 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |

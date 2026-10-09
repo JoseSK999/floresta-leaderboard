@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-08
+- Generated: 2026-10-09
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1365 | 🟢 open | ✍️ author | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
 | 1358 | ✅ merged | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
@@ -56,7 +57,7 @@ Ordered newest first by PR number.
 | 1256 | ✅ merged | 👀 reviewed | [#1256 — chore(deps): bump cryptography from 48.0.0 to 48.0.1 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1256) | 2026-08-09 | 2026-08-10 |
 | 1255 | ✅ merged | 👀 reviewed | [#1255 — fix(consensus): detect duplicate-sibling Merkle trees ](https://github.com/getfloresta/Floresta/pull/1255) | 2026-08-08 | 2026-09-01 |
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
-| 1253 | 📝 draft | 👀 reviewed | [#1253 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
+| 1253 | 🟢 open | 👀 reviewed | [#1253 — feat(chain): block-based fee estimation via the block-subscriber port](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1251 | 🟢 open | ✍️ author | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
 | 1249 | 📝 draft | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
