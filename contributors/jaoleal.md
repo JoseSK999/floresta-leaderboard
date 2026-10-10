@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-09
+- Generated: 2026-10-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 751 |
-| 🎯 Merged PRs with my impact | 266 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 752 |
+| 🎯 Merged PRs with my impact | 267 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1368 | 🟢 open | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 |  |
+| 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1365 | 🟢 open | ✍️ author | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
+| 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
 | 1358 | ✅ merged | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
@@ -29,6 +32,7 @@ Ordered newest first by PR number.
 | 1337 | ❌ closed | ✍️ author | [#1337 — tests performance instrumentation](https://github.com/getfloresta/Floresta/pull/1337) | 2026-09-17 | 2026-09-17 |
 | 1333 | ✅ merged | 👀 reviewed | [#1333 — Fix audit and fuzz CI failures](https://github.com/getfloresta/Floresta/pull/1333) | 2026-09-14 | 2026-09-15 |
 | 1330 | 🟢 open | 👀 reviewed | [#1330 — fix(wire): report block download progress on a time interval](https://github.com/getfloresta/Floresta/pull/1330) | 2026-09-12 |  |
+| 1329 | 🟢 open | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 |  |
 | 1322 | ❌ closed | ✍️ author | [#1322 — chore: use map instead of match in get_roots_for_block](https://github.com/getfloresta/Floresta/pull/1322) | 2026-09-09 | 2026-09-10 |
 | 1320 | ✅ merged | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 | 2026-09-14 |
 | 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
@@ -45,7 +49,7 @@ Ordered newest first by PR number.
 | 1290 | ✅ merged | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 | 2026-09-09 |
 | 1286 | ✅ merged | ✍️ author | [#1286 — fix: new lints](https://github.com/getfloresta/Floresta/pull/1286) | 2026-08-25 | 2026-08-25 |
 | 1284 | ✅ merged | 👀 reviewed | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) | 2026-08-20 | 2026-08-24 |
-| 1280 | 🟢 open | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
+| 1280 | ❌ closed | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 | 2026-10-09 |
 | 1269 | ✅ merged | ✍️ author | [#1269 — fix: reject creation_height = 0 on leaf data](https://github.com/getfloresta/Floresta/pull/1269) | 2026-08-13 | 2026-08-26 |
 | 1264 | ✅ merged | ✍️ author | [#1264 — fix(chain): prevent underflow on header validation.](https://github.com/getfloresta/Floresta/pull/1264) | 2026-08-10 | 2026-08-13 |
 | 1263 | ✅ merged | 👀 reviewed | [#1263 — chore(wire): allow Clippy lint in derived code](https://github.com/getfloresta/Floresta/pull/1263) | 2026-08-10 | 2026-08-10 |
@@ -89,6 +93,7 @@ Ordered newest first by PR number.
 | 1174 | ✅ merged | 👀 reviewed | [#1174 — Update memmap2 and anyhow to patched versions](https://github.com/getfloresta/Floresta/pull/1174) | 2026-06-29 | 2026-06-30 |
 | 1173 | ✅ merged | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
 | 1170 | ✅ merged | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 | 2026-07-02 |
+| 1163 | 🟢 open | 👀 reviewed | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 |  |
 | 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
 | 1158 | ❌ closed | 👀 reviewed | [#1158 — docs(rpc): add documentation for findtxout, getmemoryinfo, getrpcinfo…](https://github.com/getfloresta/Floresta/pull/1158) | 2026-06-25 | 2026-06-25 |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
@@ -375,6 +380,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-09 | 1367 | ✅ yes | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) |
 | 2026-10-07 | 1343 | ✅ yes | ✍️ author | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
 | 2026-10-07 | 1362 | — no | — | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | ✅ yes | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |

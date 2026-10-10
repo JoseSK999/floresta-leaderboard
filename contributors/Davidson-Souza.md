@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-09
+- Generated: 2026-10-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 751 |
-| 🎯 Merged PRs with my impact | 656 |
-| 🔥 [Current impact streak](#all-merged-prs) | **9** |
+| ✅ Project merged PRs | 752 |
+| 🎯 Merged PRs with my impact | 657 |
+| 🔥 [Current impact streak](#all-merged-prs) | **10** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
 | 1362 | ✅ merged | 👀 reviewed | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) | 2026-10-07 | 2026-10-07 |
 | 1360 | 🟢 open | 👀 reviewed | [#1360 — fix(wire): verify user-requested blocks before replying](https://github.com/getfloresta/Floresta/pull/1360) | 2026-10-07 |  |
@@ -48,7 +49,7 @@ Ordered newest first by PR number.
 | 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
 | 1283 | ✅ merged | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
 | 1282 | ✅ merged | 👀 reviewed | [#1282 — chore(deps): bump corepc-types from 0.14.0 to 0.15.0 in the all group across 1 directory](https://github.com/getfloresta/Floresta/pull/1282) | 2026-08-20 | 2026-08-20 |
-| 1280 | 🟢 open | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
+| 1280 | ❌ closed | 👀 reviewed | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 | 2026-10-09 |
 | 1279 | ✅ merged | 👀 reviewed | [#1279 — chore(deps): bump the all group with 3 updates](https://github.com/getfloresta/Floresta/pull/1279) | 2026-08-18 | 2026-08-20 |
 | 1275 | ✅ merged | 👀 reviewed | [#1275 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1275) | 2026-08-16 | 2026-08-20 |
 | 1274 | ✅ merged | 👀 reviewed | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) | 2026-08-16 | 2026-08-20 |
@@ -762,6 +763,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-09 | 1367 | ✅ yes | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) |
 | 2026-10-07 | 1343 | ✅ yes | 👀 reviewed | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
 | 2026-10-07 | 1362 | ✅ yes | 👀 reviewed | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | ✅ yes | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |

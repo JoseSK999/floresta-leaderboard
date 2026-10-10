@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-09
+- Generated: 2026-10-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 751 |
+| ✅ Project merged PRs | 752 |
 | 🎯 Merged PRs with my impact | 128 |
-| 🔥 [Current impact streak](#all-merged-prs) | **5** |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,10 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1378 | 📝 draft | ✍️ author | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) | 2026-10-09 |  |
+| 1377 | 🟢 open | ✍️ author | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 |  |
+| 1376 | 🟢 open | ✍️ author | [#1376 — refactor(wire): separate block and proof error handling](https://github.com/getfloresta/Floresta/pull/1376) | 2026-10-09 |  |
+| 1375 | 🟢 open | ✍️ author | [#1375 — refactor(chain): separate block structure and BIP34 validatio](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 |  |
 | 1362 | ✅ merged | 👀 reviewed | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) | 2026-10-07 | 2026-10-07 |
 | 1358 | ✅ merged | ✍️ author | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
 | 1353 | 🟢 open | 👀 reviewed | [#1353 — fix(common): resolve tracing through $crate in the logging macros](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 |  |
@@ -38,7 +42,7 @@ Ordered newest first by PR number.
 | 1285 | ✅ merged | 👀 reviewed | [#1285 — chore(deps): bump taiki-e/install-action from 2.82.0 to 2.82.2 in the all group](https://github.com/getfloresta/Floresta/pull/1285) | 2026-08-20 | 2026-08-21 |
 | 1284 | ✅ merged | 👀 reviewed | [#1284 — chore(deps): bump pytest from 9.1.0 to 9.1.1 in the all group](https://github.com/getfloresta/Floresta/pull/1284) | 2026-08-20 | 2026-08-24 |
 | 1283 | ✅ merged | 👀 reviewed | [#1283 — Change dependabot's interval to monthly](https://github.com/getfloresta/Floresta/pull/1283) | 2026-08-20 | 2026-08-20 |
-| 1280 | 🟢 open | ✍️ author | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 |  |
+| 1280 | ❌ closed | ✍️ author | [#1280 — Reject mutated blocks before validating proofs](https://github.com/getfloresta/Floresta/pull/1280) | 2026-08-18 | 2026-10-09 |
 | 1279 | ✅ merged | ✍️ author | [#1279 — chore(deps): bump the all group with 3 updates](https://github.com/getfloresta/Floresta/pull/1279) | 2026-08-18 | 2026-08-20 |
 | 1275 | ✅ merged | 👀 reviewed | [#1275 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1275) | 2026-08-16 | 2026-08-20 |
 | 1274 | ✅ merged | 👀 reviewed | [#1274 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1274) | 2026-08-16 | 2026-08-20 |
@@ -197,6 +201,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-09 | 1367 | — no | — | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) |
 | 2026-10-07 | 1343 | ✅ yes | 👀 reviewed | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
 | 2026-10-07 | 1362 | ✅ yes | 👀 reviewed | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | ✅ yes | ✍️ author | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |

@@ -1,13 +1,13 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-09
+- Generated: 2026-10-10
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 751 |
+| ✅ Project merged PRs | 752 |
 | 🎯 Merged PRs with my impact | 23 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
 | 1362 | ✅ merged | ✍️ author | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) | 2026-10-07 | 2026-10-07 |
 | 1360 | 🟢 open | ✍️ author | [#1360 — fix(wire): verify user-requested blocks before replying](https://github.com/getfloresta/Floresta/pull/1360) | 2026-10-07 |  |
 | 1348 | ✅ merged | ✍️ author | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
@@ -75,6 +76,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-09 | 1367 | — no | — | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) |
 | 2026-10-07 | 1343 | — no | — | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) |
 | 2026-10-07 | 1362 | ✅ yes | ✍️ author | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) |
 | 2026-10-06 | 1358 | — no | — | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) |
