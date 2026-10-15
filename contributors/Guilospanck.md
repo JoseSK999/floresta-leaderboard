@@ -1,13 +1,13 @@
 # @Guilospanck impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-14
+- Generated: 2026-10-15
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 755 |
+| ✅ Project merged PRs | 757 |
 | 🎯 Merged PRs with my impact | 4 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -30,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-14 | 1395 | — no | — | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) |
+| 2026-10-14 | 1067 | — no | — | [#1067 — [REFACTOR][RPC] Centralize RPC traits and method names](https://github.com/getfloresta/Floresta/pull/1067) |
 | 2026-10-13 | 1163 | — no | — | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) |
 | 2026-10-13 | 1329 | — no | — | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) |
 | 2026-10-12 | 1300 | — no | — | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) |
