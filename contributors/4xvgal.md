@@ -1,13 +1,13 @@
 # @4xvgal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-15
+- Generated: 2026-10-16
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 757 |
+| ✅ Project merged PRs | 759 |
 | 🎯 Merged PRs with my impact | 2 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1400 | 🟢 open | ✍️ author | [#1400 — feat(chain): per-block fee/weight stats to BlockConsumer](https://github.com/getfloresta/Floresta/pull/1400) | 2026-10-15 |  |
 | 1352 | ❌ closed | ✍️ author | [#1352 — fix(tests): propagate float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1352) | 2026-10-01 | 2026-10-01 |
 | 1343 | ✅ merged | 👀 reviewed | [#1343 — Fix: functional test races, false positives and failing comparison on edge cases.](https://github.com/getfloresta/Floresta/pull/1343) | 2026-09-21 | 2026-10-07 |
 | 1253 | 🟢 open | ✍️ author | [#1253 — feat(chain): block-based fee estimation via the block-subscriber port](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
@@ -31,6 +32,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-15 | 1399 | — no | — | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) |
+| 2026-10-15 | 1115 | — no | — | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) |
 | 2026-10-14 | 1395 | — no | — | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) |
 | 2026-10-14 | 1067 | — no | — | [#1067 — [REFACTOR][RPC] Centralize RPC traits and method names](https://github.com/getfloresta/Floresta/pull/1067) |
 | 2026-10-13 | 1163 | — no | — | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) |
