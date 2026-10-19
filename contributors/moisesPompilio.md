@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-18
+- Generated: 2026-10-19
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 760 |
-| 🎯 Merged PRs with my impact | 131 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 761 |
+| 🎯 Merged PRs with my impact | 132 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1395 | ✅ merged | ✍️ author | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) | 2026-10-14 | 2026-10-14 |
 | 1378 | 📝 draft | ✍️ author | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) | 2026-10-09 |  |
-| 1377 | 🟢 open | ✍️ author | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 |  |
+| 1377 | ✅ merged | ✍️ author | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 | 2026-10-19 |
 | 1376 | 🟢 open | ✍️ author | [#1376 — refactor(wire): separate block and proof error handling](https://github.com/getfloresta/Floresta/pull/1376) | 2026-10-09 |  |
 | 1375 | 🟢 open | ✍️ author | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 |  |
 | 1365 | 🟢 open | 👀 reviewed | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
@@ -203,6 +203,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-19 | 1377 | ✅ yes | ✍️ author | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | — no | — | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |
 | 2026-10-15 | 1399 | — no | — | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) |
 | 2026-10-15 | 1115 | — no | — | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) |

@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-18
+- Generated: 2026-10-19
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 760 |
-| 🎯 Merged PRs with my impact | 665 |
-| 🔥 [Current impact streak](#all-merged-prs) | **18** |
+| ✅ Project merged PRs | 761 |
+| 🎯 Merged PRs with my impact | 666 |
+| 🔥 [Current impact streak](#all-merged-prs) | **19** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -25,7 +25,7 @@ Ordered newest first by PR number.
 | 1395 | ✅ merged | 👀 reviewed | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) | 2026-10-14 | 2026-10-14 |
 | 1389 | 🟢 open | ✍️ author | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) | 2026-10-13 |  |
 | 1380 | 🟢 open | 👀 reviewed | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) | 2026-10-10 |  |
-| 1377 | 🟢 open | 👀 reviewed | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 |  |
+| 1377 | ✅ merged | 👀 reviewed | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 | 2026-10-19 |
 | 1375 | 🟢 open | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 |  |
 | 1368 | ✅ merged | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
@@ -773,6 +773,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-19 | 1377 | ✅ yes | 👀 reviewed | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | ✅ yes | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |
 | 2026-10-15 | 1399 | ✅ yes | 👀 reviewed | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) |
 | 2026-10-15 | 1115 | ✅ yes | 👀 reviewed | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) |

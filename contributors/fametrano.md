@@ -1,15 +1,15 @@
 # @fametrano impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-18
+- Generated: 2026-10-19
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 760 |
+| ✅ Project merged PRs | 761 |
 | 🎯 Merged PRs with my impact | 2 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -39,6 +39,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-19 | 1377 | — no | — | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | ✅ yes | ✍️ author | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |
 | 2026-10-15 | 1399 | — no | — | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) |
 | 2026-10-15 | 1115 | — no | — | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) |
