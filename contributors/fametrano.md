@@ -1,14 +1,14 @@
 # @fametrano impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-19
+- Generated: 2026-10-20
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 761 |
-| 🎯 Merged PRs with my impact | 2 |
+| ✅ Project merged PRs | 766 |
+| 🎯 Merged PRs with my impact | 5 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -20,9 +20,9 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1393 | 🟢 open | ✍️ author | [#1393 — fix(chain): require a header's nBits to equal the required bits](https://github.com/getfloresta/Floresta/pull/1393) | 2026-10-14 |  |
-| 1383 | 🟢 open | ✍️ author | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 |  |
+| 1383 | ✅ merged | ✍️ author | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
 | 1382 | 🟢 open | ✍️ author | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 |  |
-| 1380 | 🟢 open | ✍️ author | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) | 2026-10-10 |  |
+| 1380 | ✅ merged | ✍️ author | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) | 2026-10-10 | 2026-10-19 |
 | 1379 | 🟢 open | ✍️ author | [#1379 — test(electrum): compare the Electrum server with electrs and ElectrumX](https://github.com/getfloresta/Floresta/pull/1379) | 2026-10-09 |  |
 | 1374 | 🟢 open | ✍️ author | [#1374 — fix(wire): drain buffered block filters from the next height](https://github.com/getfloresta/Floresta/pull/1374) | 2026-10-09 |  |
 | 1370 | 🟢 open | ✍️ author | [#1370 — fix(electrum): order scripthash history as the protocol defines](https://github.com/getfloresta/Floresta/pull/1370) | 2026-10-09 |  |
@@ -30,7 +30,7 @@ Ordered newest first by PR number.
 | 1368 | ✅ merged | ✍️ author | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1328 | 🟢 open | 👀 reviewed | [#1328 — feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
 | 1300 | ✅ merged | 👀 reviewed | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 | 2026-10-12 |
-| 1293 | 🟢 open | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 |  |
+| 1293 | ✅ merged | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 | 2026-10-19 |
 | 1246 | 🟢 open | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 |  |
 
 ## All merged PRs
@@ -39,6 +39,11 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-19 | 1389 | — no | — | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) |
+| 2026-10-19 | 1383 | ✅ yes | ✍️ author | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) |
+| 2026-10-19 | 1380 | ✅ yes | ✍️ author | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) |
+| 2026-10-19 | 1401 | — no | — | [#1401 — fix(rpc): reject empty and duplicated txids in gettxoutproof](https://github.com/getfloresta/Floresta/pull/1401) |
+| 2026-10-19 | 1293 | ✅ yes | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) |
 | 2026-10-19 | 1377 | — no | — | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | ✅ yes | ✍️ author | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |
 | 2026-10-15 | 1399 | — no | — | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) |
