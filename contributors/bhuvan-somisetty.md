@@ -1,7 +1,7 @@
 # @bhuvan-somisetty impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-20
+- Generated: 2026-10-21
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1408 | 🟢 open | ✍️ author | [#1408 — fix(electrum): return 0 for unconfirmed UTXO height in listunspent and avoid unwrap](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 |  |
 | 1399 | ✅ merged | ✍️ author | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) | 2026-10-15 | 2026-10-15 |
 | 1386 | ❌ closed | ✍️ author | [#1386 — fix(cli): pass rpc_user and rpc_password to jsonrpc client](https://github.com/getfloresta/Floresta/pull/1386) | 2026-10-10 | 2026-10-12 |
 | 1364 | 🟢 open | ✍️ author | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
