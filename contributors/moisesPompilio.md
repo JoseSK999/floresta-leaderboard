@@ -1,14 +1,14 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-22
+- Generated: 2026-10-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 771 |
-| 🎯 Merged PRs with my impact | 134 |
+| ✅ Project merged PRs | 773 |
+| 🎯 Merged PRs with my impact | 135 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1414 | ✅ merged | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) | 2026-10-22 | 2026-10-22 |
 | 1409 | ✅ merged | 👀 reviewed | [#1409 — fix rustls-webpki RUSTSEC-2026-0382](https://github.com/getfloresta/Floresta/pull/1409) | 2026-10-21 | 2026-10-21 |
 | 1406 | ✅ merged | 👀 reviewed | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) | 2026-10-20 | 2026-10-21 |
 | 1395 | ✅ merged | ✍️ author | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) | 2026-10-14 | 2026-10-14 |
@@ -205,6 +206,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
+| 2026-10-22 | 1414 | ✅ yes | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
 | 2026-10-22 | 1410 | — no | — | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) |
 | 2026-10-21 | 1411 | — no | — | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) |
 | 2026-10-21 | 1406 | ✅ yes | 👀 reviewed | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) |

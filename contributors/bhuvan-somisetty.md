@@ -1,13 +1,13 @@
 # @bhuvan-somisetty impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-22
+- Generated: 2026-10-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 771 |
+| ✅ Project merged PRs | 773 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1408 | 🟢 open | ✍️ author | [#1408 — fix(electrum): return 0 for unconfirmed UTXO height in listunspent and avoid unwrap](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 |  |
+| 1408 | 🟢 open | ✍️ author | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 |  |
 | 1399 | ✅ merged | ✍️ author | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) | 2026-10-15 | 2026-10-15 |
 | 1386 | ❌ closed | ✍️ author | [#1386 — fix(cli): pass rpc_user and rpc_password to jsonrpc client](https://github.com/getfloresta/Floresta/pull/1386) | 2026-10-10 | 2026-10-12 |
 | 1364 | 🟢 open | ✍️ author | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
@@ -30,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
+| 2026-10-22 | 1414 | — no | — | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
 | 2026-10-22 | 1410 | — no | — | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) |
 | 2026-10-21 | 1411 | — no | — | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) |
 | 2026-10-21 | 1406 | — no | — | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) |

@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-22
+- Generated: 2026-10-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 771 |
-| 🎯 Merged PRs with my impact | 278 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 773 |
+| 🎯 Merged PRs with my impact | 279 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -25,7 +25,8 @@ Ordered newest first by PR number.
 | 1393 | ✅ merged | 👀 reviewed | [#1393 — fix(chain): require a header's nBits to equal the required bits](https://github.com/getfloresta/Floresta/pull/1393) | 2026-10-14 | 2026-10-21 |
 | 1389 | ✅ merged | 👀 reviewed | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) | 2026-10-13 | 2026-10-19 |
 | 1383 | ✅ merged | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
-| 1382 | 🟢 open | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 |  |
+| 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
+| 1369 | 🟢 open | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 |  |
 | 1368 | ✅ merged | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1365 | 🟢 open | ✍️ author | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
@@ -387,6 +388,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-22 | 1382 | ✅ yes | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
+| 2026-10-22 | 1414 | — no | — | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
 | 2026-10-22 | 1410 | ✅ yes | 👀 reviewed | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) |
 | 2026-10-21 | 1411 | ✅ yes | 👀 reviewed | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) |
 | 2026-10-21 | 1406 | — no | — | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) |

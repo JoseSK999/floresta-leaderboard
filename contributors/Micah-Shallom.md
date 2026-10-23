@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-22
+- Generated: 2026-10-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 771 |
-| 🎯 Merged PRs with my impact | 25 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 773 |
+| 🎯 Merged PRs with my impact | 26 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
 | 1404 | 🟢 open | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 |  |
-| 1382 | 🟢 open | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 |  |
+| 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
 | 1369 | 🟢 open | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 |  |
 | 1365 | 🟢 open | 👀 reviewed | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
 | 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
@@ -81,6 +81,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-22 | 1382 | ✅ yes | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
+| 2026-10-22 | 1414 | — no | — | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
 | 2026-10-22 | 1410 | — no | — | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) |
 | 2026-10-21 | 1411 | — no | — | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) |
 | 2026-10-21 | 1406 | — no | — | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) |

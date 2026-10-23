@@ -1,13 +1,13 @@
 # @HalFinneyIsMyHomeBoy impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-22
+- Generated: 2026-10-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 771 |
+| ✅ Project merged PRs | 773 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
+| 2026-10-22 | 1414 | — no | — | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
 | 2026-10-22 | 1410 | — no | — | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) |
 | 2026-10-21 | 1411 | — no | — | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) |
 | 2026-10-21 | 1406 | — no | — | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) |
