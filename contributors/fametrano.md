@@ -1,13 +1,13 @@
 # @fametrano impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-26
+- Generated: 2026-10-27
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 774 |
+| ✅ Project merged PRs | 775 |
 | 🎯 Merged PRs with my impact | 8 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -33,6 +33,7 @@ Ordered newest first by PR number.
 | 1328 | 🟢 open | 👀 reviewed | [#1328 — feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
 | 1300 | ✅ merged | 👀 reviewed | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 | 2026-10-12 |
 | 1293 | ✅ merged | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 | 2026-10-19 |
+| 1260 | 🟢 open | 👀 reviewed | [#1260 — feat: enforce time rules on headers](https://github.com/getfloresta/Floresta/pull/1260) | 2026-08-10 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 
 ## All merged PRs
@@ -41,6 +42,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | — no | — | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | ✅ yes | ✍️ author | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
 | 2026-10-22 | 1414 | — no | — | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) |
