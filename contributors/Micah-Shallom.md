@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-27
+- Generated: 2026-10-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 775 |
-| 🎯 Merged PRs with my impact | 26 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 776 |
+| 🎯 Merged PRs with my impact | 27 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -22,7 +22,7 @@ Ordered newest first by PR number.
 | 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
 | 1404 | 🟢 open | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 |  |
 | 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
-| 1369 | 🟢 open | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 |  |
+| 1369 | ✅ merged | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 | 2026-10-27 |
 | 1365 | 🟢 open | 👀 reviewed | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
 | 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
 | 1362 | ✅ merged | ✍️ author | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) | 2026-10-07 | 2026-10-07 |
@@ -81,6 +81,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-27 | 1369 | ✅ yes | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | — no | — | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | ✅ yes | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |

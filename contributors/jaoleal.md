@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-27
+- Generated: 2026-10-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 775 |
-| 🎯 Merged PRs with my impact | 280 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 776 |
+| 🎯 Merged PRs with my impact | 281 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1440 | 🟢 open | ✍️ author | [#1440 — test: rerun failing functional tests up to 3 times](https://github.com/getfloresta/Floresta/pull/1440) | 2026-10-26 |  |
+| 1440 | 📝 draft | ✍️ author | [#1440 — test: rerun failing functional tests up to 3 times](https://github.com/getfloresta/Floresta/pull/1440) | 2026-10-26 |  |
 | 1437 | ✅ merged | ✍️ author | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
 | 1417 | 🟢 open | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) | 2026-10-24 |  |
 | 1411 | ✅ merged | 👀 reviewed | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) | 2026-10-21 | 2026-10-21 |
@@ -31,7 +31,7 @@ Ordered newest first by PR number.
 | 1389 | ✅ merged | 👀 reviewed | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) | 2026-10-13 | 2026-10-19 |
 | 1383 | ✅ merged | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
 | 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
-| 1369 | 🟢 open | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 |  |
+| 1369 | ✅ merged | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 | 2026-10-27 |
 | 1368 | ✅ merged | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1365 | 🟢 open | ✍️ author | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
@@ -393,6 +393,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-27 | 1369 | ✅ yes | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | ✅ yes | ✍️ author | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | — no | — | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | ✅ yes | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |

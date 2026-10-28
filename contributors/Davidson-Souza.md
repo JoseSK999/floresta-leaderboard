@@ -1,13 +1,13 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-27
+- Generated: 2026-10-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 775 |
+| ✅ Project merged PRs | 776 |
 | 🎯 Merged PRs with my impact | 678 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1422 | ✅ merged | 👀 reviewed | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) | 2026-10-25 | 2026-10-26 |
 | 1414 | ✅ merged | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) | 2026-10-22 | 2026-10-22 |
-| 1412 | 📝 draft | ✍️ author | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) | 2026-10-22 |  |
+| 1412 | 🟢 open | ✍️ author | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) | 2026-10-22 |  |
 | 1411 | ✅ merged | ✍️ author | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) | 2026-10-21 | 2026-10-21 |
 | 1410 | ✅ merged | 👀 reviewed | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) | 2026-10-21 | 2026-10-22 |
 | 1409 | ✅ merged | 👀 reviewed | [#1409 — fix rustls-webpki RUSTSEC-2026-0382](https://github.com/getfloresta/Floresta/pull/1409) | 2026-10-21 | 2026-10-21 |
@@ -91,7 +91,7 @@ Ordered newest first by PR number.
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
-| 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
+| 1247 | 📝 draft | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 | 1243 | 🟢 open | 👀 reviewed | [#1243 — fix(wire): don't panic when a peer is unresponsive during fork resolution](https://github.com/getfloresta/Floresta/pull/1243) | 2026-08-02 |  |
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
@@ -782,6 +782,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-27 | 1369 | — no | — | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | ✅ yes | 👀 reviewed | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |

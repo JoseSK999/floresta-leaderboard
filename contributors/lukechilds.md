@@ -1,13 +1,13 @@
 # @lukechilds impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-27
+- Generated: 2026-10-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 775 |
+| ✅ Project merged PRs | 776 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -27,6 +27,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-27 | 1369 | — no | — | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | — no | — | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |

@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-27
+- Generated: 2026-10-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 775 |
+| ✅ Project merged PRs | 776 |
 | 🎯 Merged PRs with my impact | 136 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -65,7 +65,7 @@ Ordered newest first by PR number.
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
 | 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
-| 1247 | 🟢 open | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
+| 1247 | 📝 draft | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 | 1242 | ✅ merged | 👀 reviewed | [#1242 — chore(deps): bump the all group with 4 updates](https://github.com/getfloresta/Floresta/pull/1242) | 2026-08-02 | 2026-08-04 |
 | 1235 | ✅ merged | ✍️ author | [#1235 — Improve get_roots test with utreexod node](https://github.com/getfloresta/Floresta/pull/1235) | 2026-07-28 | 2026-08-06 |
@@ -207,6 +207,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-27 | 1369 | — no | — | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | ✅ yes | 👀 reviewed | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
 | 2026-10-26 | 1422 | — no | — | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) |
 | 2026-10-22 | 1382 | — no | — | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) |
