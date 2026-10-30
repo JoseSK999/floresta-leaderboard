@@ -1,7 +1,7 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-29
+- Generated: 2026-10-30
 
 ## Summary
 
@@ -21,6 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1417 | 🟢 open | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) | 2026-10-24 |  |
 | 1414 | ✅ merged | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) | 2026-10-22 | 2026-10-22 |
+| 1412 | 🟢 open | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) | 2026-10-22 |  |
 | 1408 | ✅ merged | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 | 2026-10-28 |
 | 1404 | 🟢 open | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 |  |
 | 1376 | 🟢 open | 👀 reviewed | [#1376 — refactor(wire): separate block and proof error handling](https://github.com/getfloresta/Floresta/pull/1376) | 2026-10-09 |  |
