@@ -1,15 +1,15 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-30
+- Generated: 2026-10-31
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 777 |
-| 🎯 Merged PRs with my impact | 49 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 779 |
+| 🎯 Merged PRs with my impact | 50 |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -35,7 +35,7 @@ Ordered newest first by PR number.
 | 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1190 | ✅ merged | 👀 reviewed | [#1190 — refact: BitcoinSocketAddress::default_rpc_port, rename get_default_port to default_p2p_port](https://github.com/getfloresta/Floresta/pull/1190) | 2026-07-06 | 2026-07-07 |
 | 1189 | ✅ merged | 👀 reviewed | [#1189 — docs(rpc): added getrpcinfo documentation](https://github.com/getfloresta/Floresta/pull/1189) | 2026-07-06 | 2026-07-07 |
-| 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
+| 1161 | ✅ merged | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 | 2026-10-30 |
 | 1128 | ✅ merged | 👀 reviewed | [#1128 — fix(electrum): detect TLS handshake on plaintext port](https://github.com/getfloresta/Floresta/pull/1128) | 2026-06-12 | 2026-06-17 |
 | 1124 | ✅ merged | 👀 reviewed | [#1124 — feat(wire): Allow connecting with onion addresses](https://github.com/getfloresta/Floresta/pull/1124) | 2026-06-08 | 2026-06-17 |
 | 1122 | ✅ merged | 👀 reviewed | [#1122 — Add and apply `use_self = deny` lint](https://github.com/getfloresta/Floresta/pull/1122) | 2026-06-07 | 2026-06-09 |
@@ -87,6 +87,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-30 | 1353 | — no | — | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
+| 2026-10-30 | 1161 | ✅ yes | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | ✅ yes | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |
 | 2026-10-27 | 1369 | — no | — | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |

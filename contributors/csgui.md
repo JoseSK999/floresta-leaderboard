@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-30
+- Generated: 2026-10-31
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 777 |
-| 🎯 Merged PRs with my impact | 97 |
-| 🔥 [Current impact streak](#all-merged-prs) | **14** |
+| ✅ Project merged PRs | 779 |
+| 🎯 Merged PRs with my impact | 99 |
+| 🔥 [Current impact streak](#all-merged-prs) | **16** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -41,6 +41,7 @@ Ordered newest first by PR number.
 | 1367 | ✅ merged | ✍️ author | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1362 | ✅ merged | 👀 reviewed | [#1362 — fix(tests): forward float_tol in compare_fields recursion](https://github.com/getfloresta/Floresta/pull/1362) | 2026-10-07 | 2026-10-07 |
 | 1358 | ✅ merged | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
+| 1353 | ✅ merged | 👀 reviewed | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 | 2026-10-30 |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | ✍️ author | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | ✍️ author | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
@@ -72,6 +73,7 @@ Ordered newest first by PR number.
 | 1249 | 📝 draft | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 | 1177 | ✅ merged | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
+| 1161 | ✅ merged | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 | 2026-10-30 |
 | 1155 | ✅ merged | ✍️ author | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1143 | ✅ merged | 👀 reviewed | [#1143 — Move `config.toml.sample` under `bin/florestad`](https://github.com/getfloresta/Floresta/pull/1143) | 2026-06-23 | 2026-06-24 |
 | 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
@@ -139,6 +141,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-30 | 1353 | ✅ yes | 👀 reviewed | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
+| 2026-10-30 | 1161 | ✅ yes | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | ✅ yes | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |
 | 2026-10-27 | 1369 | ✅ yes | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | ✅ yes | 👀 reviewed | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |

@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-30
+- Generated: 2026-10-31
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 777 |
-| 🎯 Merged PRs with my impact | 282 |
-| 🔥 [Current impact streak](#all-merged-prs) | **3** |
+| ✅ Project merged PRs | 779 |
+| 🎯 Merged PRs with my impact | 284 |
+| 🔥 [Current impact streak](#all-merged-prs) | **5** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -37,7 +37,7 @@ Ordered newest first by PR number.
 | 1365 | 🟢 open | ✍️ author | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
 | 1364 | 🟢 open | 👀 reviewed | [#1364 — feat(cli): add --addnode CLI flag to florestad](https://github.com/getfloresta/Floresta/pull/1364) | 2026-10-08 |  |
 | 1358 | ✅ merged | 👀 reviewed | [#1358 — Fix lint failures after Clippy update](https://github.com/getfloresta/Floresta/pull/1358) | 2026-10-03 | 2026-10-06 |
-| 1353 | 🟢 open | 👀 reviewed | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 |  |
+| 1353 | ✅ merged | 👀 reviewed | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 | 2026-10-30 |
 | 1348 | ✅ merged | 👀 reviewed | [#1348 — feat(common): add NetworkExt::data_subdir](https://github.com/getfloresta/Floresta/pull/1348) | 2026-09-25 | 2026-09-30 |
 | 1347 | ✅ merged | 👀 reviewed | [#1347 — fetch floresta-common from crates.io](https://github.com/getfloresta/Floresta/pull/1347) | 2026-09-22 | 2026-09-24 |
 | 1346 | ✅ merged | 👀 reviewed | [#1346 — bump floresta-common 1.0.0](https://github.com/getfloresta/Floresta/pull/1346) | 2026-09-22 | 2026-09-22 |
@@ -108,7 +108,7 @@ Ordered newest first by PR number.
 | 1173 | ✅ merged | 👀 reviewed | [#1173 — fix: apply new clippy suggestion](https://github.com/getfloresta/Floresta/pull/1173) | 2026-06-29 | 2026-06-29 |
 | 1170 | ✅ merged | 👀 reviewed | [#1170 — docs(rpc): document, test and wired getmemoryinfo RPC](https://github.com/getfloresta/Floresta/pull/1170) | 2026-06-29 | 2026-07-02 |
 | 1163 | ✅ merged | 👀 reviewed | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 | 2026-10-13 |
-| 1161 | 🟢 open | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
+| 1161 | ✅ merged | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 | 2026-10-30 |
 | 1158 | ❌ closed | 👀 reviewed | [#1158 — docs(rpc): add documentation for findtxout, getmemoryinfo, getrpcinfo…](https://github.com/getfloresta/Floresta/pull/1158) | 2026-06-25 | 2026-06-25 |
 | 1155 | ✅ merged | 👀 reviewed | [#1155 — update SECURITY.md](https://github.com/getfloresta/Floresta/pull/1155) | 2026-06-24 | 2026-06-24 |
 | 1154 | ✅ merged | 👀 reviewed | [#1154 — Weekly Bumps [2026-06-24]](https://github.com/getfloresta/Floresta/pull/1154) | 2026-06-24 | 2026-06-24 |
@@ -394,6 +394,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-30 | 1353 | ✅ yes | 👀 reviewed | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
+| 2026-10-30 | 1161 | ✅ yes | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | ✅ yes | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |
 | 2026-10-27 | 1369 | ✅ yes | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | ✅ yes | ✍️ author | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |

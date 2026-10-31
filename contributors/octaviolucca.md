@@ -1,14 +1,14 @@
 # @octaviolucca impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-30
+- Generated: 2026-10-31
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 777 |
-| 🎯 Merged PRs with my impact | 2 |
+| ✅ Project merged PRs | 779 |
+| 🎯 Merged PRs with my impact | 3 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
@@ -22,7 +22,7 @@ Ordered newest first by PR number.
 | 1233 | ✅ merged | ✍️ author | [#1233 — feat(rpc): Add simple getpeerinfo fields](https://github.com/getfloresta/Floresta/pull/1233) | 2026-07-27 | 2026-08-04 |
 | 1210 | ✅ merged | ✍️ author | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1207 | ❌ closed | ✍️ author | [#1207 — testing CI ](https://github.com/getfloresta/Floresta/pull/1207) | 2026-07-14 | 2026-07-14 |
-| 1161 | 🟢 open | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 |  |
+| 1161 | ✅ merged | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 | 2026-10-30 |
 
 ## All merged PRs
 
@@ -30,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-10-30 | 1353 | — no | — | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
+| 2026-10-30 | 1161 | ✅ yes | ✍️ author | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | — no | — | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |
 | 2026-10-27 | 1369 | — no | — | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) |
 | 2026-10-26 | 1437 | — no | — | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) |
