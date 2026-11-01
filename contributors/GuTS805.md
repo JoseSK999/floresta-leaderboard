@@ -1,7 +1,7 @@
 # @GuTS805 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-10-31
+- Generated: 2026-11-01
 
 ## Summary
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1448 | 🟢 open | ✍️ author | [#1448 — ci: check the workspace against the in-tree floresta-common](https://github.com/getfloresta/Floresta/pull/1448) | 2026-10-30 |  |
+| 1448 | ❌ closed | ✍️ author | [#1448 — ci: check the workspace against the in-tree floresta-common](https://github.com/getfloresta/Floresta/pull/1448) | 2026-10-30 | 2026-10-31 |
 | 1353 | ✅ merged | ✍️ author | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) | 2026-10-01 | 2026-10-30 |
 | 1246 | ❌ closed | ✍️ author | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 | 1243 | 🟢 open | ✍️ author | [#1243 — fix(wire): don't panic when a peer is unresponsive during fork resolution](https://github.com/getfloresta/Floresta/pull/1243) | 2026-08-02 |  |
