@@ -1,13 +1,13 @@
 # @JoseSK999 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-02
+- Generated: 2026-11-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 779 |
+| ✅ Project merged PRs | 780 |
 | 🎯 Merged PRs with my impact | 275 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1412 | 🟢 open | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) | 2026-10-22 |  |
 | 1406 | ✅ merged | 👀 reviewed | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) | 2026-10-20 | 2026-10-21 |
 | 1395 | ✅ merged | 👀 reviewed | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) | 2026-10-14 | 2026-10-14 |
 | 1336 | 🟢 open | 👀 reviewed | [#1336 — fix(wire): Don't get stuck during chain selection if one peer is unresponsive](https://github.com/getfloresta/Floresta/pull/1336) | 2026-09-17 |  |
@@ -321,6 +322,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-02 | 1375 | — no | — | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) |
 | 2026-10-30 | 1353 | — no | — | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
 | 2026-10-30 | 1161 | — no | — | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | — no | — | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |

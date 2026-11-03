@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-02
+- Generated: 2026-11-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 779 |
-| 🎯 Merged PRs with my impact | 679 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 780 |
+| 🎯 Merged PRs with my impact | 680 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -35,7 +35,7 @@ Ordered newest first by PR number.
 | 1383 | ✅ merged | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
 | 1380 | ✅ merged | 👀 reviewed | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) | 2026-10-10 | 2026-10-19 |
 | 1377 | ✅ merged | 👀 reviewed | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 | 2026-10-19 |
-| 1375 | 🟢 open | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 |  |
+| 1375 | ✅ merged | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 | 2026-11-02 |
 | 1368 | ✅ merged | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
 | 1365 | 🟢 open | 👀 reviewed | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
@@ -782,6 +782,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-02 | 1375 | ✅ yes | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) |
 | 2026-10-30 | 1353 | — no | — | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
 | 2026-10-30 | 1161 | ✅ yes | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | — no | — | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |

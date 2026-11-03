@@ -1,13 +1,13 @@
 # @Gudnessuche impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-02
+- Generated: 2026-11-03
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 779 |
+| ✅ Project merged PRs | 780 |
 | 🎯 Merged PRs with my impact | 9 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -38,6 +38,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-02 | 1375 | — no | — | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) |
 | 2026-10-30 | 1353 | — no | — | [#1353 — docs(common): note that the logging macros need tracing in the caller](https://github.com/getfloresta/Floresta/pull/1353) |
 | 2026-10-30 | 1161 | — no | — | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) |
 | 2026-10-28 | 1408 | — no | — | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) |
