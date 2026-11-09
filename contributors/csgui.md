@@ -1,7 +1,7 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-08
+- Generated: 2026-11-09
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1457 | 🟢 open | ✍️ author | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 |  |
 | 1454 | ✅ merged | 👀 reviewed | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) | 2026-11-06 | 2026-11-06 |
 | 1437 | ✅ merged | 👀 reviewed | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
 | 1422 | ✅ merged | 👀 reviewed | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) | 2026-10-25 | 2026-10-26 |
@@ -36,6 +37,7 @@ Ordered newest first by PR number.
 | 1383 | ✅ merged | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
 | 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
 | 1380 | ✅ merged | 👀 reviewed | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) | 2026-10-10 | 2026-10-19 |
+| 1378 | 🟢 open | 👀 reviewed | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) | 2026-10-09 |  |
 | 1377 | ✅ merged | 👀 reviewed | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) | 2026-10-09 | 2026-10-19 |
 | 1376 | ✅ merged | 👀 reviewed | [#1376 — refactor(wire): separate block and proof error handling](https://github.com/getfloresta/Floresta/pull/1376) | 2026-10-09 | 2026-11-03 |
 | 1375 | ✅ merged | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 | 2026-11-02 |
