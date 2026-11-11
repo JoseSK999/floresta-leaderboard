@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-10
+- Generated: 2026-11-11
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1457 | 🟢 open | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 |  |
 | 1454 | ✅ merged | 👀 reviewed | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) | 2026-11-06 | 2026-11-06 |
 | 1422 | ✅ merged | 👀 reviewed | [#1422 — Bump `tokio` to v1.53.3](https://github.com/getfloresta/Floresta/pull/1422) | 2026-10-25 | 2026-10-26 |
 | 1417 | ✅ merged | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) | 2026-10-24 | 2026-11-05 |

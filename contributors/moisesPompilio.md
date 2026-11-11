@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-10
+- Generated: 2026-11-11
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1457 | 🟢 open | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 |  |
 | 1437 | ✅ merged | 👀 reviewed | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
 | 1414 | ✅ merged | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) | 2026-10-22 | 2026-10-22 |
 | 1409 | ✅ merged | 👀 reviewed | [#1409 — fix rustls-webpki RUSTSEC-2026-0382](https://github.com/getfloresta/Floresta/pull/1409) | 2026-10-21 | 2026-10-21 |

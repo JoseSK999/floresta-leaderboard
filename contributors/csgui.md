@@ -1,7 +1,7 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-10
+- Generated: 2026-11-11
 
 ## Summary
 
@@ -30,6 +30,7 @@ Ordered newest first by PR number.
 | 1409 | ✅ merged | ✍️ author | [#1409 — fix rustls-webpki RUSTSEC-2026-0382](https://github.com/getfloresta/Floresta/pull/1409) | 2026-10-21 | 2026-10-21 |
 | 1408 | ✅ merged | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 | 2026-10-28 |
 | 1406 | ✅ merged | 👀 reviewed | [#1406 — fix: check proof before block](https://github.com/getfloresta/Floresta/pull/1406) | 2026-10-20 | 2026-10-21 |
+| 1404 | 🟢 open | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 |  |
 | 1399 | ✅ merged | 👀 reviewed | [#1399 — fix(watch-only): order cached transactions by height, position and txid](https://github.com/getfloresta/Floresta/pull/1399) | 2026-10-15 | 2026-10-15 |
 | 1395 | ✅ merged | 👀 reviewed | [#1395 — fix(deps): bump rustls to 0.23.46 and chacha20 to 0.10.2 (fixes cargo audit failures)](https://github.com/getfloresta/Floresta/pull/1395) | 2026-10-14 | 2026-10-14 |
 | 1393 | ✅ merged | 👀 reviewed | [#1393 — fix(chain): require a header's nBits to equal the required bits](https://github.com/getfloresta/Floresta/pull/1393) | 2026-10-14 | 2026-10-21 |
@@ -75,7 +76,7 @@ Ordered newest first by PR number.
 | 1254 | ✅ merged | 👀 reviewed | [#1254 — fix: check receiving addresses timestamp](https://github.com/getfloresta/Floresta/pull/1254) | 2026-08-07 | 2026-09-10 |
 | 1253 | 📝 draft | 👀 reviewed | [#1253 — feat(chain): block-based fee estimation via the block-subscriber port](https://github.com/getfloresta/Floresta/pull/1253) | 2026-08-07 |  |
 | 1252 | ✅ merged | 👀 reviewed | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
-| 1249 | 📝 draft | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
+| 1249 | 🟢 open | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
 | 1177 | ✅ merged | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
 | 1161 | ✅ merged | 👀 reviewed | [#1161 — feat(rpc): align getpeerinfo connection kinds with Core](https://github.com/getfloresta/Floresta/pull/1161) | 2026-06-26 | 2026-10-30 |

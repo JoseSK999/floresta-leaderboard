@@ -1,7 +1,7 @@
 # @lorenzolfm impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-10
+- Generated: 2026-11-11
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1458 | 🟢 open | ✍️ author | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) | 2026-11-10 |  |
 | 1457 | 🟢 open | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 |  |
 | 1450 | 🟢 open | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 |  |
 | 1417 | ✅ merged | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) | 2026-10-24 | 2026-11-05 |
