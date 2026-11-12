@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-11
+- Generated: 2026-11-12
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 784 |
-| 🎯 Merged PRs with my impact | 288 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 785 |
+| 🎯 Merged PRs with my impact | 289 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1457 | 🟢 open | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 |  |
+| 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1450 | 🟢 open | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 |  |
 | 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1440 | 📝 draft | ✍️ author | [#1440 — test: rerun failing functional tests up to 3 times](https://github.com/getfloresta/Floresta/pull/1440) | 2026-10-26 |  |
@@ -402,6 +402,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-11 | 1457 | ✅ yes | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | ✅ yes | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |
 | 2026-11-06 | 1454 | — no | — | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) |
 | 2026-11-05 | 1417 | ✅ yes | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) |
