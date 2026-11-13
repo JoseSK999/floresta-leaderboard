@@ -1,13 +1,13 @@
 # @Sandipmandal25 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-12
+- Generated: 2026-11-13
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 785 |
+| ✅ Project merged PRs | 786 |
 | 🎯 Merged PRs with my impact | 1 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 970 | 🟢 open | ✍️ author | [#970 — feat(wire): rename ConnectionKind::Regular to OutboundFullRelay, add BlockRelayOnly and AddrFetch](https://github.com/getfloresta/Floresta/pull/970) | 2026-04-19 |  |
+| 970 | ❌ closed | ✍️ author | [#970 — feat(wire): rename ConnectionKind::Regular to OutboundFullRelay, add BlockRelayOnly and AddrFetch](https://github.com/getfloresta/Floresta/pull/970) | 2026-04-19 | 2026-11-12 |
 | 936 | ❌ closed | 👀 reviewed | [#936 — fix: improve reorganization logic to defer reorg](https://github.com/getfloresta/Floresta/pull/936) | 2026-04-04 | 2026-05-19 |
 | 931 | ❌ closed | ✍️ author | [#931 —   fix(watch-only): make AddressCache::new fallible and replace panics with typed errors                                               ](https://github.com/getfloresta/Floresta/pull/931) | 2026-04-03 | 2026-08-02 |
 | 925 | ✅ merged | ✍️ author | [#925 — feat(chain): add ChainState::open() for load-or-create](https://github.com/getfloresta/Floresta/pull/925) | 2026-04-02 | 2026-04-16 |
@@ -30,6 +30,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1404 | — no | — | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | — no | — | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | — no | — | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |
 | 2026-11-06 | 1454 | — no | — | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) |

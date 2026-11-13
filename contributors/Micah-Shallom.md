@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-12
+- Generated: 2026-11-13
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 785 |
-| 🎯 Merged PRs with my impact | 27 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 786 |
+| 🎯 Merged PRs with my impact | 28 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -22,7 +22,7 @@ Ordered newest first by PR number.
 | 1447 | 📝 draft | ✍️ author | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
 | 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
-| 1404 | 🟢 open | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 |  |
+| 1404 | ✅ merged | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 | 2026-11-13 |
 | 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
 | 1369 | ✅ merged | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 | 2026-10-27 |
 | 1365 | 🟢 open | 👀 reviewed | [#1365 — perf(tests): reduce sleep time](https://github.com/getfloresta/Floresta/pull/1365) | 2026-10-08 |  |
@@ -83,6 +83,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1404 | ✅ yes | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | — no | — | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | — no | — | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |
 | 2026-11-06 | 1454 | — no | — | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) |

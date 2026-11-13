@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-12
+- Generated: 2026-11-13
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 785 |
-| 🎯 Merged PRs with my impact | 289 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 786 |
+| 🎯 Merged PRs with my impact | 290 |
+| 🔥 [Current impact streak](#all-merged-prs) | **3** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -30,6 +30,7 @@ Ordered newest first by PR number.
 | 1410 | ✅ merged | 👀 reviewed | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) | 2026-10-21 | 2026-10-22 |
 | 1408 | ✅ merged | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 | 2026-10-28 |
 | 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
+| 1404 | ✅ merged | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 | 2026-11-13 |
 | 1401 | ✅ merged | 👀 reviewed | [#1401 — fix(rpc): reject empty and duplicated txids in gettxoutproof](https://github.com/getfloresta/Floresta/pull/1401) | 2026-10-16 | 2026-10-19 |
 | 1393 | ✅ merged | 👀 reviewed | [#1393 — fix(chain): require a header's nBits to equal the required bits](https://github.com/getfloresta/Floresta/pull/1393) | 2026-10-14 | 2026-10-21 |
 | 1389 | ✅ merged | 👀 reviewed | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) | 2026-10-13 | 2026-10-19 |
@@ -402,6 +403,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1404 | ✅ yes | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | ✅ yes | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | ✅ yes | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |
 | 2026-11-06 | 1454 | — no | — | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) |
