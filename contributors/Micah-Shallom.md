@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-13
+- Generated: 2026-11-14
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 786 |
-| 🎯 Merged PRs with my impact | 28 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 787 |
+| 🎯 Merged PRs with my impact | 29 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,7 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
-| 1447 | 📝 draft | ✍️ author | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
+| 1447 | 🟢 open | ✍️ author | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
 | 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
 | 1404 | ✅ merged | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 | 2026-11-13 |
@@ -34,7 +34,7 @@ Ordered newest first by PR number.
 | 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1329 | ✅ merged | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 | 2026-10-13 |
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | ✅ merged | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 | 2026-11-13 |
 | 1293 | ✅ merged | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 | 2026-10-19 |
 | 1290 | ✅ merged | 👀 reviewed | [#1290 — chore(deps): replace sha2 and sha3 with bitcoin_hashes](https://github.com/getfloresta/Floresta/pull/1290) | 2026-08-26 | 2026-09-09 |
 | 1249 | 🟢 open | ✍️ author | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
@@ -83,6 +83,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1301 | ✅ yes | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
 | 2026-11-13 | 1404 | ✅ yes | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | — no | — | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | — no | — | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |

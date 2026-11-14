@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-13
+- Generated: 2026-11-14
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 786 |
-| 🎯 Merged PRs with my impact | 105 |
-| 🔥 [Current impact streak](#all-merged-prs) | **4** |
+| ✅ Project merged PRs | 787 |
+| 🎯 Merged PRs with my impact | 106 |
+| 🔥 [Current impact streak](#all-merged-prs) | **5** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -60,7 +60,7 @@ Ordered newest first by PR number.
 | 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
 | 1313 | ✅ merged | ✍️ author | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1305 | ✅ merged | ✍️ author | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | ✅ merged | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 | 2026-11-13 |
 | 1300 | ✅ merged | 👀 reviewed | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 | 2026-10-12 |
 | 1293 | ✅ merged | 👀 reviewed | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 | 2026-10-19 |
 | 1287 | ✅ merged | ✍️ author | [#1287 — add signet.seed.utreexo.net to signet DNS seeds](https://github.com/getfloresta/Floresta/pull/1287) | 2026-08-25 | 2026-08-26 |
@@ -90,6 +90,7 @@ Ordered newest first by PR number.
 | 1115 | ✅ merged | 👀 reviewed | [#1115 — feat: Assume-Valid SwiftSync with accumulator building](https://github.com/getfloresta/Floresta/pull/1115) | 2026-06-03 | 2026-10-15 |
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
+| 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
 | 1104 | ✅ merged | 👀 reviewed | [#1104 — Add ShellCheck to CI and fix audit findings](https://github.com/getfloresta/Floresta/pull/1104) | 2026-05-29 | 2026-06-05 |
 | 1095 | ✅ merged | 👀 reviewed | [#1095 — feat(chain)!: Use a more granular state machine for IBD](https://github.com/getfloresta/Floresta/pull/1095) | 2026-05-27 | 2026-06-17 |
 | 1091 | ✅ merged | 👀 reviewed | [#1091 — Add Electrum coverage and generate_blocks_and_sync helper](https://github.com/getfloresta/Floresta/pull/1091) | 2026-05-26 | 2026-09-09 |
@@ -147,6 +148,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1301 | ✅ yes | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
 | 2026-11-13 | 1404 | ✅ yes | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | ✅ yes | ✍️ author | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | ✅ yes | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |

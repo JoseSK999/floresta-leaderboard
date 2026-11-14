@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-13
+- Generated: 2026-11-14
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 786 |
-| 🎯 Merged PRs with my impact | 290 |
-| 🔥 [Current impact streak](#all-merged-prs) | **3** |
+| ✅ Project merged PRs | 787 |
+| 🎯 Merged PRs with my impact | 291 |
+| 🔥 [Current impact streak](#all-merged-prs) | **4** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -63,7 +63,7 @@ Ordered newest first by PR number.
 | 1313 | ✅ merged | 👀 reviewed | [#1313 — improve mempool initialization and transaction admission logging](https://github.com/getfloresta/Floresta/pull/1313) | 2026-09-06 | 2026-09-07 |
 | 1310 | 📝 draft | ✍️ author | [#1310 — [WIP] chain: acceptance test for block validation parity and ordering (fail-intended)](https://github.com/getfloresta/Floresta/pull/1310) | 2026-09-04 |  |
 | 1305 | ✅ merged | 👀 reviewed | [#1305 — update Mempool documentation to match the current implementation](https://github.com/getfloresta/Floresta/pull/1305) | 2026-09-03 | 2026-09-04 |
-| 1301 | 🟢 open | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 |  |
+| 1301 | ✅ merged | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) | 2026-09-02 | 2026-11-13 |
 | 1300 | ✅ merged | 👀 reviewed | [#1300 — fix(chain): enforce block-wide sigop cost limits](https://github.com/getfloresta/Floresta/pull/1300) | 2026-09-02 | 2026-10-12 |
 | 1296 | ✅ merged | 👀 reviewed | [#1296 — chore(deps): bump the all group with 8 updates](https://github.com/getfloresta/Floresta/pull/1296) | 2026-09-01 | 2026-09-01 |
 | 1295 | ✅ merged | 👀 reviewed | [#1295 — chore(deps): bump nixpkgs from `3426825` to `95ca1e2` in the all group](https://github.com/getfloresta/Floresta/pull/1295) | 2026-09-01 | 2026-09-01 |
@@ -403,6 +403,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-13 | 1301 | ✅ yes | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
 | 2026-11-13 | 1404 | ✅ yes | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | ✅ yes | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
 | 2026-11-06 | 1412 | ✅ yes | 👀 reviewed | [#1412 — fix(chain): Fix two potential consensus validation problems with PartialChainstate](https://github.com/getfloresta/Floresta/pull/1412) |
