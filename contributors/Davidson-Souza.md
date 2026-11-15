@@ -1,7 +1,7 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-14
+- Generated: 2026-11-15
 
 ## Summary
 
@@ -110,7 +110,7 @@ Ordered newest first by PR number.
 | 1219 | ✅ merged | 👀 reviewed | [#1219 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1219) | 2026-07-19 | 2026-07-21 |
 | 1218 | ✅ merged | 👀 reviewed | [#1218 — chore(deps): bump the all group with 2 updates](https://github.com/getfloresta/Floresta/pull/1218) | 2026-07-19 | 2026-07-21 |
 | 1217 | ✅ merged | 👀 reviewed | [#1217 — chore(deps): bump flake-parts from `0678d89` to `f7c1a2d` in the all group](https://github.com/getfloresta/Floresta/pull/1217) | 2026-07-19 | 2026-07-21 |
-| 1215 | 🟢 open | 👀 reviewed | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 |  |
+| 1215 | ❌ closed | 👀 reviewed | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 | 2026-11-14 |
 | 1213 | ✅ merged | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 | 2026-07-17 |
 | 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |

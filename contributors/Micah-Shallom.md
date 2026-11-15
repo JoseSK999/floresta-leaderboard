@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-14
+- Generated: 2026-11-15
 
 ## Summary
 
@@ -43,7 +43,7 @@ Ordered newest first by PR number.
 | 1231 | ✅ merged | 👀 reviewed | [#1231 — fuzz: add harness for p2p v2 network messages](https://github.com/getfloresta/Floresta/pull/1231) | 2026-07-26 | 2026-08-05 |
 | 1221 | 📝 draft | 👀 reviewed | [#1221 — feat(chain): implement block-based fee estimation](https://github.com/getfloresta/Floresta/pull/1221) | 2026-07-20 | 2026-08-07 |
 | 1220 | ✅ merged | ✍️ author | [#1220 — chain: surface chain-store warnings through getblockchaininfo](https://github.com/getfloresta/Floresta/pull/1220) | 2026-07-19 | 2026-08-27 |
-| 1215 | 🟢 open | ✍️ author | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 |  |
+| 1215 | ❌ closed | ✍️ author | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 | 2026-11-14 |
 | 1206 | 📝 draft | 👀 reviewed | [#1206 — feat: getchaintips as it is](https://github.com/getfloresta/Floresta/pull/1206) | 2026-07-14 |  |
 | 1177 | ✅ merged | 👀 reviewed | [#1177 — feat!: dynamically derive alternative tips](https://github.com/getfloresta/Floresta/pull/1177) | 2026-06-30 | 2026-08-26 |
 | 1135 | ✅ merged | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 | 2026-08-05 |
