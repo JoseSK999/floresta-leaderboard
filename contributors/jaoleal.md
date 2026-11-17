@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-16
+- Generated: 2026-11-17
 
 ## Summary
 
@@ -21,6 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1450 | 🟢 open | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 |  |
+| 1447 | 🟢 open | 👀 reviewed | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
 | 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1440 | 📝 draft | ✍️ author | [#1440 — test: rerun failing functional tests up to 3 times](https://github.com/getfloresta/Floresta/pull/1440) | 2026-10-26 |  |
 | 1437 | ✅ merged | ✍️ author | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
