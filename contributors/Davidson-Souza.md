@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-17
+- Generated: 2026-11-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 787 |
-| 🎯 Merged PRs with my impact | 684 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 789 |
+| 🎯 Merged PRs with my impact | 686 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1475 | ✅ merged | 👀 reviewed | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) | 2026-11-17 | 2026-11-17 |
 | 1458 | 🟢 open | 👀 reviewed | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) | 2026-11-10 |  |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1454 | ✅ merged | 👀 reviewed | [#1454 — fix(unit): make expected_blame function exhaustive](https://github.com/getfloresta/Floresta/pull/1454) | 2026-11-06 | 2026-11-06 |
@@ -166,7 +167,7 @@ Ordered newest first by PR number.
 | 1113 | ✅ merged | 👀 reviewed | [#1113 — fix: inconsitencies on gettxoutproof](https://github.com/getfloresta/Floresta/pull/1113) | 2026-06-02 | 2026-07-03 |
 | 1112 | ✅ merged | 👀 reviewed | [#1112 — fix(rpc): check block header exists before requesting blocks.](https://github.com/getfloresta/Floresta/pull/1112) | 2026-06-02 | 2026-06-02 |
 | 1106 | ✅ merged | 👀 reviewed | [#1106 — fix(chain): reject non-final block transactions](https://github.com/getfloresta/Floresta/pull/1106) | 2026-06-01 | 2026-08-06 |
-| 1105 | 🟢 open | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
+| 1105 | ✅ merged | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 | 2026-11-17 |
 | 1104 | ✅ merged | 👀 reviewed | [#1104 — Add ShellCheck to CI and fix audit findings](https://github.com/getfloresta/Floresta/pull/1104) | 2026-05-29 | 2026-06-05 |
 | 1102 | ✅ merged | 👀 reviewed | [#1102 — Remove `network` from `DnsSeed`](https://github.com/getfloresta/Floresta/pull/1102) | 2026-05-28 | 2026-06-01 |
 | 1097 | ✅ merged | 👀 reviewed | [#1097 — Pin all dependencies to the latest compatible patch version](https://github.com/getfloresta/Floresta/pull/1097) | 2026-05-27 | 2026-06-02 |
@@ -786,6 +787,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-17 | 1105 | ✅ yes | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) |
+| 2026-11-17 | 1475 | ✅ yes | 👀 reviewed | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) |
 | 2026-11-13 | 1301 | — no | — | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
 | 2026-11-13 | 1404 | — no | — | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | ✅ yes | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |

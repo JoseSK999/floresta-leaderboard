@@ -1,15 +1,15 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-17
+- Generated: 2026-11-18
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 787 |
-| 🎯 Merged PRs with my impact | 29 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| ✅ Project merged PRs | 789 |
+| 🎯 Merged PRs with my impact | 30 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -52,7 +52,7 @@ Ordered newest first by PR number.
 | 1118 | 📝 draft | 👀 reviewed | [#1118 — feat(rpc): getnodeaddresses](https://github.com/getfloresta/Floresta/pull/1118) | 2026-06-03 |  |
 | 1117 | 📝 draft | 👀 reviewed | [#1117 — feat: addpeeraddress rpc](https://github.com/getfloresta/Floresta/pull/1117) | 2026-06-03 |  |
 | 1114 | 📝 draft | 👀 reviewed | [#1114 — feat: add getaddednodeinfo rpc](https://github.com/getfloresta/Floresta/pull/1114) | 2026-06-02 |  |
-| 1105 | 🟢 open | ✍️ author | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 |  |
+| 1105 | ✅ merged | ✍️ author | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) | 2026-06-01 | 2026-11-17 |
 | 1085 | 📝 draft | 👀 reviewed | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |
 | 1071 | ✅ merged | ✍️ author | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1068 | ✅ merged | 👀 reviewed | [#1068 — feat(rpc): implement `getnetworkinfo`](https://github.com/getfloresta/Floresta/pull/1068) | 2026-05-16 | 2026-05-21 |
@@ -83,6 +83,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-17 | 1105 | ✅ yes | ✍️ author | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) |
+| 2026-11-17 | 1475 | — no | — | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) |
 | 2026-11-13 | 1301 | ✅ yes | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
 | 2026-11-13 | 1404 | ✅ yes | ✍️ author | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) |
 | 2026-11-11 | 1457 | — no | — | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) |
