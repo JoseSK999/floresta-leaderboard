@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-18
+- Generated: 2026-11-19
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 789 |
-| 🎯 Merged PRs with my impact | 292 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 790 |
+| 🎯 Merged PRs with my impact | 293 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -40,7 +40,7 @@ Ordered newest first by PR number.
 | 1382 | ✅ merged | 👀 reviewed | [#1382 — fix(electrum): take in new blocks while clients send requests](https://github.com/getfloresta/Floresta/pull/1382) | 2026-10-10 | 2026-10-22 |
 | 1376 | ✅ merged | 👀 reviewed | [#1376 — refactor(wire): separate block and proof error handling](https://github.com/getfloresta/Floresta/pull/1376) | 2026-10-09 | 2026-11-03 |
 | 1375 | ✅ merged | 👀 reviewed | [#1375 — refactor(chain): separate block structure and BIP34 validation](https://github.com/getfloresta/Floresta/pull/1375) | 2026-10-09 | 2026-11-02 |
-| 1372 | 🟢 open | 👀 reviewed | [#1372 — fix(wire): don't log dropped responders as errors](https://github.com/getfloresta/Floresta/pull/1372) | 2026-10-09 |  |
+| 1372 | ✅ merged | 👀 reviewed | [#1372 — fix(wire): don't log dropped responders as errors](https://github.com/getfloresta/Floresta/pull/1372) | 2026-10-09 | 2026-11-19 |
 | 1369 | ✅ merged | 👀 reviewed | [#1369 — fix(wallet): derive watch-only addresses past the first 100](https://github.com/getfloresta/Floresta/pull/1369) | 2026-10-09 | 2026-10-27 |
 | 1368 | ✅ merged | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) | 2026-10-09 | 2026-10-16 |
 | 1367 | ✅ merged | 👀 reviewed | [#1367 — remove unused get_required_services function](https://github.com/getfloresta/Floresta/pull/1367) | 2026-10-09 | 2026-10-09 |
@@ -405,6 +405,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-19 | 1372 | ✅ yes | 👀 reviewed | [#1372 — fix(wire): don't log dropped responders as errors](https://github.com/getfloresta/Floresta/pull/1372) |
 | 2026-11-17 | 1105 | ✅ yes | 👀 reviewed | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) |
 | 2026-11-17 | 1475 | — no | — | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) |
 | 2026-11-13 | 1301 | ✅ yes | 👀 reviewed | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |

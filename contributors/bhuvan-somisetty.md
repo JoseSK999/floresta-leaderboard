@@ -1,13 +1,13 @@
 # @bhuvan-somisetty impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-18
+- Generated: 2026-11-19
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 789 |
+| ✅ Project merged PRs | 790 |
 | 🎯 Merged PRs with my impact | 2 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -32,6 +32,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-19 | 1372 | — no | — | [#1372 — fix(wire): don't log dropped responders as errors](https://github.com/getfloresta/Floresta/pull/1372) |
 | 2026-11-17 | 1105 | — no | — | [#1105 — feat(rpc): implement JSON-RPC authentication](https://github.com/getfloresta/Floresta/pull/1105) |
 | 2026-11-17 | 1475 | — no | — | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) |
 | 2026-11-13 | 1301 | — no | — | [#1301 — feat(florestad): add flags to disable RPC, Electrum, and ZMQ servers](https://github.com/getfloresta/Floresta/pull/1301) |
