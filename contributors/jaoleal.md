@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-20
+- Generated: 2026-11-21
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 792 |
-| 🎯 Merged PRs with my impact | 295 |
-| 🔥 [Current impact streak](#all-merged-prs) | **4** |
+| ✅ Project merged PRs | 796 |
+| 🎯 Merged PRs with my impact | 296 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -151,7 +151,7 @@ Ordered newest first by PR number.
 | 1085 | 📝 draft | ✍️ author | [#1085 — [RPCSAGA] verifyutxochaintipinclusionproof rpc](https://github.com/getfloresta/Floresta/pull/1085) | 2026-05-25 |  |
 | 1080 | ✅ merged | 👀 reviewed | [#1080 — rpc/cli: use `PathBuf`](https://github.com/getfloresta/Floresta/pull/1080) | 2026-05-22 | 2026-05-26 |
 | 1078 | ✅ merged | 👀 reviewed | [#1078 — docs: Reword, clarify, format contributing.md](https://github.com/getfloresta/Floresta/pull/1078) | 2026-05-20 | 2026-05-25 |
-| 1075 | 🟢 open | 👀 reviewed | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) | 2026-05-19 |  |
+| 1075 | ✅ merged | 👀 reviewed | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) | 2026-05-19 | 2026-11-20 |
 | 1074 | ❌ closed | ✍️ author | [#1074 — Rpcsaga/impl getindexinfo](https://github.com/getfloresta/Floresta/pull/1074) | 2026-05-19 | 2026-05-19 |
 | 1071 | ✅ merged | 👀 reviewed | [#1071 — feat(rpc): implement getdeploymentinfo for buried deployments](https://github.com/getfloresta/Floresta/pull/1071) | 2026-05-18 | 2026-05-27 |
 | 1069 | 🟢 open | 👀 reviewed | [#1069 — feat(metrics): add a sample grafana dashboard](https://github.com/getfloresta/Floresta/pull/1069) | 2026-05-17 |  |
@@ -405,6 +405,10 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-20 | 1075 | ✅ yes | 👀 reviewed | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) |
+| 2026-11-20 | 1494 | — no | — | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) |
+| 2026-11-20 | 1378 | — no | — | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) |
+| 2026-11-20 | 1139 | — no | — | [#1139 — ci: Add multi-arch docker build with dual-registry push](https://github.com/getfloresta/Floresta/pull/1139) |
 | 2026-11-20 | 1458 | ✅ yes | 👀 reviewed | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) |
 | 2026-11-19 | 1450 | ✅ yes | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) |
 | 2026-11-19 | 1372 | ✅ yes | 👀 reviewed | [#1372 — fix(wire): don't log dropped responders as errors](https://github.com/getfloresta/Floresta/pull/1372) |
