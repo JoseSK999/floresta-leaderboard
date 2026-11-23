@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-22
+- Generated: 2026-11-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 796 |
-| 🎯 Merged PRs with my impact | 692 |
-| 🔥 [Current impact streak](#all-merged-prs) | **5** |
+| ✅ Project merged PRs | 798 |
+| 🎯 Merged PRs with my impact | 694 |
+| 🔥 [Current impact streak](#all-merged-prs) | **7** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,9 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1500 | 📝 draft | 👀 reviewed | [#1500 — update mainnet checkpoint to block 976679](https://github.com/getfloresta/Floresta/pull/1500) | 2026-11-23 |  |
+| 1499 | 🟢 open | ✍️ author | [#1499 — refactor(domain): move node interface into domain](https://github.com/getfloresta/Floresta/pull/1499) | 2026-11-23 |  |
+| 1495 | ✅ merged | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) | 2026-11-22 | 2026-11-23 |
 | 1494 | ✅ merged | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) | 2026-11-20 | 2026-11-20 |
 | 1482 | 🟢 open | 👀 reviewed | [#1482 — fix(rpc): read only the first line of the cookie file](https://github.com/getfloresta/Floresta/pull/1482) | 2026-11-18 |  |
 | 1475 | ✅ merged | 👀 reviewed | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) | 2026-11-17 | 2026-11-17 |
@@ -118,7 +121,7 @@ Ordered newest first by PR number.
 | 1217 | ✅ merged | 👀 reviewed | [#1217 — chore(deps): bump flake-parts from `0678d89` to `f7c1a2d` in the all group](https://github.com/getfloresta/Floresta/pull/1217) | 2026-07-19 | 2026-07-21 |
 | 1215 | ❌ closed | 👀 reviewed | [#1215 — fix(wire): keep IBD active when validation catches up to a stale tip](https://github.com/getfloresta/Floresta/pull/1215) | 2026-07-18 | 2026-11-14 |
 | 1213 | ✅ merged | 👀 reviewed | [#1213 — bump hashbrown 0.17.0 -> 0.17.1](https://github.com/getfloresta/Floresta/pull/1213) | 2026-07-16 | 2026-07-17 |
-| 1212 | 🟢 open | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 |  |
+| 1212 | ✅ merged | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) | 2026-07-15 | 2026-11-23 |
 | 1211 | ✅ merged | 👀 reviewed | [#1211 — chore(consensus): use same param defaults as Core](https://github.com/getfloresta/Floresta/pull/1211) | 2026-07-15 | 2026-07-15 |
 | 1210 | ✅ merged | 👀 reviewed | [#1210 — feat(rpc) add Core-style getpeerinfo service fields](https://github.com/getfloresta/Floresta/pull/1210) | 2026-07-15 | 2026-07-17 |
 | 1209 | ✅ merged | 👀 reviewed | [#1209 — fix: replace yanked spin 0.10.0 with 0.10.1](https://github.com/getfloresta/Floresta/pull/1209) | 2026-07-15 | 2026-07-15 |
@@ -792,6 +795,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-23 | 1495 | ✅ yes | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) |
+| 2026-11-23 | 1212 | ✅ yes | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) |
 | 2026-11-20 | 1075 | ✅ yes | 👀 reviewed | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) |
 | 2026-11-20 | 1494 | ✅ yes | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) |
 | 2026-11-20 | 1378 | ✅ yes | 👀 reviewed | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) |

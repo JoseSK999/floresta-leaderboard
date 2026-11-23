@@ -1,13 +1,13 @@
 # @CapThunder19 impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-22
+- Generated: 2026-11-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 796 |
+| ✅ Project merged PRs | 798 |
 | 🎯 Merged PRs with my impact | 2 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1497 | 🟢 open | ✍️ author | [#1497 — fix(rpc): return validated height in getblockcount](https://github.com/getfloresta/Floresta/pull/1497) | 2026-11-23 |  |
 | 1293 | ✅ merged | ✍️ author | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) | 2026-08-30 | 2026-10-19 |
 | 1259 | ✅ merged | ✍️ author | [#1259 — fix(rpc): addnode now reports failures instead of always returning su…](https://github.com/getfloresta/Floresta/pull/1259) | 2026-08-10 | 2026-08-21 |
 | 1244 | ❌ closed | ✍️ author | [#1244 — fix(rpc): addnode now returns the actual error instead of always reporting success](https://github.com/getfloresta/Floresta/pull/1244) | 2026-08-03 | 2026-08-03 |
@@ -29,6 +30,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-23 | 1495 | — no | — | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) |
+| 2026-11-23 | 1212 | — no | — | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) |
 | 2026-11-20 | 1075 | — no | — | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) |
 | 2026-11-20 | 1494 | — no | — | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) |
 | 2026-11-20 | 1378 | — no | — | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) |

@@ -1,15 +1,15 @@
 # @csgui impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-22
+- Generated: 2026-11-23
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 796 |
-| 🎯 Merged PRs with my impact | 113 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 798 |
+| 🎯 Merged PRs with my impact | 114 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,8 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1500 | 📝 draft | ✍️ author | [#1500 — update mainnet checkpoint to block 976679](https://github.com/getfloresta/Floresta/pull/1500) | 2026-11-23 |  |
+| 1495 | ✅ merged | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) | 2026-11-22 | 2026-11-23 |
 | 1494 | ✅ merged | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) | 2026-11-20 | 2026-11-20 |
 | 1475 | ✅ merged | ✍️ author | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) | 2026-11-17 | 2026-11-17 |
 | 1457 | ✅ merged | ✍️ author | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
@@ -153,6 +155,8 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-23 | 1495 | ✅ yes | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) |
+| 2026-11-23 | 1212 | — no | — | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) |
 | 2026-11-20 | 1075 | — no | — | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) |
 | 2026-11-20 | 1494 | ✅ yes | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) |
 | 2026-11-20 | 1378 | ✅ yes | 👀 reviewed | [#1378 — refactor(wire): validate block structure before requesting Utreexo proofs](https://github.com/getfloresta/Floresta/pull/1378) |
