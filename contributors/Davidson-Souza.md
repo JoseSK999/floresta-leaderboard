@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-23
+- Generated: 2026-11-24
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 798 |
-| 🎯 Merged PRs with my impact | 694 |
-| 🔥 [Current impact streak](#all-merged-prs) | **7** |
+| ✅ Project merged PRs | 803 |
+| 🎯 Merged PRs with my impact | 699 |
+| 🔥 [Current impact streak](#all-merged-prs) | **12** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -19,6 +19,11 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1510 | ✅ merged | 👀 reviewed | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) | 2026-11-23 | 2026-11-24 |
+| 1505 | ✅ merged | 👀 reviewed | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) | 2026-11-23 | 2026-11-23 |
+| 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
+| 1503 | ✅ merged | 👀 reviewed | [#1503 — update roots, leaves and hashes for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1503) | 2026-11-23 | 2026-11-23 |
+| 1502 | ✅ merged | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) | 2026-11-23 | 2026-11-23 |
 | 1500 | 📝 draft | 👀 reviewed | [#1500 — update mainnet checkpoint to block 976679](https://github.com/getfloresta/Floresta/pull/1500) | 2026-11-23 |  |
 | 1499 | 🟢 open | ✍️ author | [#1499 — refactor(domain): move node interface into domain](https://github.com/getfloresta/Floresta/pull/1499) | 2026-11-23 |  |
 | 1495 | ✅ merged | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) | 2026-11-22 | 2026-11-23 |
@@ -102,6 +107,7 @@ Ordered newest first by PR number.
 | 1252 | ✅ merged | ✍️ author | [#1252 — fuzz: add transport fuzz](https://github.com/getfloresta/Floresta/pull/1252) | 2026-08-07 | 2026-10-06 |
 | 1251 | 🟢 open | 👀 reviewed | [#1251 — fix(rpc): findtxout inconsistencies and tests ](https://github.com/getfloresta/Floresta/pull/1251) | 2026-08-06 |  |
 | 1250 | ✅ merged | 👀 reviewed | [#1250 — fix(mempool): Avoid panic on empty block template](https://github.com/getfloresta/Floresta/pull/1250) | 2026-08-06 | 2026-08-06 |
+| 1249 | 🟢 open | 👀 reviewed | [#1249 — wire: implement headers pre-sync to guard against disk-fill DoS](https://github.com/getfloresta/Floresta/pull/1249) | 2026-08-06 |  |
 | 1248 | ✅ merged | 👀 reviewed | [#1248 — Add Security Policy section on README.md](https://github.com/getfloresta/Floresta/pull/1248) | 2026-08-05 | 2026-08-06 |
 | 1247 | 📝 draft | 👀 reviewed | [#1247 — docs(rpc): add findtxout endpoint documentation](https://github.com/getfloresta/Floresta/pull/1247) | 2026-08-05 |  |
 | 1246 | ❌ closed | 👀 reviewed | [#1246 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1246) | 2026-08-05 | 2026-10-21 |
@@ -795,6 +801,11 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-24 | 1510 | ✅ yes | 👀 reviewed | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
+| 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |
+| 2026-11-23 | 1505 | ✅ yes | 👀 reviewed | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) |
+| 2026-11-23 | 1503 | ✅ yes | 👀 reviewed | [#1503 — update roots, leaves and hashes for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1503) |
+| 2026-11-23 | 1502 | ✅ yes | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) |
 | 2026-11-23 | 1495 | ✅ yes | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) |
 | 2026-11-23 | 1212 | ✅ yes | 👀 reviewed | [#1212 — Update RPC compatibility to Bitcoin Core 31.0](https://github.com/getfloresta/Floresta/pull/1212) |
 | 2026-11-20 | 1075 | ✅ yes | 👀 reviewed | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) |
