@@ -1,7 +1,7 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-24
+- Generated: 2026-11-25
 
 ## Summary
 
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 803 |
 | 🎯 Merged PRs with my impact | 151 |
-| 🔥 [Current impact streak](#all-merged-prs) | **2** |
+| 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -24,7 +24,6 @@ Ordered newest first by PR number.
 | 1494 | ✅ merged | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) | 2026-11-20 | 2026-11-20 |
 | 1475 | ✅ merged | 👀 reviewed | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) | 2026-11-17 | 2026-11-17 |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
-| 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1437 | ✅ merged | 👀 reviewed | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
 | 1414 | ✅ merged | 👀 reviewed | [#1414 — add missing MTP lookup to proof regression tests](https://github.com/getfloresta/Floresta/pull/1414) | 2026-10-22 | 2026-10-22 |
 | 1409 | ✅ merged | 👀 reviewed | [#1409 — fix rustls-webpki RUSTSEC-2026-0382](https://github.com/getfloresta/Floresta/pull/1409) | 2026-10-21 | 2026-10-21 |
@@ -214,6 +213,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-25 | 1501 | — no | — | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | ✅ yes | ✍️ author | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |
 | 2026-11-23 | 1505 | — no | — | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) |
@@ -254,7 +254,6 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-10-19 | 1389 | — no | — | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) |
 | 2026-10-19 | 1383 | — no | — | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) |
 | 2026-10-19 | 1380 | — no | — | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) |
-| 2026-10-19 | 1401 | — no | — | [#1401 — fix(rpc): reject empty and duplicated txids in gettxoutproof](https://github.com/getfloresta/Floresta/pull/1401) |
 | 2026-10-19 | 1293 | — no | — | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) |
 | 2026-10-19 | 1377 | ✅ yes | ✍️ author | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | — no | — | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |

@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-24
+- Generated: 2026-11-25
 
 ## Summary
 
@@ -9,7 +9,7 @@
 |---|---:|
 | ✅ Project merged PRs | 803 |
 | 🎯 Merged PRs with my impact | 300 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -22,11 +22,11 @@ Ordered newest first by PR number.
 | 1505 | ✅ merged | ✍️ author | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) | 2026-11-23 | 2026-11-23 |
 | 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
 | 1502 | ✅ merged | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) | 2026-11-23 | 2026-11-23 |
+| 1501 | ✅ merged | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) | 2026-11-23 | 2026-11-25 |
 | 1458 | ✅ merged | 👀 reviewed | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) | 2026-11-10 | 2026-11-20 |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1450 | ✅ merged | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 | 2026-11-19 |
 | 1447 | 🟢 open | 👀 reviewed | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
-| 1443 | 🟢 open | 👀 reviewed | [#1443 — fix(watch-only): don't count a cached utxo twice](https://github.com/getfloresta/Floresta/pull/1443) | 2026-10-28 |  |
 | 1440 | 📝 draft | ✍️ author | [#1440 — test: rerun failing functional tests up to 3 times](https://github.com/getfloresta/Floresta/pull/1440) | 2026-10-26 |  |
 | 1437 | ✅ merged | ✍️ author | [#1437 — chore(deps): bump zstd to v0.14.3](https://github.com/getfloresta/Floresta/pull/1437) | 2026-10-26 | 2026-10-26 |
 | 1417 | ✅ merged | 👀 reviewed | [#1417 — fix(chain): reject headers whose version is too old for their height](https://github.com/getfloresta/Floresta/pull/1417) | 2026-10-24 | 2026-11-05 |
@@ -34,9 +34,7 @@ Ordered newest first by PR number.
 | 1411 | ✅ merged | 👀 reviewed | [#1411 — docs: explain how to Swift Sync](https://github.com/getfloresta/Floresta/pull/1411) | 2026-10-21 | 2026-10-21 |
 | 1410 | ✅ merged | 👀 reviewed | [#1410 — feat(consensus): enforce BIP68 relative lock-time during block validation](https://github.com/getfloresta/Floresta/pull/1410) | 2026-10-21 | 2026-10-22 |
 | 1408 | ✅ merged | 👀 reviewed | [#1408 — fix(electrum): avoid unwrap in listunspent](https://github.com/getfloresta/Floresta/pull/1408) | 2026-10-20 | 2026-10-28 |
-| 1405 | 🟢 open | 👀 reviewed | [#1405 — fix(metrics): use per-network default port and add --metrics-address](https://github.com/getfloresta/Floresta/pull/1405) | 2026-10-20 |  |
 | 1404 | ✅ merged | 👀 reviewed | [#1404 — feat(florestad): log to a file by default](https://github.com/getfloresta/Floresta/pull/1404) | 2026-10-19 | 2026-11-13 |
-| 1401 | ✅ merged | 👀 reviewed | [#1401 — fix(rpc): reject empty and duplicated txids in gettxoutproof](https://github.com/getfloresta/Floresta/pull/1401) | 2026-10-16 | 2026-10-19 |
 | 1393 | ✅ merged | 👀 reviewed | [#1393 — fix(chain): require a header's nBits to equal the required bits](https://github.com/getfloresta/Floresta/pull/1393) | 2026-10-14 | 2026-10-21 |
 | 1389 | ✅ merged | 👀 reviewed | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) | 2026-10-13 | 2026-10-19 |
 | 1383 | ✅ merged | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) | 2026-10-10 | 2026-10-19 |
@@ -408,6 +406,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-25 | 1501 | ✅ yes | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | — no | — | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |
 | 2026-11-23 | 1505 | ✅ yes | ✍️ author | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) |
@@ -448,7 +447,6 @@ Ordered newest merged first, because this is the order used for the streak.
 | 2026-10-19 | 1389 | ✅ yes | 👀 reviewed | [#1389 — fix(wire): check the order in which outputs are created and spent inside a block](https://github.com/getfloresta/Floresta/pull/1389) |
 | 2026-10-19 | 1383 | ✅ yes | 👀 reviewed | [#1383 — fix(tests): time out Electrum requests after 30 seconds](https://github.com/getfloresta/Floresta/pull/1383) |
 | 2026-10-19 | 1380 | — no | — | [#1380 — fix(electrum): report the protocol version the server negotiates](https://github.com/getfloresta/Floresta/pull/1380) |
-| 2026-10-19 | 1401 | ✅ yes | 👀 reviewed | [#1401 — fix(rpc): reject empty and duplicated txids in gettxoutproof](https://github.com/getfloresta/Floresta/pull/1401) |
 | 2026-10-19 | 1293 | — no | — | [#1293 — fix(filters): start iterating at the requested height](https://github.com/getfloresta/Floresta/pull/1293) |
 | 2026-10-19 | 1377 | — no | — | [#1377 — test(chain): add unit tests for Consensus::get_bip34_height](https://github.com/getfloresta/Floresta/pull/1377) |
 | 2026-10-16 | 1368 | ✅ yes | 👀 reviewed | [#1368 — fix(chain): match Core's testnet min-difficulty rule](https://github.com/getfloresta/Floresta/pull/1368) |
