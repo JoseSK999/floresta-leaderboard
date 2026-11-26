@@ -1,7 +1,7 @@
 # @Vedd-Patel impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-25
+- Generated: 2026-11-26
 
 ## Summary
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1163 | ✅ merged | 👀 reviewed | [#1163 — Move wallet errors to floresta-domain](https://github.com/getfloresta/Floresta/pull/1163) | 2026-06-26 | 2026-10-13 |
 | 1144 | 📝 draft | ✍️ author | [#1144 — build: configure workspace error-handling lints as a status board](https://github.com/getfloresta/Floresta/pull/1144) | 2026-06-24 |  |
-| 1133 | 🟢 open | ✍️ author | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
+| 1133 | 🟢 open | ✍️ author | [#1133 — refactor(chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1075 | ✅ merged | ✍️ author | [#1075 — refactor(floresta-chain): apply strict error handling in flat_chain_store](https://github.com/getfloresta/Floresta/pull/1075) | 2026-05-19 | 2026-11-20 |
 | 1040 | ❌ closed | ✍️ author | [#1040 — ci: run build and test for each commit in pushed range](https://github.com/getfloresta/Floresta/pull/1040) | 2026-05-08 | 2026-05-29 |
 | 926 | 🟢 open | 👀 reviewed | [#926 — feat(wire): implement BanMan and make it single source of truth for bans](https://github.com/getfloresta/Floresta/pull/926) | 2026-04-02 |  |

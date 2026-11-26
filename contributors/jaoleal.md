@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-25
+- Generated: 2026-11-26
 
 ## Summary
 
@@ -23,6 +23,7 @@ Ordered newest first by PR number.
 | 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
 | 1502 | ✅ merged | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) | 2026-11-23 | 2026-11-23 |
 | 1501 | ✅ merged | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) | 2026-11-23 | 2026-11-25 |
+| 1496 | 🟢 open | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 |  |
 | 1458 | ✅ merged | 👀 reviewed | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) | 2026-11-10 | 2026-11-20 |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1450 | ✅ merged | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 | 2026-11-19 |
@@ -128,7 +129,7 @@ Ordered newest first by PR number.
 | 1142 | ✅ merged | 👀 reviewed | [#1142 — Add dependabot](https://github.com/getfloresta/Floresta/pull/1142) | 2026-06-23 | 2026-06-24 |
 | 1138 | 📝 draft | ✍️ author | [#1138 — Wip POC: Centralize trait and types rpc](https://github.com/getfloresta/Floresta/pull/1138) | 2026-06-19 | 2026-07-15 |
 | 1135 | ✅ merged | 👀 reviewed | [#1135 — Split node logs into separate files](https://github.com/getfloresta/Floresta/pull/1135) | 2026-06-19 | 2026-08-05 |
-| 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(floresta-chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
+| 1133 | 🟢 open | 👀 reviewed | [#1133 — refactor(chain): apply strict error handling in chain_state](https://github.com/getfloresta/Floresta/pull/1133) | 2026-06-16 |  |
 | 1131 | ✅ merged | 👀 reviewed | [#1131 — Drop `thiserror`](https://github.com/getfloresta/Floresta/pull/1131) | 2026-06-14 | 2026-06-15 |
 | 1129 | ✅ merged | 👀 reviewed | [#1129 — chore: bump bitcoinkernel](https://github.com/getfloresta/Floresta/pull/1129) | 2026-06-12 | 2026-06-15 |
 | 1127 | ✅ merged | ✍️ author | [#1127 — fix: remove unused UserRequest on wire](https://github.com/getfloresta/Floresta/pull/1127) | 2026-06-09 | 2026-06-11 |
