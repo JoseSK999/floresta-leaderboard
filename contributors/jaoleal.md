@@ -1,7 +1,7 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-26
+- Generated: 2026-11-27
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1517 | 🟢 open | 👀 reviewed | [#1517 — test(functional): fix flaky auth slot timing in rpc_auth](https://github.com/getfloresta/Floresta/pull/1517) | 2026-11-26 |  |
 | 1505 | ✅ merged | ✍️ author | [#1505 — docs(chain): drop the stale heights from the get_assume_valid doc](https://github.com/getfloresta/Floresta/pull/1505) | 2026-11-23 | 2026-11-23 |
 | 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
 | 1502 | ✅ merged | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) | 2026-11-23 | 2026-11-23 |

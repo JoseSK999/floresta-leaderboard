@@ -1,7 +1,7 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-26
+- Generated: 2026-11-27
 
 ## Summary
 
@@ -19,6 +19,7 @@ Ordered newest first by PR number.
 
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
+| 1517 | 🟢 open | ✍️ author | [#1517 — test(functional): fix flaky auth slot timing in rpc_auth](https://github.com/getfloresta/Floresta/pull/1517) | 2026-11-26 |  |
 | 1486 | 🟢 open | ✍️ author | [#1486 — fix(chain): reindex on startup when headers outlive the saved height](https://github.com/getfloresta/Floresta/pull/1486) | 2026-11-19 |  |
 | 1482 | 🟢 open | ✍️ author | [#1482 — fix(rpc): read only the first line of the cookie file](https://github.com/getfloresta/Floresta/pull/1482) | 2026-11-18 |  |
 | 1447 | 🟢 open | ✍️ author | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
