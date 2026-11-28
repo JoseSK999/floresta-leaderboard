@@ -1,15 +1,15 @@
 # @Davidson-Souza impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-27
+- Generated: 2026-11-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 803 |
-| 🎯 Merged PRs with my impact | 699 |
-| 🔥 [Current impact streak](#all-merged-prs) | **13** |
+| ✅ Project merged PRs | 804 |
+| 🎯 Merged PRs with my impact | 700 |
+| 🔥 [Current impact streak](#all-merged-prs) | **14** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -27,6 +27,7 @@ Ordered newest first by PR number.
 | 1501 | ✅ merged | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) | 2026-11-23 | 2026-11-25 |
 | 1500 | 📝 draft | 👀 reviewed | [#1500 — update mainnet checkpoint to block 976679](https://github.com/getfloresta/Floresta/pull/1500) | 2026-11-23 |  |
 | 1499 | 🟢 open | ✍️ author | [#1499 — refactor(domain): move node interface into domain](https://github.com/getfloresta/Floresta/pull/1499) | 2026-11-23 |  |
+| 1496 | ✅ merged | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 | 2026-11-27 |
 | 1495 | ✅ merged | 👀 reviewed | [#1495 — fix(deps): bump url to v2.5.9](https://github.com/getfloresta/Floresta/pull/1495) | 2026-11-22 | 2026-11-23 |
 | 1494 | ✅ merged | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) | 2026-11-20 | 2026-11-20 |
 | 1482 | 🟢 open | 👀 reviewed | [#1482 — fix(rpc): read only the first line of the cookie file](https://github.com/getfloresta/Floresta/pull/1482) | 2026-11-18 |  |
@@ -69,6 +70,7 @@ Ordered newest first by PR number.
 | 1331 | ✅ merged | 👀 reviewed | [#1331 — fix(wire): fix peer latency samples and disconnect on timeouts ](https://github.com/getfloresta/Floresta/pull/1331) | 2026-09-13 | 2026-09-29 |
 | 1329 | ✅ merged | 👀 reviewed | [#1329 — fix(wire): pass LocalAddress to dump_utreexo_peers to fix empty anchors](https://github.com/getfloresta/Floresta/pull/1329) | 2026-09-12 | 2026-10-13 |
 | 1328 | 🟢 open | ✍️ author | [#1328 — feat: implement BIP-325 consensus and P2P rules](https://github.com/getfloresta/Floresta/pull/1328) | 2026-09-11 |  |
+| 1327 | 🟢 open | 👀 reviewed | [#1327 — fix(chain): drop the assumeutreexo assumption when a reorg makes it wrong](https://github.com/getfloresta/Floresta/pull/1327) | 2026-09-10 |  |
 | 1325 | ✅ merged | 👀 reviewed | [#1325 — fix(chain): save the assumed roots at the assumed block](https://github.com/getfloresta/Floresta/pull/1325) | 2026-09-10 | 2026-09-16 |
 | 1320 | ✅ merged | 👀 reviewed | [#1320 — fix(chain): take the reorg accumulator from the validation index](https://github.com/getfloresta/Floresta/pull/1320) | 2026-09-09 | 2026-09-14 |
 | 1318 | ✅ merged | 👀 reviewed | [#1318 — fix(chain): publish the reorg tip and accumulator together](https://github.com/getfloresta/Floresta/pull/1318) | 2026-09-08 | 2026-09-08 |
@@ -801,6 +803,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-27 | 1496 | ✅ yes | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) |
 | 2026-11-25 | 1501 | ✅ yes | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | ✅ yes | 👀 reviewed | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |

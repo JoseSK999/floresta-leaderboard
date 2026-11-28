@@ -1,15 +1,15 @@
 # @moisesPompilio impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-27
+- Generated: 2026-11-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 803 |
-| 🎯 Merged PRs with my impact | 151 |
-| 🔥 [Current impact streak](#all-merged-prs) | **0** |
+| ✅ Project merged PRs | 804 |
+| 🎯 Merged PRs with my impact | 152 |
+| 🔥 [Current impact streak](#all-merged-prs) | **1** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -21,7 +21,7 @@ Ordered newest first by PR number.
 |---:|---|---|---|---|---|
 | 1510 | ✅ merged | ✍️ author | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) | 2026-11-23 | 2026-11-24 |
 | 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
-| 1496 | 🟢 open | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 |  |
+| 1496 | ✅ merged | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 | 2026-11-27 |
 | 1494 | ✅ merged | 👀 reviewed | [#1494 — fix(ci): lowercase DockerHub image fallback](https://github.com/getfloresta/Floresta/pull/1494) | 2026-11-20 | 2026-11-20 |
 | 1475 | ✅ merged | 👀 reviewed | [#1475 — Update rustix to 1.1.6](https://github.com/getfloresta/Floresta/pull/1475) | 2026-11-17 | 2026-11-17 |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
@@ -214,6 +214,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-27 | 1496 | ✅ yes | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) |
 | 2026-11-25 | 1501 | — no | — | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | ✅ yes | ✍️ author | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |

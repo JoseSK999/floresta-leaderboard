@@ -1,15 +1,15 @@
 # @jaoleal impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-27
+- Generated: 2026-11-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 803 |
-| 🎯 Merged PRs with my impact | 300 |
-| 🔥 [Current impact streak](#all-merged-prs) | **1** |
+| ✅ Project merged PRs | 804 |
+| 🎯 Merged PRs with my impact | 301 |
+| 🔥 [Current impact streak](#all-merged-prs) | **2** |
 
 > Streak definition: starting from the newest merged PR, count consecutive merged PRs that were authored or reviewed by me. The streak stops at the first merged PR without my impact.
 
@@ -24,7 +24,7 @@ Ordered newest first by PR number.
 | 1504 | ✅ merged | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) | 2026-11-23 | 2026-11-23 |
 | 1502 | ✅ merged | 👀 reviewed | [#1502 — fix RUSTSEC-2026-0542](https://github.com/getfloresta/Floresta/pull/1502) | 2026-11-23 | 2026-11-23 |
 | 1501 | ✅ merged | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) | 2026-11-23 | 2026-11-25 |
-| 1496 | 🟢 open | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 |  |
+| 1496 | ✅ merged | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) | 2026-11-22 | 2026-11-27 |
 | 1458 | ✅ merged | 👀 reviewed | [#1458 — chore(chain,wire): lower three per-message debug logs to trace](https://github.com/getfloresta/Floresta/pull/1458) | 2026-11-10 | 2026-11-20 |
 | 1457 | ✅ merged | 👀 reviewed | [#1457 — update CONTRIBUTING.md](https://github.com/getfloresta/Floresta/pull/1457) | 2026-11-09 | 2026-11-11 |
 | 1450 | ✅ merged | 👀 reviewed | [#1450 — refactor(wire): serialize ConnectionKind via as_str](https://github.com/getfloresta/Floresta/pull/1450) | 2026-11-04 | 2026-11-19 |
@@ -408,6 +408,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-27 | 1496 | ✅ yes | 👀 reviewed | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) |
 | 2026-11-25 | 1501 | ✅ yes | 👀 reviewed | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | — no | — | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | ✅ yes | 👀 reviewed | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |

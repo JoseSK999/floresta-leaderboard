@@ -1,13 +1,13 @@
 # @Micah-Shallom impact report
 
 - Repository: [`getfloresta/Floresta`](https://github.com/getfloresta/Floresta)
-- Generated: 2026-11-27
+- Generated: 2026-11-28
 
 ## Summary
 
 | Metric | Count |
 |---|---:|
-| ✅ Project merged PRs | 803 |
+| ✅ Project merged PRs | 804 |
 | 🎯 Merged PRs with my impact | 30 |
 | 🔥 [Current impact streak](#all-merged-prs) | **0** |
 
@@ -20,6 +20,7 @@ Ordered newest first by PR number.
 | # | Status | Relation | PR | Created | Closed / merged |
 |---:|---|---|---|---|---|
 | 1517 | 🟢 open | ✍️ author | [#1517 — test(functional): fix flaky auth slot timing in rpc_auth](https://github.com/getfloresta/Floresta/pull/1517) | 2026-11-26 |  |
+| 1499 | 🟢 open | 👀 reviewed | [#1499 — refactor(domain): move node interface into domain](https://github.com/getfloresta/Floresta/pull/1499) | 2026-11-23 |  |
 | 1486 | 🟢 open | ✍️ author | [#1486 — fix(chain): reindex on startup when headers outlive the saved height](https://github.com/getfloresta/Floresta/pull/1486) | 2026-11-19 |  |
 | 1482 | 🟢 open | ✍️ author | [#1482 — fix(rpc): read only the first line of the cookie file](https://github.com/getfloresta/Floresta/pull/1482) | 2026-11-18 |  |
 | 1447 | 🟢 open | ✍️ author | [#1447 — feat(florestad): trim the log file on startup](https://github.com/getfloresta/Floresta/pull/1447) | 2026-10-29 |  |
@@ -85,6 +86,7 @@ Ordered newest merged first, because this is the order used for the streak.
 
 | Merged | # | My attention? | Relation | PR |
 |---|---:|---|---|---|
+| 2026-11-27 | 1496 | — no | — | [#1496 — fix(rpc)!: align current getpeerinfo fields with Core](https://github.com/getfloresta/Floresta/pull/1496) |
 | 2026-11-25 | 1501 | — no | — | [#1501 — feat(chain): build floresta-chain for no_std targets](https://github.com/getfloresta/Floresta/pull/1501) |
 | 2026-11-24 | 1510 | — no | — | [#1510 — chore(deps): replace unmaintained chrono with jiff](https://github.com/getfloresta/Floresta/pull/1510) |
 | 2026-11-23 | 1504 | — no | — | [#1504 — bump crates version for release 0.10.0](https://github.com/getfloresta/Floresta/pull/1504) |
